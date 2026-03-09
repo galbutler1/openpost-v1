@@ -1,0 +1,21 @@
+=== 25. C-1Ay8QpmbF ===
+Upload date : 20240818
+Views       : 2,445
+Likes       : 202
+Comments    : 23
+Reposts     : 0
+
+Transcript:
+For me the hardest part about entrepreneurship is not knowing if the current thing I'm working on is on the path of success or failure But what I've learned is that both paths lead to the same place They both build your character Money comes and goes but character sticks with you It doesn't matter what you're working on you're on the right path Just keep working See you in the next one Peace
+
+Segments (5):
+  [hook] 0.0s-7.2s | visual_type=outdoor | quality=97.8 | reusability=none | energy=medium | sentiment=neutral
+    "For me the hardest part about entrepreneurship is not knowing if the current thing I'm working on is on the path of succ"
+  [body] 7.2s-10.5s | visual_type=text-overlay-only | quality=97.9 | reusability=medium | energy=medium | sentiment=neutral
+    "But what I've learned is that both paths lead to the same place"
+  [body] 10.5s-15.7s | visual_type=text-overlay-only | quality=95.6 | reusability=medium | energy=medium | sentiment=positive
+    "They both build your character Money comes and goes but character sticks with you"
+  [body] 15.7s-19.5s | visual_type=text-overlay-only | quality=94.6 | reusability=medium | energy=medium | sentiment=positive
+    "It doesn't matter what you're working on you're on the right path Just keep working"
+  [cta] 19.5s-22.6s | visual_type=text-overlay-only | quality=73.3 | reusability=medium | energy=medium | sentiment=positive
+    "See you in the next one Peace"

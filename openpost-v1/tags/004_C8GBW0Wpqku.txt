@@ -1,0 +1,14 @@
+=== 4. C8GBW0Wpqku ===
+Upload date : 20240611
+Views       : 26,157
+Likes       : 852
+Comments    : 46
+Reposts     : 0
+
+Transcript:
+Thanks for watching
+
+Segments (2):
+  [hook] 0.0s-3.6s | visual_type=text-overlay-only | quality=83.1 | reusability=none | energy=silent | sentiment=neutral
+  [cta] 3.6s-5.0s | visual_type=text-overlay-only | quality=86.9 | reusability=none | energy=low | sentiment=positive
+    "Thanks for watching"

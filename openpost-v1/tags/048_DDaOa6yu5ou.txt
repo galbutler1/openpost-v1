@@ -1,0 +1,19 @@
+=== 48. DDaOa6yu5ou ===
+Upload date : 20241210
+Views       : 16,634
+Likes       : 402
+Comments    : 68
+Reposts     : 0
+
+Transcript:
+It's all from creation Bam bam ayo Muata bam bam Bam bam de la Bam bam Bam bam de la Bam bam ayo Muata bam bam Tawata bam bam This woman Never trouble no one
+
+Segments (4):
+  [hook] 0.0s-1.4s | visual_type=workspace | quality=55.2 | reusability=none | energy=medium | sentiment=neutral
+    "It's all from creation"
+  [body] 1.4s-10.8s | visual_type=product-demo-feature | quality=43.2 | reusability=medium | energy=high | sentiment=neutral
+    "Bam bam ayo Muata bam bam Bam bam de la Bam bam Bam bam de la Bam bam"
+  [body] 10.8s-16.6s | visual_type=product-demo-feature | quality=41.8 | reusability=medium | energy=high | sentiment=neutral
+    "ayo Muata bam bam Tawata bam bam"
+  [cta] 16.6s-21.1s | visual_type=workspace | quality=46.0 | reusability=medium | energy=medium | sentiment=neutral
+    "This woman Never trouble no one"

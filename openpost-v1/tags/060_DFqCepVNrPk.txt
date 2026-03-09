@@ -1,0 +1,25 @@
+=== 60. DFqCepVNrPk ===
+Upload date : 20250204
+Views       : 7,853
+Likes       : 335
+Comments    : 39
+Reposts     : 0
+
+Transcript:
+Check this out With this space saving bowl I raised over 100 000 in less than 30 days while I was 17 And believe me this is just the beginning I just finished high school so now I'm full time on my company Wave where I'm on a mission a mission a mission on a mission to revolutionize the kitchen experience If what I'm working on sounds cool to you it'd mean the world to me if you could give me a follow and I'll see you on the next one Peace
+
+Segments (7):
+  [hook] 0.0s-3.3s | visual_type=product-close-up | quality=63.2 | reusability=high | energy=high | sentiment=positive
+    "Check this out"
+  [body] 3.3s-8.7s | visual_type=product-demo-feature | quality=34.1 | reusability=medium | energy=medium | sentiment=positive
+    "With this space saving bowl I raised over 100 000 in less than 30 days while I was 17"
+  [body] 8.7s-11.2s | visual_type=founder-talking-neutral | quality=48.7 | reusability=medium | energy=medium | sentiment=positive
+    "And believe me this is just the beginning"
+  [body] 11.2s-15.2s | visual_type=founder-talking-neutral | quality=34.4 | reusability=medium | energy=medium | sentiment=positive
+    "I just finished high school so now I'm full time on my company Wave"
+  [body] 15.2s-20.3s | visual_type=founder-talking-neutral | quality=40.0 | reusability=medium | energy=medium | sentiment=positive
+    "where I'm on a mission a mission a mission on a mission to revolutionize the kitchen experience"
+  [cta] 20.3s-24.6s | visual_type=founder-talking-neutral | quality=40.3 | reusability=medium | energy=medium | sentiment=positive
+    "If what I'm working on sounds cool to you it'd mean the world to me if you could give me a follow"
+  [cta] 24.6s-28.3s | visual_type=text-overlay-only | quality=41.9 | reusability=medium | energy=medium | sentiment=positive
+    "and I'll see you on the next one Peace"

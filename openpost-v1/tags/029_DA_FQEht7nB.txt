@@ -1,0 +1,27 @@
+=== 29. DA_FQEht7nB ===
+Upload date : 20241011
+Views       : 4,788
+Likes       : 324
+Comments    : 69
+Reposts     : 0
+
+Transcript:
+So I invented this bowl that stores completely flat You guys blew up my video about the space saving minimal bowl I invented and somehow we got the attention of Ridge who makes these space saving minimal wallets And I typically hate sponsorships but I love you guys and I'm going to be giving away the wallet they sent me To enter the giveaway just tag your favorite minimal company and if this video blows up maybe they'll sponsor us for the next giveaway See you in the next one Peace
+
+Segments (8):
+  [hook] 0.0s-3.3s | visual_type=product-demo-use-case | quality=42.6 | reusability=high | energy=medium | sentiment=positive
+    "So I invented this bowl that stores completely flat"
+  [hook] 3.3s-6.6s | visual_type=founder-talking-neutral | quality=48.1 | reusability=medium | energy=medium | sentiment=positive
+    "You guys blew up my video about the space saving minimal bowl I invented"
+  [body] 6.6s-11.0s | visual_type=founder-talking-neutral | quality=90.2 | reusability=medium | energy=medium | sentiment=positive
+    "and somehow we got the attention of Ridge who makes these space saving minimal wallets"
+  [body] 11.0s-14.1s | visual_type=founder-talking-neutral | quality=37.1 | reusability=medium | energy=medium | sentiment=mixed
+    "And I typically hate sponsorships but I love you guys"
+  [body] 14.1s-15.9s | visual_type=founder-talking-neutral | quality=48.0 | reusability=medium | energy=medium | sentiment=positive
+    "and I'm going to be giving away the wallet they sent me"
+  [body] 15.9s-19.2s | visual_type=product-demo-feature | quality=49.3 | reusability=medium | energy=medium | sentiment=neutral
+    "To enter the giveaway just tag your favorite minimal company"
+  [body] 19.2s-22.8s | visual_type=founder-talking-neutral | quality=41.3 | reusability=medium | energy=medium | sentiment=neutral
+    "and if this video blows up maybe they'll sponsor us for the next giveaway"
+  [cta] 22.8s-25.5s | visual_type=founder-talking-neutral | quality=36.8 | reusability=medium | energy=medium | sentiment=positive
+    "See you in the next one Peace"

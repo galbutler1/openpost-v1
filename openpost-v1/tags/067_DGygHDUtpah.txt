@@ -1,0 +1,23 @@
+=== 67. DGygHDUtpah ===
+Upload date : 20250304
+Views       : 109,910
+Likes       : 6,707
+Comments    : 1,110
+Reposts     : 0
+
+Transcript:
+Excuse me sir what do you think about my invention Wow you can be a millionaire one day Listen to me Oh I think it's cool Hey Excuse me excuse me What do you think about this product Look it's like Thank you thank you I think she likes it She likes it Okay great And then when you're on the go you can put it in your backpack and it'll save space you know
+
+Segments (6):
+  [hook] 0.0s-3.4s | visual_type=outdoor | quality=58.1 | reusability=low | energy=medium | sentiment=neutral
+    "Excuse me sir what do you think about my invention"
+  [body] 3.4s-6.0s | visual_type=product-in-hand | quality=61.3 | reusability=medium | energy=medium | sentiment=positive
+    "Wow you can be a millionaire one day Listen to me"
+  [body] 6.0s-10.9s | visual_type=product-demo-feature | quality=58.1 | reusability=low | energy=medium | sentiment=positive
+    "Oh I think it's cool Hey"
+  [body] 10.9s-14.5s | visual_type=outdoor | quality=56.6 | reusability=low | energy=medium | sentiment=neutral
+    "Excuse me excuse me What do you think about this product"
+  [body] 14.5s-18.5s | visual_type=product-demo-feature | quality=53.2 | reusability=low | energy=medium | sentiment=positive
+    "Look it's like Thank you thank you I think she likes it She likes it"
+  [cta] 18.5s-21.5s | visual_type=product-demo-feature | quality=42.6 | reusability=medium | energy=medium | sentiment=positive
+    "Okay great And then when you're on the go you can put it in your backpack and it'll save space you know"

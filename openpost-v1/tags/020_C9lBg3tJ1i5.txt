@@ -1,0 +1,27 @@
+=== 20. C9lBg3tJ1i5 ===
+Upload date : 20240718
+Views       : 24,445
+Likes       : 1,041
+Comments    : 144
+Reposts     : 0
+
+Transcript:
+I accidentally used normal Cheerios to demonstrate this space thieving bowl of mine And I've been getting a ton of hate so let me just Nah I'm joking Don't worry I will never purchase normal Cheerios again I promise you it was an accident also These are currently in mass production And if you want to be notified on launch day Comment once and I'll send you a DM with a link to sign up Peace
+
+Segments (8):
+  [hook] 0.0s-3.0s | visual_type=product-demo-use-case | quality=81.6 | reusability=medium | energy=medium | sentiment=neutral
+    "I accidentally used normal Cheerios to demonstrate"
+  [hook] 3.0s-4.3s | visual_type=product-demo-use-case | quality=78.8 | reusability=medium | energy=medium | sentiment=neutral
+    "this space thieving bowl of mine"
+  [body] 4.3s-9.5s | visual_type=product-demo-use-case | quality=81.7 | reusability=medium | energy=medium | sentiment=mixed
+    "And I've been getting a ton of hate so let me just"
+  [body] 9.5s-15.4s | visual_type=product-demo-feature | quality=72.3 | reusability=medium | energy=medium | sentiment=positive
+    "Nah I'm joking"
+  [body] 15.4s-21.4s | visual_type=lifestyle | quality=71.4 | reusability=medium | energy=medium | sentiment=positive
+    "Don't worry I will never purchase normal Cheerios again I promise you it was an accident"
+  [body] 21.4s-24.6s | visual_type=product-demo-use-case | quality=69.6 | reusability=medium | energy=medium | sentiment=positive
+    "also These are currently in mass production"
+  [cta] 24.6s-30.0s | visual_type=product-demo-use-case | quality=67.8 | reusability=medium | energy=medium | sentiment=positive
+    "And if you want to be notified on launch day Comment once and I'll send you a DM with a link to sign up"
+  [cta] 30.0s-31.0s | visual_type=product-demo-use-case | quality=65.7 | reusability=medium | energy=medium | sentiment=positive
+    "Peace"

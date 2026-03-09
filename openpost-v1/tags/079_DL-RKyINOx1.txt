@@ -1,0 +1,33 @@
+=== 79. DL-RKyINOx1 ===
+Upload date : 20250711
+Views       : 10,252
+Likes       : 586
+Comments    : 44
+Reposts     : 0
+
+Transcript:
+My invention made me over 100 000 in 30 days when I was 17 Here's how I lost almost all of it As I go through this journey I am continuously humbled by how difficult it is to create a genuinely new product and bring it to market Something as simple as a folding bowl which by the way folds completely flat to save space in your dishwasher and cabinets has proved to be one of the most difficult things to create that I've ever worked on Over the course of about a year and a half I was paying thousands of dollars every single month for mold changes design iteration sample creation Every little thing that could have gone wrong went wrong and safe to say I learned a lot from it Recently I started working with a new manufacturer and we're currently creating new samples with an optimized design and preparing for mass production This is day three of the comeback series where I'm documenting my authentic journey from a successful product launch to a very difficult journey actually bringing the product to market I'm currently working on three main things Number one and most urgent as you can see by its red color is delivering the product that people ordered almost two years ago Number two which I'll pick a peach for is developing new products to extend my product line and scale this company to something a lot bigger than just one product Number three is secure some funding so I can deliver my first product as soon as possible and also fund the expansion of this company It'd mean the world to me if you can give me a follow and hopefully I'll see you tomorrow Peace
+
+Segments (11):
+  [hook] 0.0s-3.4s | visual_type=founder-talking-neutral | quality=36.2 | reusability=medium | energy=medium | sentiment=neutral
+    "My invention made me over 100 000 in 30"
+  [hook] 3.4s-7.2s | visual_type=founder-talking-neutral | quality=79.1 | reusability=medium | energy=medium | sentiment=neutral
+    "days when I was 17 Here's how I lost almost all of it"
+  [body] 7.2s-15.1s | visual_type=founder-talking-neutral | quality=48.5 | reusability=medium | energy=medium | sentiment=neutral
+    "As I go through this journey I am continuously humbled by how difficult it is to create a genuinely new product and brin"
+  [body] 15.1s-25.7s | visual_type=founder-talking-neutral | quality=39.3 | reusability=low | energy=medium | sentiment=neutral
+    "Something as simple as a folding bowl which by the way folds completely flat to save space in your dishwasher and cabine"
+  [body] 25.7s-39.5s | visual_type=founder-talking-neutral | quality=37.6 | reusability=medium | energy=medium | sentiment=neutral
+    "Over the course of about a year and a half I was paying thousands of dollars every single month for mold changes design "
+  [body] 39.5s-46.5s | visual_type=founder-talking-neutral | quality=69.3 | reusability=medium | energy=medium | sentiment=positive
+    "Recently I started working with a new manufacturer and we're currently creating new samples with an optimized design and"
+  [body] 46.5s-56.4s | visual_type=founder-talking-neutral | quality=52.7 | reusability=medium | energy=medium | sentiment=neutral
+    "This is day three of the comeback series where I'm documenting my authentic journey from a successful product launch to "
+  [body] 56.4s-65.1s | visual_type=founder-talking-neutral | quality=68.7 | reusability=low | energy=medium | sentiment=neutral
+    "I'm currently working on three main things Number one and most urgent as you can see by its red color is delivering the "
+  [body] 65.1s-75.0s | visual_type=founder-talking-neutral | quality=67.3 | reusability=medium | energy=medium | sentiment=positive
+    "Number two which I'll pick a peach for is developing new products to extend my product line and scale this company to so"
+  [body] 75.0s-82.7s | visual_type=founder-talking-neutral | quality=69.4 | reusability=medium | energy=medium | sentiment=positive
+    "Number three is secure some funding so I can deliver my first product as soon as possible and also fund the expansion of"
+  [cta] 82.7s-88.1s | visual_type=founder-talking-neutral | quality=46.7 | reusability=medium | energy=medium | sentiment=positive
+    "It'd mean the world to me if you can give me a follow and hopefully I'll see you tomorrow Peace"

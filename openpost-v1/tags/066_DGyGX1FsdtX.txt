@@ -1,0 +1,26 @@
+=== 66. DGyGX1FsdtX ===
+Upload date : 20250304
+Views       : 17,126
+Likes       : 932
+Comments    : 99
+Reposts     : 0
+
+Transcript:
+What do you guys think about my invention What do you think it is No no you eat you eat Plate and bowl I know balls balls Yeah yeah Balls Yeah yeah yeah Thank you thank you thank you thank you
+
+Segments (9):
+  [hook] 0.0s-1.5s | visual_type=b-roll-cutaway | quality=57.4 | reusability=none | energy=medium | sentiment=neutral
+    "What do you guys think about my invention"
+  [hook] 1.5s-3.6s | visual_type=product-in-hand | quality=53.2 | reusability=medium | energy=silent | sentiment=neutral
+  [body] 3.6s-4.8s | visual_type=product-in-hand | quality=55.9 | reusability=medium | energy=medium | sentiment=neutral
+    "What do you think it is"
+  [body] 4.8s-9.2s | visual_type=product-in-hand | quality=43.7 | reusability=medium | energy=silent | sentiment=neutral
+  [body] 9.2s-11.8s | visual_type=product-in-hand | quality=50.8 | reusability=medium | energy=medium | sentiment=neutral
+    "you eat you eat Plate and bowl I know balls balls"
+  [body] 11.8s-13.2s | visual_type=b-roll-cutaway | quality=39.0 | reusability=medium | energy=medium | sentiment=positive
+    "Yeah yeah"
+  [body] 13.2s-16.8s | visual_type=product-in-hand | quality=44.3 | reusability=medium | energy=medium | sentiment=positive
+    "Balls Yeah yeah yeah"
+  [cta] 16.8s-19.2s | visual_type=product-in-hand | quality=48.4 | reusability=medium | energy=medium | sentiment=positive
+    "Thank you thank you thank you thank you"
+  [cta] 19.2s-20.6s | visual_type=text-overlay-only | quality=24.5 | reusability=medium | energy=silent | sentiment=positive

@@ -1,0 +1,22 @@
+=== 73. DHjd71qO2wr ===
+Upload date : 20250323
+Views       : 13,742
+Likes       : 520
+Comments    : 24
+Reposts     : 0
+
+Transcript:
+You guys like doing dishes Okay so look at this it's a plate that you can eat off of and then it turns into a bowl And then when you put in your dishwasher put it flat and it saves space Follow my journey find out more about this product and future products They're gonna revolutionize your kitchen experience Drop me a follow and I see you in the next one Peace
+
+Segments (6):
+  [hook] 0.0s-3.4s | visual_type=text-overlay-only | quality=39.4 | reusability=medium | energy=medium | sentiment=neutral
+    "You guys like doing dishes"
+  [body] 3.4s-11.4s | visual_type=product-demo-feature | quality=46.6 | reusability=high | energy=medium | sentiment=positive
+    "Okay so look at this it's a plate that you can eat off of and then it turns into a bowl"
+  [body] 11.4s-14.9s | visual_type=product-demo-feature | quality=44.6 | reusability=high | energy=medium | sentiment=positive
+    "And then when you put in your dishwasher put it flat and it saves space"
+  [body] 14.9s-19.1s | visual_type=b-roll-cutaway | quality=37.3 | reusability=none | energy=silent | sentiment=neutral
+  [cta] 19.1s-25.0s | visual_type=founder-talking-excited | quality=34.4 | reusability=medium | energy=high | sentiment=positive
+    "Follow my journey find out more about this product and future products They're gonna revolutionize your kitchen experien"
+  [cta] 25.0s-29.2s | visual_type=founder-talking-excited | quality=37.7 | reusability=medium | energy=high | sentiment=positive
+    "Drop me a follow and I see you in the next one Peace"

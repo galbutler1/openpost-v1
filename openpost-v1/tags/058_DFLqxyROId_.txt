@@ -1,0 +1,33 @@
+=== 58. DFLqxyROId_ ===
+Upload date : 20250123
+Views       : 10,002
+Likes       : 350
+Comments    : 41
+Reposts     : 0
+
+Transcript:
+When I was in high school I created a company called Wave to make your kitchen experience easier A year and a half ago I launched my first product It's a bowl that folds completely flat into a plate to save space in your dishwasher and cabinets And it raised six figures in less than four weeks But more importantly it marked the beginning of my company Wave where I'm on a mission a mission a mission on a mission to revolutionize the kitchen industry I have some really big projects coming and if you want your kitchen experience to be easier drop me a follow Also these bowls are currently in mass production If you want to be notified on launch day comment once and I'll shoot you a DM See you on the next one Peace
+
+Segments (11):
+  [hook] 0.0s-3.7s | visual_type=outdoor | quality=40.2 | reusability=medium | energy=medium | sentiment=positive
+    "When I was in high school I created a company called Wave to make your kitchen experience"
+  [hook] 3.7s-5.4s | visual_type=split-screen | quality=43.1 | reusability=medium | energy=medium | sentiment=positive
+    "easier A year and a half ago I launched my first product"
+  [body] 5.4s-10.5s | visual_type=outdoor | quality=42.5 | reusability=high | energy=medium | sentiment=positive
+    "It's a bowl that folds completely flat into a plate to save space in your dishwasher"
+  [body] 10.5s-13.8s | visual_type=split-screen | quality=59.1 | reusability=medium | energy=medium | sentiment=positive
+    "and cabinets And it raised six figures in less than four weeks"
+  [body] 13.8s-16.8s | visual_type=founder-talking-neutral | quality=52.6 | reusability=medium | energy=medium | sentiment=positive
+    "But more importantly it marked the beginning of my company Wave"
+  [body] 16.8s-21.9s | visual_type=split-screen | quality=43.2 | reusability=medium | energy=medium | sentiment=positive
+    "where I'm on a mission a mission a mission on a mission to revolutionize the kitchen industry"
+  [body] 21.9s-26.4s | visual_type=founder-talking-neutral | quality=47.2 | reusability=medium | energy=medium | sentiment=positive
+    "I have some really big projects coming and if you want your kitchen experience to be easier"
+  [cta] 26.4s-28.0s | visual_type=founder-talking-neutral | quality=44.6 | reusability=medium | energy=medium | sentiment=positive
+    "drop me a follow"
+  [cta] 28.0s-30.0s | visual_type=text-overlay-only | quality=42.8 | reusability=high | energy=medium | sentiment=positive
+    "Also these bowls are currently in mass production"
+  [cta] 30.0s-33.4s | visual_type=founder-talking-neutral | quality=40.8 | reusability=medium | energy=medium | sentiment=positive
+    "If you want to be notified on launch day comment once and I'll shoot you a DM"
+  [cta] 33.4s-35.8s | visual_type=founder-talking-neutral | quality=36.3 | reusability=medium | energy=medium | sentiment=positive
+    "See you on the next one Peace"

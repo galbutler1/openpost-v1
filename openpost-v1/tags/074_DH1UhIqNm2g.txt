@@ -1,0 +1,28 @@
+=== 74. DH1UhIqNm2g ===
+Upload date : 20250330
+Views       : 20,635
+Likes       : 844
+Comments    : 83
+Reposts     : 0
+
+Transcript:
+This is not what it looks like It's actually the most efficient dish in the world Its design is compatible with almost any type of food and when flat it could fit almost anywhere But what if I told you that it's still not what it looks like That's because this is not just a product It's the beginning of my company Wave where I want a massive mission to revolutionize the kitchen experience If that sounds interesting to you drop me a follow and if you want to be notified when this bowl is ready to be purchased comment once I'll see you in the next one
+
+Segments (9):
+  [hook] 0.0s-2.7s | visual_type=product-demo-use-case | quality=38.5 | reusability=none | energy=medium | sentiment=neutral
+    "This is not what it looks like"
+  [hook] 2.7s-6.4s | visual_type=product-demo-feature | quality=41.2 | reusability=high | energy=medium | sentiment=positive
+    "It's actually the most efficient dish in the world"
+  [body] 6.4s-12.1s | visual_type=product-demo-feature | quality=40.5 | reusability=high | energy=medium | sentiment=positive
+    "Its design is compatible with almost any type of food and when flat it could fit almost anywhere"
+  [body] 12.1s-15.8s | visual_type=split-screen | quality=38.0 | reusability=medium | energy=medium | sentiment=neutral
+    "But what if I told you that it's still not what it looks like"
+  [body] 15.8s-23.6s | visual_type=founder-talking-neutral | quality=43.8 | reusability=medium | energy=medium | sentiment=positive
+    "That's because this is not just a product It's the beginning of my company Wave where I want a massive mission to revolu"
+  [cta] 23.6s-26.0s | visual_type=founder-talking-neutral | quality=45.1 | reusability=medium | energy=medium | sentiment=positive
+    "If that sounds interesting to you drop me a follow"
+  [cta] 26.0s-29.1s | visual_type=founder-talking-neutral | quality=44.7 | reusability=medium | energy=medium | sentiment=positive
+    "and if you want to be notified when this bowl is ready to be purchased comment once"
+  [cta] 29.1s-31.5s | visual_type=founder-talking-neutral | quality=44.5 | reusability=medium | energy=medium | sentiment=positive
+    "I'll see you in the next one"
+  [cta] 31.5s-34.5s | visual_type=text-overlay-only | quality=61.0 | reusability=none | energy=silent | sentiment=neutral

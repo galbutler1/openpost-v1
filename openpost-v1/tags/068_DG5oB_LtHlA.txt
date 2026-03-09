@@ -1,0 +1,23 @@
+=== 68. DG5oB_LtHlA ===
+Upload date : 20250307
+Views       : 17,237
+Likes       : 467
+Comments    : 16
+Reposts     : 0
+
+Transcript:
+Hey we travel a lot kinda need one of these It's a bowl that folds flat into a plate That's what it's meant for actually It can be also a frisbee Exactly exactly For you 15 Czechos It's not No it's okay it's okay
+
+Segments (6):
+  [hook] 0.0s-3.5s | visual_type=product-in-hand | quality=44.1 | reusability=medium | energy=medium | sentiment=neutral
+    "Hey we travel a lot"
+  [body] 3.5s-6.9s | visual_type=product-demo-feature | quality=59.9 | reusability=medium | energy=medium | sentiment=neutral
+    "kinda need one of these It's a bowl that folds flat into a plate"
+  [body] 6.9s-8.1s | visual_type=product-demo-feature | quality=62.2 | reusability=medium | energy=medium | sentiment=neutral
+    "That's what it's meant for actually"
+  [body] 8.1s-10.5s | visual_type=lifestyle | quality=45.7 | reusability=medium | energy=medium | sentiment=neutral
+    "It can be also a frisbee"
+  [body] 10.5s-11.9s | visual_type=lifestyle | quality=55.3 | reusability=medium | energy=medium | sentiment=neutral
+    "Exactly exactly For you 15 Czechos"
+  [cta] 11.9s-15.6s | visual_type=lifestyle | quality=60.1 | reusability=medium | energy=medium | sentiment=neutral
+    "It's not No it's okay it's okay"

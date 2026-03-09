@@ -1,0 +1,21 @@
+=== 62. DFvYDyWtZ6c ===
+Upload date : 20250206
+Views       : 36,331
+Likes       : 1,439
+Comments    : 93
+Reposts     : 0
+
+Transcript:
+No one on this bus is aware that I invented the most efficient kitchen product in the world Let me explain It's a bowl that folds completely flat into a plate to save space in your cabinets and dishwasher I launched a Kickstarter campaign to raise some money and it's currently in mass production If you want to be notified when the product is available to purchase and when other really cool products launch drop me a follow and I'll see you in the next one Also comment once to get a direct email when the bowl is ready for purchase Peace
+
+Segments (5):
+  [hook] 0.0s-5.8s | visual_type=outdoor | quality=48.9 | reusability=medium | energy=medium | sentiment=neutral
+    "No one on this bus is aware that I invented the most efficient kitchen product in the world"
+  [body] 5.8s-13.0s | visual_type=split-screen | quality=73.0 | reusability=high | energy=medium | sentiment=positive
+    "Let me explain It's a bowl that folds completely flat into a plate to save space in your cabinets and dishwasher"
+  [body] 13.0s-17.6s | visual_type=text-overlay-only | quality=51.7 | reusability=medium | energy=medium | sentiment=positive
+    "I launched a Kickstarter campaign to raise some money and it's currently in mass production"
+  [cta] 17.6s-25.3s | visual_type=outdoor | quality=39.4 | reusability=medium | energy=medium | sentiment=positive
+    "If you want to be notified when the product is available to purchase and when other really cool products launch drop me "
+  [cta] 25.3s-30.9s | visual_type=outdoor | quality=36.7 | reusability=medium | energy=medium | sentiment=positive
+    "Also comment once to get a direct email when the bowl is ready for purchase Peace"

@@ -1,0 +1,23 @@
+=== 19. C9iZLenJPiE ===
+Upload date : 20240717
+Views       : 19,584
+Likes       : 1,301
+Comments    : 173
+Reposts     : 0
+
+Transcript:
+Can I just get a hot soup The adults hot soup All right Time to walk a mile and a half back Let me know what other questions you have One more thing These are currently in mass production And if you want to be notified on launch day comment want and I'll send you a link to sign up
+
+Segments (7):
+  [hook] 0.0s-9.2s | visual_type=product-close-up | quality=64.9 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 9.2s-11.4s | visual_type=event | quality=66.6 | reusability=low | energy=medium | sentiment=neutral
+    "Can I just get a hot soup"
+  [hook] 11.4s-19.5s | visual_type=product-demo-use-case | quality=58.3 | reusability=none | energy=silent | sentiment=neutral
+  [body] 19.5s-22.6s | visual_type=outdoor | quality=68.4 | reusability=low | energy=medium | sentiment=neutral
+    "All right Time to walk a mile and a half back"
+  [body] 22.6s-24.6s | visual_type=outdoor | quality=66.6 | reusability=medium | energy=medium | sentiment=neutral
+    "Let me know what other questions you have"
+  [body] 24.6s-29.7s | visual_type=product-demo-use-case | quality=54.7 | reusability=medium | energy=medium | sentiment=positive
+    "One more thing These are currently in mass production And if you want to be notified on launch day"
+  [cta] 29.7s-33.8s | visual_type=product-demo-use-case | quality=55.7 | reusability=medium | energy=medium | sentiment=positive
+    "comment want and I'll send you a link to sign up"

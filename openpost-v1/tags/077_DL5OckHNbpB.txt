@@ -1,0 +1,30 @@
+=== 77. DL5OckHNbpB ===
+Upload date : 20250709
+Views       : 11,275
+Likes       : 1,389
+Comments    : 131
+Reposts     : 0
+
+Transcript:
+It's been 98 days since my last video so it's a little bit awkward If you're new here I'm Gall Two years ago I invented this space saving bowl that folds completely flat to save space in your dishwasher and your cabinets When I launched the product I was 17 raised a bunch of money and I had a ton of momentum Then two years later I still haven't shipped it Obviously every founder wants to constantly be sharing good news and exciting updates and especially when they haven't uploaded in almost 100 days I definitely want to come back and tell you guys that don't worry some really big thing has happened The truth is it's kind of just been a series of boring and repetitive events and if you're not into that I don't blame you It definitely hasn't just been waiting I've been working on a lot of different things that I'm very very excited to launch but from a business standpoint I think it makes the most sense to first deliver this product and then start talking about new products This is day one of what I'm going to call the comeback series where I'm going to try to upload every single day and be completely transparent of what I'm actually working on If you're interested in following a founder's authentic journey and not just the single products that mean the world to me you can give me a follow and I'll see you tomorrow Peace
+
+Segments (10):
+  [hook] 0.0s-2.2s | visual_type=text-overlay-only | quality=61.5 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 2.2s-6.4s | visual_type=founder-talking-neutral | quality=51.2 | reusability=medium | energy=medium | sentiment=neutral
+    "It's been 98 days since my last video so it's a little bit awkward"
+  [hook] 6.4s-14.4s | visual_type=product-in-hand | quality=51.3 | reusability=high | energy=medium | sentiment=positive
+    "If you're new here I'm Gall Two years ago I invented this space saving bowl that folds completely flat to save space in "
+  [body] 14.4s-22.6s | visual_type=founder-talking-neutral | quality=53.1 | reusability=medium | energy=medium | sentiment=mixed
+    "When I launched the product I was 17 raised a bunch of money and I had a ton of momentum Then two years later I still ha"
+  [body] 22.6s-35.4s | visual_type=founder-talking-neutral | quality=47.2 | reusability=medium | energy=medium | sentiment=neutral
+    "Obviously every founder wants to constantly be sharing good news and exciting updates and especially when they haven't u"
+  [body] 35.4s-42.9s | visual_type=founder-talking-neutral | quality=51.5 | reusability=medium | energy=medium | sentiment=neutral
+    "The truth is it's kind of just been a series of boring and repetitive events and if you're not into that I don't blame y"
+  [body] 42.9s-53.1s | visual_type=founder-talking-neutral | quality=46.4 | reusability=medium | energy=medium | sentiment=positive
+    "I've been working on a lot of different things that I'm very very excited to launch but from a business standpoint I thi"
+  [body] 53.1s-60.8s | visual_type=founder-talking-neutral | quality=64.9 | reusability=medium | energy=medium | sentiment=positive
+    "This is day one of what I'm going to call the comeback series where I'm going to try to upload every single day and be c"
+  [cta] 60.8s-67.8s | visual_type=founder-talking-neutral | quality=49.9 | reusability=medium | energy=medium | sentiment=positive
+    "If you're interested in following a founder's authentic journey and not just the single products that mean the world to "
+  [cta] 67.8s-69.1s | visual_type=founder-talking-neutral | quality=49.7 | reusability=medium | energy=low | sentiment=positive
+    "Peace"

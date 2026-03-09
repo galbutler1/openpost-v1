@@ -1,0 +1,15 @@
+=== 40. DCzTzQKNVB0 ===
+Upload date : 20241125
+Views       : 3,343
+Likes       : 151
+Comments    : 18
+Reposts     : 0
+
+Transcript:
+Peace
+
+Segments (3):
+  [hook] 0.0s-6.4s | visual_type=lifestyle | quality=84.0 | reusability=high | energy=silent | sentiment=neutral
+  [body] 6.4s-7.8s | visual_type=text-overlay-only | quality=62.7 | reusability=high | energy=low | sentiment=positive
+    "Peace"
+  [cta] 7.8s-18.5s | visual_type=text-overlay-only | quality=61.7 | reusability=high | energy=silent | sentiment=neutral

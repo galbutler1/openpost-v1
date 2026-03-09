@@ -1,0 +1,26 @@
+=== 99. DTSrm2cDXzg ===
+Upload date : 20260109
+Views       : 5,179
+Likes       : 235
+Comments    : 35
+Reposts     : 0
+
+Transcript:
+excuse me while we're walking can you record me real quick by chance yeah thank you bro walking this way okay dope me too I'm Gull and I'm inventing the most efficient kitchen products you've ever seen in your life this is my first product it's a bowl that folds completely flat into a plate to save space in your dishwasher and your cabinets it's super portable and it's very easy to hand wash just want to be notified on launch day comment once and pop me a phone for updates thank you appreciate you bro have a good one
+
+Segments (8):
+  [hook] 0.0s-3.7s | visual_type=founder-talking-neutral | quality=32.1 | reusability=low | energy=medium | sentiment=neutral
+    "excuse me while we're walking can you record me real quick by chance"
+  [hook] 3.7s-8.1s | visual_type=founder-talking-neutral | quality=39.0 | reusability=low | energy=medium | sentiment=positive
+    "yeah thank you bro walking this way okay dope me too"
+  [body] 8.1s-13.3s | visual_type=founder-talking-excited | quality=22.5 | reusability=medium | energy=high | sentiment=positive
+    "I'm Gull and I'm inventing the most efficient kitchen products you've ever seen in your life"
+  [body] 13.3s-20.2s | visual_type=product-demo-feature | quality=17.9 | reusability=high | energy=medium | sentiment=positive
+    "this is my first product it's a bowl that folds completely flat into a plate to save space in your dishwasher and your c"
+  [body] 20.2s-23.7s | visual_type=product-demo-feature | quality=19.1 | reusability=high | energy=medium | sentiment=positive
+    "it's super portable and it's very easy to hand wash"
+  [cta] 23.7s-27.4s | visual_type=founder-talking-neutral | quality=21.3 | reusability=medium | energy=medium | sentiment=neutral
+    "just want to be notified on launch day comment once and pop me a phone for updates"
+  [cta] 27.4s-31.9s | visual_type=founder-talking-neutral | quality=26.2 | reusability=low | energy=medium | sentiment=positive
+    "thank you appreciate you bro have a good one"
+  [cta] 31.9s-33.7s | visual_type=outdoor | quality=26.0 | reusability=none | energy=silent | sentiment=neutral

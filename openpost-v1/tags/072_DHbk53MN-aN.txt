@@ -1,0 +1,21 @@
+=== 72. DHbk53MN-aN ===
+Upload date : 20250320
+Views       : 13,099
+Likes       : 336
+Comments    : 17
+Reposts     : 0
+
+Transcript:
+Yeah can you just record me for a second I invented this bowl that folds completely flat into a plate to save space And today I'm gonna be asking strangers what they think about it Thank you What do you think about it About fun
+
+Segments (5):
+  [hook] 0.0s-1.2s | visual_type=workspace | quality=38.7 | reusability=none | energy=medium | sentiment=neutral
+    "Yeah can you just record me for a second"
+  [body] 1.2s-5.9s | visual_type=product-demo-feature | quality=46.7 | reusability=high | energy=medium | sentiment=positive
+    "I invented this bowl that folds completely flat into a plate to save space"
+  [body] 5.9s-9.5s | visual_type=product-demo-use-case | quality=57.8 | reusability=medium | energy=medium | sentiment=neutral
+    "And today I'm gonna be asking strangers what they think about it Thank you"
+  [body] 9.5s-12.0s | visual_type=text-overlay-only | quality=43.3 | reusability=medium | energy=medium | sentiment=neutral
+    "What do you think about it"
+  [cta] 12.0s-17.2s | visual_type=text-overlay-only | quality=31.8 | reusability=medium | energy=medium | sentiment=positive
+    "About fun"

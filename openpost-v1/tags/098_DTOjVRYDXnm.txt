@@ -1,0 +1,35 @@
+=== 98. DTOjVRYDXnm ===
+Upload date : 20260107
+Views       : 13,542
+Likes       : 1,018
+Comments    : 96
+Reposts     : 0
+
+Transcript:
+So I invented this bowl that folds completely flat to save space in your dishwasher and in your cabinets You can see here that I'm using magnets to keep it in its bowl formation Before you ask these are some of the strongest magnets on the market so if you're using common sense the bowl probably will not open when you have food in it Embedding magnets into a piece of plastic like this is a lot more complicated than I thought The process we were using to embed the was either damaging the magnet or not causing a watertight seal around the magnet These are things that are difficult to predict when you're creating a new product but kind of figure out as you go We've been running a few different tests to figure out the best method A manufacturer sent me a text that they figured out a method that works really well which means this product is getting super close to launching So if you want to see this product come to life drop me a follow and if you want to be notified on launch day comment once and I'll add you to the waiting list See you guys in the next one Peace
+
+Segments (12):
+  [hook] 0.0s-3.6s | visual_type=founder-talking-neutral | quality=28.7 | reusability=medium | energy=medium | sentiment=positive
+    "So I invented this bowl that folds completely"
+  [hook] 3.6s-6.5s | visual_type=product-demo-feature | quality=27.0 | reusability=high | energy=medium | sentiment=positive
+    "flat to save space in your dishwasher and in your cabinets"
+  [body] 6.5s-10.1s | visual_type=product-demo-feature | quality=27.1 | reusability=high | energy=medium | sentiment=positive
+    "You can see here that I'm using magnets to keep it in its bowl formation"
+  [body] 10.1s-17.0s | visual_type=founder-talking-neutral | quality=26.9 | reusability=medium | energy=medium | sentiment=positive
+    "Before you ask these are some of the strongest magnets on the market so if you're using common sense the bowl probably w"
+  [body] 17.0s-23.8s | visual_type=product-demo-feature | quality=33.7 | reusability=high | energy=medium | sentiment=neutral
+    "Embedding magnets into a piece of plastic like this is a lot more complicated than I thought"
+  [body] 23.8s-30.5s | visual_type=founder-talking-neutral | quality=26.8 | reusability=medium | energy=medium | sentiment=neutral
+    "The process we were using to embed the was either damaging the magnet or not causing a watertight seal around the magnet"
+  [body] 30.5s-35.6s | visual_type=founder-talking-neutral | quality=26.6 | reusability=medium | energy=medium | sentiment=neutral
+    "These are things that are difficult to predict when you're creating a new product but kind of figure out as you go"
+  [body] 35.6s-41.8s | visual_type=founder-talking-neutral | quality=26.8 | reusability=medium | energy=medium | sentiment=positive
+    "We've been running a few different tests to figure out the best method A manufacturer sent me a text that they figured o"
+  [body] 41.8s-46.4s | visual_type=founder-talking-neutral | quality=28.4 | reusability=medium | energy=medium | sentiment=positive
+    "which means this product is getting super close to launching"
+  [cta] 46.4s-49.3s | visual_type=founder-talking-neutral | quality=25.1 | reusability=medium | energy=medium | sentiment=positive
+    "So if you want to see this product come to life"
+  [cta] 49.3s-54.6s | visual_type=founder-talking-neutral | quality=26.2 | reusability=medium | energy=medium | sentiment=positive
+    "drop me a follow and if you want to be notified on launch day comment once and I'll add you to the waiting list"
+  [cta] 54.6s-56.8s | visual_type=text-overlay-only | quality=24.5 | reusability=medium | energy=medium | sentiment=positive
+    "See you guys in the next one Peace"

@@ -1,0 +1,24 @@
+=== 7. C8fKRr9pRcU ===
+Upload date : 20240621
+Views       : 11,701
+Likes       : 469
+Comments    : 32
+Reposts     : 0
+
+Transcript:
+Imagine all the people living for today
+
+Segments (7):
+  [hook] 0.0s-1.2s | visual_type=workspace | quality=26.6 | reusability=medium | energy=medium | sentiment=neutral
+    "Imagine"
+  [hook] 1.2s-2.4s | visual_type=workspace | quality=31.4 | reusability=medium | energy=medium | sentiment=neutral
+    "all"
+  [hook] 2.4s-4.7s | visual_type=workspace | quality=39.1 | reusability=medium | energy=medium | sentiment=neutral
+    "the people"
+  [body] 4.7s-7.2s | visual_type=screen-recording | quality=35.4 | reusability=medium | energy=medium | sentiment=neutral
+    "living"
+  [body] 7.2s-8.8s | visual_type=screen-recording | quality=35.5 | reusability=medium | energy=medium | sentiment=neutral
+    "for"
+  [cta] 8.8s-10.2s | visual_type=screen-recording | quality=36.3 | reusability=medium | energy=medium | sentiment=neutral
+    "today"
+  [cta] 10.2s-11.6s | visual_type=screen-recording | quality=37.9 | reusability=medium | energy=silent | sentiment=neutral

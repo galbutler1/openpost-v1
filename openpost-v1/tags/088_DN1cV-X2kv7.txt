@@ -1,0 +1,33 @@
+=== 88. DN1cV-X2kv7 ===
+Upload date : 20250826
+Views       : 64,274
+Likes       : 986
+Comments    : 52
+Reposts     : 0
+
+Transcript:
+I probably should have figured out how this stuff works before I made this video I normally hate sponsorships but trust me this is just too perfect I invented this space saving bowl that folds completely flat to save space in your kitchen And this company Bella literally has a line called Fits Anywhere Kitchenware Hello Oh baby Why am I sitting on the floor That's a pretty nice design Pretty sure this is like a back to school bundle or something but it looks great Thank you Bella And if you're interested in my invention drop me a follow It'd mean the world to me if I could share my journey with you And hopefully I'll see you in the next one Peace Bye
+
+Segments (11):
+  [hook] 0.0s-2.3s | visual_type=product-demo-use-case | quality=42.3 | reusability=medium | energy=medium | sentiment=neutral
+    "I probably"
+  [hook] 2.3s-5.4s | visual_type=product-demo-feature | quality=47.6 | reusability=medium | energy=medium | sentiment=neutral
+    "should have figured out how this stuff works before I made this video"
+  [hook] 5.4s-9.7s | visual_type=founder-thinking | quality=49.0 | reusability=medium | energy=medium | sentiment=neutral
+    "I normally hate sponsorships but trust me this is just too perfect"
+  [body] 9.7s-14.7s | visual_type=founder-talking-neutral | quality=34.0 | reusability=high | energy=medium | sentiment=positive
+    "I invented this space saving bowl that folds completely flat to save space in your kitchen"
+  [body] 14.7s-20.1s | visual_type=product-close-up | quality=35.8 | reusability=high | energy=medium | sentiment=positive
+    "And this company Bella literally has a line called Fits Anywhere Kitchenware"
+  [body] 20.1s-22.6s | visual_type=product-demo-feature | quality=41.3 | reusability=medium | energy=medium | sentiment=neutral
+    "Hello"
+  [body] 22.6s-31.8s | visual_type=product-demo-feature | quality=43.6 | reusability=medium | energy=medium | sentiment=neutral
+    "Oh baby Why am I sitting on the floor"
+  [body] 31.8s-40.9s | visual_type=founder-talking-neutral | quality=43.6 | reusability=high | energy=medium | sentiment=positive
+    "That's a pretty nice design"
+  [body] 40.9s-48.6s | visual_type=product-demo-feature | quality=37.0 | reusability=high | energy=medium | sentiment=positive
+    "Pretty sure this is like a back to school bundle or something but it looks great Thank you Bella"
+  [cta] 48.6s-55.3s | visual_type=founder-talking-neutral | quality=39.0 | reusability=medium | energy=medium | sentiment=positive
+    "And if you're interested in my invention drop me a follow It'd mean the world to me if I could share my journey with you"
+  [cta] 55.3s-58.0s | visual_type=text-overlay-only | quality=52.3 | reusability=medium | energy=medium | sentiment=positive
+    "And hopefully I'll see you in the next one Peace Bye"

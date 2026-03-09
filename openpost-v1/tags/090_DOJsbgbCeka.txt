@@ -1,0 +1,33 @@
+=== 90. DOJsbgbCeka ===
+Upload date : 20250903
+Views       : 1,107,709
+Likes       : 82,437
+Comments    : 4,580
+Reposts     : 0
+
+Transcript:
+I will fight beside people I invented this product in high school and two years after launching it I still haven't delivered I will fight you Not fighting bro I have no interest in fighting you I don't fight I will fight beside people We're not fighting We're not fighting No we're not Anyway what I was saying is that it's been a wild journey and I've definitely learned a lot about the manufacturing industry and especially a lot about myself I'm going to wrap this video up but if you want to follow my journey building this product and launching other I'm just recording myself I will fight beside people I'm not fighting you Anyway drop me a follow if you want to see more and hope to see you in the next one Peace
+
+Segments (12):
+  [hook] 0.0s-2.0s | visual_type=outdoor | quality=88.5 | reusability=medium | energy=medium | sentiment=neutral
+    "I will fight beside people"
+  [hook] 2.0s-5.2s | visual_type=text-overlay-only | quality=75.2 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 5.2s-10.6s | visual_type=outdoor | quality=47.7 | reusability=medium | energy=medium | sentiment=neutral
+    "I invented this product in high school and two years after launching it I still haven't delivered"
+  [hook] 10.6s-12.2s | visual_type=outdoor | quality=53.3 | reusability=none | energy=silent | sentiment=neutral
+  [body] 12.2s-21.3s | visual_type=text-overlay-only | quality=70.2 | reusability=medium | energy=medium | sentiment=neutral
+    "I will fight you Not fighting bro I have no interest in fighting you I don't fight"
+  [body] 21.3s-28.3s | visual_type=text-overlay-only | quality=91.1 | reusability=medium | energy=medium | sentiment=neutral
+    "I will fight beside people We're not fighting"
+  [body] 28.3s-34.2s | visual_type=text-overlay-only | quality=90.3 | reusability=medium | energy=medium | sentiment=neutral
+    "We're not fighting No we're not"
+  [body] 34.2s-42.3s | visual_type=outdoor | quality=82.7 | reusability=high | energy=medium | sentiment=positive
+    "Anyway what I was saying is that it's been a wild journey and I've definitely learned a lot about the manufacturing indu"
+  [cta] 42.3s-46.9s | visual_type=outdoor | quality=87.6 | reusability=high | energy=medium | sentiment=positive
+    "I'm going to wrap this video up but if you want to follow my journey building this product and launching other"
+  [cta] 46.9s-51.0s | visual_type=outdoor | quality=70.0 | reusability=medium | energy=medium | sentiment=neutral
+    "I'm just recording myself I will fight beside people"
+  [cta] 51.0s-54.5s | visual_type=outdoor | quality=52.6 | reusability=medium | energy=medium | sentiment=neutral
+    "I'm not fighting you"
+  [cta] 54.5s-62.4s | visual_type=outdoor | quality=95.7 | reusability=high | energy=medium | sentiment=positive
+    "Anyway drop me a follow if you want to see more and hope to see you in the next one Peace"

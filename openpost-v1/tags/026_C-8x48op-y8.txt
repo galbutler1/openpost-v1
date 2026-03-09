@@ -1,0 +1,26 @@
+=== 26. C-8x48op-y8 ===
+Upload date : 20240821
+Views       : 14,305
+Likes       : 1,545
+Comments    : 406
+Reposts     : 0
+
+Transcript:
+A few years ago I noticed that plates are a lot easier to wash and store than bowls And since then I've been working my ass off on this It's a bowl that folds completely flat to save you space and effort while loading the dishwasher and storing in your cabinets These are currently in mass production and if you want to be notified on launch day comment once and I'll see you at the end See you on the next one Peace
+
+Segments (8):
+  [hook] 0.0s-2.5s | visual_type=founder-thinking | quality=43.2 | reusability=none | energy=medium | sentiment=neutral
+    "A few years ago I noticed"
+  [hook] 2.5s-8.2s | visual_type=product-demo-use-case | quality=43.9 | reusability=medium | energy=medium | sentiment=neutral
+    "that plates are a lot easier to wash and store than bowls"
+  [body] 8.2s-14.3s | visual_type=product-close-up | quality=37.2 | reusability=high | energy=medium | sentiment=neutral
+  [body] 14.3s-19.3s | visual_type=founder-talking-excited | quality=45.2 | reusability=medium | energy=high | sentiment=positive
+    "And since then I've been working my ass off on this"
+  [body] 19.3s-25.8s | visual_type=product-demo-feature | quality=44.5 | reusability=high | energy=medium | sentiment=positive
+    "It's a bowl that folds completely flat to save you space and effort while loading the dishwasher and storing in your cab"
+  [body] 25.8s-29.7s | visual_type=product-demo-use-case | quality=38.2 | reusability=medium | energy=medium | sentiment=positive
+    "These are currently in mass production"
+  [cta] 29.7s-32.9s | visual_type=founder-talking-excited | quality=46.7 | reusability=medium | energy=high | sentiment=positive
+    "and if you want to be notified on launch day comment once and I'll see you at the end"
+  [cta] 32.9s-35.4s | visual_type=founder-talking-neutral | quality=43.5 | reusability=medium | energy=medium | sentiment=positive
+    "See you on the next one Peace"

@@ -1,0 +1,37 @@
+=== 51. DES-8VjOmVa ===
+Upload date : 20250101
+Views       : 10,179
+Likes       : 403
+Comments    : 48
+Reposts     : 0
+
+Transcript:
+See this plate See this bowl You've never seen something like that in your entire life People always ask me why I invented this and what an 18 year old knows about kitchen products and The answer is very simple I just really hated doing the dishes So I wanted to invent something to make it a lot easier This bowl folds completely flat It saves space in your dishwasher and in your cabinets If you don't want to put in your dishwasher You just hand wash it really really easily They stack magnetically and they're really fun to use I just want to follow my journey creating this product and a lot of other Really cool products to make the kitchen experience significantly easier Drop me a follow and I'll see you in the next one Peace
+
+Segments (13):
+  [hook] 0.0s-2.3s | visual_type=founder-talking-neutral | quality=42.0 | reusability=none | energy=medium | sentiment=neutral
+    "See this plate"
+  [hook] 2.3s-4.6s | visual_type=product-in-hand | quality=42.2 | reusability=none | energy=medium | sentiment=neutral
+    "See this bowl"
+  [hook] 4.6s-6.4s | visual_type=founder-talking-neutral | quality=43.1 | reusability=medium | energy=medium | sentiment=positive
+    "You've never seen something like that in your entire life"
+  [body] 6.4s-11.8s | visual_type=founder-talking-neutral | quality=47.6 | reusability=medium | energy=medium | sentiment=neutral
+    "People always ask me why I invented this and what an 18 year old knows about kitchen products"
+  [body] 11.8s-14.9s | visual_type=founder-talking-neutral | quality=45.3 | reusability=medium | energy=medium | sentiment=neutral
+    "The answer is very simple I just really hated doing the dishes"
+  [body] 14.9s-17.9s | visual_type=founder-talking-neutral | quality=43.0 | reusability=medium | energy=medium | sentiment=neutral
+    "So I wanted to invent something to make it a lot easier"
+  [body] 17.9s-19.4s | visual_type=product-in-hand | quality=45.7 | reusability=high | energy=medium | sentiment=positive
+    "This bowl folds completely flat"
+  [body] 19.4s-22.1s | visual_type=product-in-hand | quality=47.1 | reusability=high | energy=medium | sentiment=positive
+    "It saves space in your dishwasher and in your cabinets"
+  [body] 22.1s-26.2s | visual_type=founder-talking-neutral | quality=47.4 | reusability=medium | energy=medium | sentiment=positive
+    "If you don't want to put in your dishwasher You just hand wash it really really easily"
+  [body] 26.2s-29.9s | visual_type=product-in-hand | quality=46.9 | reusability=high | energy=medium | sentiment=positive
+    "They stack magnetically and they're really fun to use"
+  [body] 29.9s-37.6s | visual_type=founder-talking-neutral | quality=43.3 | reusability=medium | energy=medium | sentiment=positive
+    "I just want to follow my journey creating this product and a lot of other Really cool products to make the kitchen exper"
+  [cta] 37.6s-39.7s | visual_type=founder-talking-neutral | quality=42.9 | reusability=medium | energy=medium | sentiment=positive
+    "Drop me a follow and I'll see you in the next one"
+  [cta] 39.7s-41.2s | visual_type=founder-talking-neutral | quality=42.8 | reusability=medium | energy=medium | sentiment=positive
+    "Peace"

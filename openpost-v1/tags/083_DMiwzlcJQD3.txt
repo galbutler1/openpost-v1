@@ -1,0 +1,25 @@
+=== 83. DMiwzlcJQD3 ===
+Upload date : 20250725
+Views       : 62,991
+Likes       : 1,898
+Comments    : 61
+Reposts     : 0
+
+Transcript:
+60 000 people know me as The Bowl Kid because I make videos about this product that I launched when I was 17 But what if I told you there's more to my company than just this bowl I first need to clarify that this bowl is currently in mass production and my primary focus is delivering it to my early backers That being said over the past few weeks I've been pitching hundreds of investors on an ecosystem of products that will revolutionize your kitchen experience So if you wanna find out what I'm building and see this product come to life drop me a follow and I'll see you in the next one Peace
+
+Segments (7):
+  [hook] 0.0s-3.6s | visual_type=lifestyle | quality=57.7 | reusability=none | energy=medium | sentiment=neutral
+    "60 000 people know me as The Bowl Kid"
+  [hook] 3.6s-7.5s | visual_type=product-in-hand | quality=59.8 | reusability=medium | energy=medium | sentiment=neutral
+    "because I make videos about this product that I launched when I was 17"
+  [body] 7.5s-12.8s | visual_type=text-overlay-only | quality=52.2 | reusability=medium | energy=medium | sentiment=neutral
+    "But what if I told you there's more to my company than just this bowl"
+  [body] 12.8s-19.8s | visual_type=split-screen | quality=52.1 | reusability=medium | energy=medium | sentiment=neutral
+    "I first need to clarify that this bowl is currently in mass production and my primary focus is delivering it to my early"
+  [body] 19.8s-27.9s | visual_type=founder-talking-neutral | quality=45.1 | reusability=medium | energy=medium | sentiment=positive
+    "That being said over the past few weeks I've been pitching hundreds of investors on an ecosystem of products that will r"
+  [cta] 27.9s-34.5s | visual_type=founder-talking-neutral | quality=44.3 | reusability=medium | energy=medium | sentiment=positive
+    "So if you wanna find out what I'm building and see this product come to life drop me a follow and I'll see you in the ne"
+  [cta] 34.5s-37.1s | visual_type=lifestyle | quality=61.7 | reusability=high | energy=medium | sentiment=positive
+    "Peace"

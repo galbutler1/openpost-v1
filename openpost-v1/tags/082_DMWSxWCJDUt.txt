@@ -1,0 +1,25 @@
+=== 82. DMWSxWCJDUt ===
+Upload date : 20250720
+Views       : 25,677
+Likes       : 756
+Comments    : 80
+Reposts     : 0
+
+Transcript:
+a quick update on my invention If you're new here it's a bowl that folds completely flat into a plate to save space in your dishwasher and cabinets and as you can see it can fit almost anywhere It's fair to say I've had my fair share of production issues However I've mainly just been giving vague updates on production delays but I wanted to take this opportunity to give you some specific information about what we're currently working on The sample I have here is mostly comprised of plastic which helps the product feel more sturdy However around the hinges and in the magnet coverings there's some silicone Using a combination of materials the way we're doing right now makes manufacturing a lot more complicated and when you combine two materials like this unfortunately they are very prone to peeling or falling apart as the product is used so we're currently experimenting with two different methods The first method is to make the product entirely out of plastic instead of using this silicone blend That'll be a little difficult to make the hinges still flexible and it'll also difficult holding the magnets in place That's because the areas on top of the magnets need to be extremely thin and silicone is a lot easier to mold in a thin way When you do it with plastic it's a little more complicated The other design option that we're testing is using silicone for the entire exterior of the product and then reinforcing the panels and the walls with a solid material so that it's still sturdy If you want to get updated on how these tests go and follow my journey creating this product and other really cool products that mean the world to me you can give me a follow and hope to see you in the next one Peace
+
+Segments (7):
+  [hook] 0.0s-3.0s | visual_type=founder-talking-neutral | quality=51.2 | reusability=high | energy=medium | sentiment=neutral
+    "a quick update on my invention"
+  [hook] 3.0s-10.0s | visual_type=founder-talking-neutral | quality=47.2 | reusability=medium | energy=medium | sentiment=positive
+    "If you're new here it's a bowl that folds completely flat into a plate to save space in your dishwasher and cabinets"
+  [body] 10.0s-22.0s | visual_type=founder-talking-neutral | quality=46.5 | reusability=medium | energy=medium | sentiment=mixed
+    "and as you can see it can fit almost anywhere It's fair to say I've had my fair share of production issues However I've "
+  [body] 22.0s-45.0s | visual_type=founder-talking-neutral | quality=47.8 | reusability=medium | energy=medium | sentiment=neutral
+    "but I wanted to take this opportunity to give you some specific information about what we're currently working on The sa"
+  [body] 45.0s-66.0s | visual_type=founder-talking-neutral | quality=44.7 | reusability=medium | energy=medium | sentiment=negative
+    "Using a combination of materials the way we're doing right now makes manufacturing a lot more complicated and when you c"
+  [body] 66.0s-76.0s | visual_type=founder-talking-neutral | quality=46.1 | reusability=medium | energy=medium | sentiment=neutral
+    "so we're currently experimenting with two different methods The first method is to make the product entirely out of plas"
+  [cta] 76.0s-86.8s | visual_type=founder-talking-neutral | quality=47.0 | reusability=high | energy=medium | sentiment=positive
+    "If you want to get updated on how these tests go and follow my journey creating this product and other really cool produ"

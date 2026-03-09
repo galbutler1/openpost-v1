@@ -1,0 +1,21 @@
+=== 100. DT3Z00gCdUl ===
+Upload date : 20260123
+Views       : 42,561
+Likes       : 1,790
+Comments    : 205
+Reposts     : 0
+
+Transcript:
+I'm Gaul and for the past few years I've been working on the most advanced dish of all time Unlike normal bowls that are bulky mine folds completely flat to save space in your dishwasher and cabinets I'm on a mission to revolutionize your kitchen experience and my first product is almost finally ready to purchase It'd mean the world to me if you could drop me a follow show some support and comment once if you want to be notified on launch day See you guys in the next one Peace Bye
+
+Segments (5):
+  [hook] 0.0s-5.9s | visual_type=outdoor | quality=57.3 | reusability=none | energy=medium | sentiment=neutral
+    "I'm Gaul and for the past few years I've been working on the most advanced dish of all time"
+  [body] 5.9s-12.9s | visual_type=text-overlay-only | quality=54.5 | reusability=high | energy=medium | sentiment=positive
+    "Unlike normal bowls that are bulky mine folds completely flat to save space in your dishwasher and cabinets"
+  [body] 12.9s-20.1s | visual_type=outdoor | quality=50.5 | reusability=high | energy=medium | sentiment=positive
+    "I'm on a mission to revolutionize your kitchen experience and my first product is almost finally ready to purchase"
+  [cta] 20.1s-26.5s | visual_type=outdoor | quality=51.3 | reusability=medium | energy=medium | sentiment=positive
+    "It'd mean the world to me if you could drop me a follow show some support and comment once if you want to be notified on"
+  [cta] 26.5s-30.1s | visual_type=outdoor | quality=39.8 | reusability=medium | energy=medium | sentiment=positive
+    "See you guys in the next one Peace Bye"

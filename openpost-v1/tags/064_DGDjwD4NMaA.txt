@@ -1,0 +1,21 @@
+=== 64. DGDjwD4NMaA ===
+Upload date : 20250214
+Views       : 8,359
+Likes       : 479
+Comments    : 22
+Reposts     : 0
+
+Transcript:
+I'm a teenage entrepreneur on a massive journey to improve your kitchen experience My first product is this bowl that folds completely flat into a plate to save space in your dishwasher and cabinets I launched it when I was 17 It raised some money and since then it's been in massive production Go to be notified when this bowl launches and when other really cool products launch that I promise you will significantly improve your kitchen experience Drop me a follow and hopefully see you in the next one Peace
+
+Segments (5):
+  [hook] 0.0s-3.8s | visual_type=founder-talking-neutral | quality=70.6 | reusability=medium | energy=medium | sentiment=positive
+    "I'm a teenage entrepreneur on a massive journey to improve your kitchen experience"
+  [body] 3.8s-11.8s | visual_type=product-demo-feature | quality=40.9 | reusability=high | energy=medium | sentiment=positive
+    "My first product is this bowl that folds completely flat into a plate to save space in your dishwasher and cabinets"
+  [body] 11.8s-16.8s | visual_type=text-overlay-only | quality=58.4 | reusability=medium | energy=medium | sentiment=positive
+    "I launched it when I was 17 It raised some money and since then it's been in massive production"
+  [body] 16.8s-24.8s | visual_type=text-overlay-only | quality=39.4 | reusability=medium | energy=medium | sentiment=positive
+    "Go to be notified when this bowl launches and when other really cool products launch that I promise you will significant"
+  [cta] 24.8s-29.0s | visual_type=text-overlay-only | quality=40.7 | reusability=medium | energy=medium | sentiment=positive
+    "Drop me a follow and hopefully see you in the next one Peace"

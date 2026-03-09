@@ -1,0 +1,18 @@
+=== 11. C85nDKEJiK7 ===
+Upload date : 20240702
+Views       : 17,189
+Likes       : 637
+Comments    : 51
+Reposts     : 0
+
+Transcript:
+So Sgt Pepper took you by surprise You better see right through that mother's eyes
+
+Segments (4):
+  [hook] 0.0s-2.0s | visual_type=environment | quality=32.7 | reusability=high | energy=medium | sentiment=neutral
+    "So"
+  [hook] 2.0s-8.5s | visual_type=environment | quality=33.2 | reusability=high | energy=medium | sentiment=neutral
+    "Sgt Pepper took you by surprise"
+  [body] 8.5s-11.9s | visual_type=environment | quality=36.1 | reusability=high | energy=silent | sentiment=neutral
+  [cta] 11.9s-17.7s | visual_type=environment | quality=38.3 | reusability=high | energy=medium | sentiment=neutral
+    "You better see right through that mother's eyes"

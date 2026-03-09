@@ -1,0 +1,27 @@
+=== 96. DSXFQd0jTYq ===
+Upload date : 20251217
+Views       : 9,335
+Likes       : 820
+Comments    : 133
+Reposts     : 0
+
+Transcript:
+For the past two years I've been posting videos about my invention but after a bunch of testing the hinges that we're using have been cracking and falling apart In my last video I mentioned that we changed manufacturers and have completely re engineered our molds to solve this problem The results are back Right here is a video of one of our engineers folding the sample They did it over 5 000 times and it's still going strong This is a massive update which brings us in the next phase of production for this product If you want to know when it's finally ready to purchase comment once and I'll add you to the waitlist For updates just give me a follow I'll see you in the next one Peace
+
+Segments (8):
+  [hook] 0.0s-3.6s | visual_type=product-in-hand | quality=69.5 | reusability=high | energy=medium | sentiment=neutral
+    "For the past two years I've been posting videos about my invention"
+  [hook] 3.6s-8.9s | visual_type=split-screen | quality=38.3 | reusability=medium | energy=medium | sentiment=negative
+    "but after a bunch of testing the hinges that we're using have been cracking and falling apart"
+  [body] 8.9s-14.9s | visual_type=split-screen | quality=85.4 | reusability=medium | energy=medium | sentiment=neutral
+    "In my last video I mentioned that we changed manufacturers and have completely re engineered our molds to solve this pro"
+  [body] 14.9s-16.0s | visual_type=split-screen | quality=47.1 | reusability=medium | energy=medium | sentiment=positive
+    "The results are back"
+  [body] 16.0s-23.7s | visual_type=product-in-hand | quality=63.1 | reusability=medium | energy=medium | sentiment=positive
+    "Right here is a video of one of our engineers folding the sample They did it over 5 000 times and it's still going stron"
+  [body] 23.7s-28.3s | visual_type=product-in-hand | quality=40.8 | reusability=medium | energy=medium | sentiment=positive
+    "This is a massive update which brings us in the next phase of production for this product"
+  [cta] 28.3s-33.4s | visual_type=founder-talking-neutral | quality=39.3 | reusability=medium | energy=medium | sentiment=neutral
+    "If you want to know when it's finally ready to purchase comment once and I'll add you to the waitlist"
+  [cta] 33.4s-37.9s | visual_type=text-overlay-only | quality=65.8 | reusability=medium | energy=medium | sentiment=positive
+    "For updates just give me a follow I'll see you in the next one Peace"

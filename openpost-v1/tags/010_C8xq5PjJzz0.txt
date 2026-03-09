@@ -1,0 +1,30 @@
+=== 10. C8xq5PjJzz0 ===
+Upload date : 20240628
+Views       : 29,876
+Likes       : 1,349
+Comments    : 61
+Reposts     : 0
+
+Transcript:
+I've taken strictly cold showers for 1 520 days for three main reasons but the third one is by far the most important The first one is discipline It doesn't matter how I'm feeling or what I'm thinking about when you step into ice cold water your brain is immediately focused on the present moment It clears your mind and it makes you feel super motivated when you get out The second reason is health There's countless studies proving the benefits of taking cold showers The third reason and by far the most important is streak I have over 1 500 hard earned days on the line There's been cold winter days where I was cold before even going into the shower and there's been days where I was feeling sick and all I wanted was some warm water But I forced myself to do it for the streak The cool thing is I've applied this method to other things and once you do something for a long amount of time the fear of breaking your streak motivates you more than anything else I could not recommend trying this habit building strategy enough I'll see you guys Peace
+
+Segments (10):
+  [hook] 0.0s-1.7s | visual_type=lifestyle | quality=35.5 | reusability=high | energy=medium | sentiment=neutral
+  [hook] 1.7s-6.6s | visual_type=text-overlay-only | quality=47.2 | reusability=medium | energy=medium | sentiment=neutral
+    "I've taken strictly cold showers for 1 520 days for three main reasons"
+  [hook] 6.6s-10.2s | visual_type=founder-talking-neutral | quality=43.8 | reusability=medium | energy=medium | sentiment=neutral
+    "but the third one is by far the most important"
+  [body] 10.2s-23.0s | visual_type=text-overlay-only | quality=79.5 | reusability=medium | energy=medium | sentiment=positive
+    "The first one is discipline It doesn't matter how I'm feeling or what I'm thinking about when you step into ice cold wat"
+  [body] 23.0s-28.2s | visual_type=text-overlay-only | quality=98.6 | reusability=medium | energy=medium | sentiment=positive
+    "The second reason is health There's countless studies proving the benefits of taking cold showers"
+  [body] 28.2s-35.3s | visual_type=founder-talking-neutral | quality=68.3 | reusability=medium | energy=medium | sentiment=positive
+    "The third reason and by far the most important is streak I have over 1 500 hard earned days on the line"
+  [body] 35.3s-45.6s | visual_type=founder-talking-neutral | quality=51.5 | reusability=medium | energy=medium | sentiment=mixed
+    "There's been cold winter days where I was cold before even going into the shower and there's been days where I was feeli"
+  [body] 45.6s-54.2s | visual_type=founder-talking-neutral | quality=35.4 | reusability=medium | energy=medium | sentiment=positive
+    "The cool thing is I've applied this method to other things and once you do something for a long amount of time the fear "
+  [cta] 54.2s-57.5s | visual_type=founder-talking-neutral | quality=36.0 | reusability=medium | energy=medium | sentiment=positive
+    "I could not recommend trying this habit building strategy enough"
+  [cta] 57.5s-60.2s | visual_type=founder-talking-neutral | quality=43.6 | reusability=medium | energy=medium | sentiment=positive
+    "I'll see you guys Peace"

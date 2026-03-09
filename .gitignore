@@ -1,0 +1,18 @@
+# Data (large files, not for git)
+data/
+output/
+input_videos/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store

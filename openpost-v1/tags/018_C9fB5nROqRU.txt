@@ -1,0 +1,27 @@
+=== 18. C9fB5nROqRU ===
+Upload date : 20240716
+Views       : 25,314
+Likes       : 861
+Comments    : 55
+Reposts     : 0
+
+Transcript:
+I was a clown in high school I was working on my dream And here I am now I'm hard at work on manufacturing my first product and developing new ones And if you made it this far in the video you're probably a dreamer just like me And I'd love to share my journey with you I'll see you in the next one Peace
+
+Segments (8):
+  [hook] 0.0s-1.3s | visual_type=workspace | quality=72.8 | reusability=none | energy=medium | sentiment=neutral
+    "I was a clown in high school"
+  [hook] 1.3s-2.8s | visual_type=outdoor | quality=99.7 | reusability=medium | energy=medium | sentiment=positive
+    "I was working on my dream"
+  [body] 2.8s-5.3s | visual_type=outdoor | quality=93.6 | reusability=medium | energy=medium | sentiment=positive
+    "And here I am now"
+  [body] 5.3s-9.3s | visual_type=product-in-hand | quality=95.7 | reusability=high | energy=medium | sentiment=positive
+    "I'm hard at work on manufacturing my first product and developing new ones"
+  [body] 9.3s-13.2s | visual_type=outdoor | quality=45.9 | reusability=medium | energy=medium | sentiment=positive
+    "And if you made it this far in the video you're probably a dreamer just like me"
+  [body] 13.2s-15.6s | visual_type=text-overlay-only | quality=66.2 | reusability=medium | energy=medium | sentiment=positive
+    "And I'd love to share my journey with you"
+  [cta] 15.6s-17.3s | visual_type=outdoor | quality=47.4 | reusability=medium | energy=medium | sentiment=positive
+    "I'll see you in the next one"
+  [cta] 17.3s-22.0s | visual_type=workspace | quality=96.1 | reusability=medium | energy=medium | sentiment=positive
+    "Peace"

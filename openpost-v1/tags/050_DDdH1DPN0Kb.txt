@@ -1,0 +1,28 @@
+=== 50. DDdH1DPN0Kb ===
+Upload date : 20241211
+Views       : 15,278
+Likes       : 169
+Comments    : 29
+Reposts     : 0
+
+Transcript:
+good question let me just check my fridge no no bro why are you still watching this video oh so so what are you doing i'm watching a talk to a podcast oh no oh no i fell off both these are in mass production come at once to be notified on launch day and i'll see you in the next one peace
+
+Segments (9):
+  [hook] 0.0s-1.1s | visual_type=product-demo-use-case | quality=44.0 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 1.1s-3.4s | visual_type=product-demo-use-case | quality=51.3 | reusability=medium | energy=medium | sentiment=neutral
+    "good question let me just check my fridge"
+  [hook] 3.4s-7.0s | visual_type=product-demo-use-case | quality=51.5 | reusability=low | energy=medium | sentiment=neutral
+    "no no bro why are you still watching this video"
+  [body] 7.0s-10.4s | visual_type=product-demo-use-case | quality=39.1 | reusability=medium | energy=medium | sentiment=neutral
+    "oh so so what are you doing"
+  [body] 10.4s-12.2s | visual_type=lifestyle | quality=40.4 | reusability=medium | energy=medium | sentiment=neutral
+    "i'm watching a talk to a podcast"
+  [body] 12.2s-14.8s | visual_type=founder-talking-neutral | quality=39.3 | reusability=medium | energy=medium | sentiment=neutral
+    "oh no oh no i fell off"
+  [body] 14.8s-16.6s | visual_type=blank-space | quality=28.1 | reusability=medium | energy=medium | sentiment=neutral
+    "both these are in mass production"
+  [cta] 16.6s-18.7s | visual_type=product-demo-feature | quality=36.2 | reusability=high | energy=medium | sentiment=positive
+    "come at once to be notified on launch day"
+  [cta] 18.7s-20.6s | visual_type=product-demo-feature | quality=35.3 | reusability=high | energy=medium | sentiment=positive
+    "and i'll see you in the next one peace"

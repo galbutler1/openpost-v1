@@ -1,0 +1,23 @@
+=== 27. C_BejCxpV04 ===
+Upload date : 20240823
+Views       : 7,075
+Likes       : 408
+Comments    : 80
+Reposts     : 0
+
+Transcript:
+Bro has unlimited bowls to break That's really not true I'm actually running out of bowls and I can't afford to keep them ♪ Look in my eyes tell me a tale do you see the road ♪ ♪ I'm out to my soul tell me the size when ♪ If you're new here I'm Gall I'm 18 and I recently invented this space saving bowl as my first product of my company Wave where I'm on a massive mission to revolutionize the kitchen industry These are currently in mass production If you wanna be notified on launch day comment once and I'll shoot you a DM Also I still have the tag on my shirt Not sure if I wanna return it So comment about that too Peace
+
+Segments (6):
+  [hook] 0.0s-1.6s | visual_type=founder-talking-neutral | quality=59.8 | reusability=medium | energy=medium | sentiment=neutral
+    "Bro has unlimited bowls to break"
+  [hook] 1.6s-4.9s | visual_type=founder-talking-neutral | quality=56.8 | reusability=medium | energy=medium | sentiment=neutral
+    "That's really not true I'm actually running out of bowls and I can't afford to keep them"
+  [hook] 4.9s-9.0s | visual_type=lifestyle | quality=40.7 | reusability=low | energy=medium | sentiment=neutral
+    "♪ Look in my eyes tell me a tale do you see the road ♪ ♪ I'm out to my soul tell me the size when ♪"
+  [body] 9.0s-19.3s | visual_type=founder-talking-neutral | quality=58.4 | reusability=medium | energy=medium | sentiment=positive
+    "If you're new here I'm Gall I'm 18 and I recently invented this space saving bowl as my first product of my company Wave"
+  [body] 19.3s-24.0s | visual_type=founder-talking-neutral | quality=58.9 | reusability=medium | energy=medium | sentiment=positive
+    "These are currently in mass production If you wanna be notified on launch day comment once and I'll shoot you a DM"
+  [cta] 24.0s-29.4s | visual_type=founder-talking-neutral | quality=58.2 | reusability=medium | energy=medium | sentiment=neutral
+    "Also I still have the tag on my shirt Not sure if I wanna return it So comment about that too Peace"

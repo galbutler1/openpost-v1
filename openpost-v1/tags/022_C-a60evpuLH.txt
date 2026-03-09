@@ -1,0 +1,26 @@
+=== 22. C-a60evpuLH ===
+Upload date : 20240808
+Views       : 2,670
+Likes       : 178
+Comments    : 33
+Reposts     : 0
+
+Transcript:
+You can only run your fastest when you're being chased What helps me get motivated is thinking about the ambitious goals I have and the constantly shrinking time I have to achieve them Peace
+
+Segments (8):
+  [hook] 0.0s-2.1s | visual_type=b-roll-cutaway | quality=12.8 | reusability=high | energy=medium | sentiment=neutral
+    "You can only run your fastest"
+  [hook] 2.1s-3.4s | visual_type=text-overlay-only | quality=29.4 | reusability=high | energy=medium | sentiment=neutral
+    "when you're being chased"
+  [body] 3.4s-6.7s | visual_type=b-roll-cutaway | quality=47.9 | reusability=none | energy=silent | sentiment=neutral
+  [body] 6.7s-8.5s | visual_type=workspace | quality=38.9 | reusability=medium | energy=medium | sentiment=neutral
+    "What helps me get motivated is"
+  [body] 8.5s-10.6s | visual_type=text-overlay-only | quality=33.8 | reusability=medium | energy=medium | sentiment=positive
+    "thinking about the ambitious goals I have"
+  [body] 10.6s-12.4s | visual_type=text-overlay-only | quality=45.4 | reusability=medium | energy=medium | sentiment=neutral
+    "and the constantly shrinking time I have"
+  [body] 12.4s-14.2s | visual_type=text-overlay-only | quality=56.3 | reusability=medium | energy=medium | sentiment=neutral
+    "to achieve them"
+  [cta] 14.2s-17.1s | visual_type=text-overlay-only | quality=25.5 | reusability=medium | energy=low | sentiment=positive
+    "Peace"

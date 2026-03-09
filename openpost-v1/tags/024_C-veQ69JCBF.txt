@@ -1,0 +1,31 @@
+=== 24. C-veQ69JCBF ===
+Upload date : 20240816
+Views       : 5,040
+Likes       : 313
+Comments    : 24
+Reposts     : 0
+
+Transcript:
+Before I launched my product I needed capital Here's three things I did to make some money but also gain a business experience The first one was at home car washing I got much better at sales much better at interacting with people and I definitely learned a lot about business The second thing was window cleaning I went to as many storefronts as I could find and offered them to clean their windows The third one was pizza drop shipping Hear me out The pizza store across the street from my school had closed so my friend and I called the pizza store a few blocks away and ordered 10 to 15 pies a day and brought credit card readers and allowed everyone to order pizza This was by far the most effective because there was the most demand We acted quickly and creatively and took advantage of an unsolved problem Just because no one's doing it doesn't mean it's not possible and there isn't money to be made See you in the next one Peace
+
+Segments (10):
+  [hook] 0.0s-3.2s | visual_type=outdoor | quality=80.8 | reusability=medium | energy=medium | sentiment=neutral
+    "Before I launched my product"
+  [hook] 3.2s-6.5s | visual_type=outdoor | quality=78.2 | reusability=medium | energy=medium | sentiment=neutral
+    "I needed capital Here's three things I did to make some money but also gain a business experience"
+  [body] 6.5s-8.7s | visual_type=outdoor | quality=84.6 | reusability=medium | energy=medium | sentiment=neutral
+    "The first one was at home car washing"
+  [body] 8.7s-14.0s | visual_type=outdoor | quality=71.9 | reusability=medium | energy=medium | sentiment=positive
+    "I got much better at sales much better at interacting with people and I definitely learned a lot about business"
+  [body] 14.0s-19.6s | visual_type=outdoor | quality=74.6 | reusability=medium | energy=medium | sentiment=neutral
+    "The second thing was window cleaning I went to as many storefronts as I could find and offered them to clean their windo"
+  [body] 19.6s-23.6s | visual_type=outdoor | quality=65.5 | reusability=medium | energy=medium | sentiment=neutral
+    "The third one was pizza drop shipping Hear me out"
+  [body] 23.6s-34.3s | visual_type=outdoor | quality=98.5 | reusability=medium | energy=medium | sentiment=positive
+    "The pizza store across the street from my school had closed so my friend and I called the pizza store a few blocks away "
+  [body] 34.3s-40.6s | visual_type=outdoor | quality=82.9 | reusability=medium | energy=medium | sentiment=positive
+    "This was by far the most effective because there was the most demand We acted quickly and creatively and took advantage "
+  [body] 40.6s-44.9s | visual_type=outdoor | quality=83.0 | reusability=medium | energy=medium | sentiment=positive
+    "Just because no one's doing it doesn't mean it's not possible and there isn't money to be made"
+  [cta] 44.9s-46.7s | visual_type=outdoor | quality=47.0 | reusability=medium | energy=medium | sentiment=positive
+    "See you in the next one Peace"

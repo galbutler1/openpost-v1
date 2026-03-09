@@ -1,0 +1,32 @@
+=== 36. DChVHFpNrRR ===
+Upload date : 20241118
+Views       : 11,695
+Likes       : 967
+Comments    : 36
+Reposts     : 0
+
+Transcript:
+Here's the story It all started when I launched this bull which I'd been working on for years prior to the launch The launch went great but there was an issue Plenty of people had tried to knock off my product but unfortunately the platform I was raising money on thought that I copied them Of course I sent them videos and patent applications clearly proving that I invented the product Luckily they corrected their mistake and I learned a great lesson Dealing with people who don't believe in you is significantly easier when you can prove them wrong with your actions and not just your words I'll see you on the next one Peace
+
+Segments (11):
+  [hook] 0.0s-6.7s | visual_type=lifestyle | quality=56.4 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 6.7s-8.6s | visual_type=text-overlay-only | quality=46.9 | reusability=medium | energy=medium | sentiment=neutral
+    "Here's the story"
+  [body] 8.6s-13.4s | visual_type=product-demo-feature | quality=47.7 | reusability=medium | energy=medium | sentiment=positive
+    "It all started when I launched this bull which I'd been working on for years prior to the launch"
+  [body] 13.4s-15.2s | visual_type=founder-talking-excited | quality=68.9 | reusability=medium | energy=high | sentiment=positive
+    "The launch went great"
+  [body] 15.2s-18.2s | visual_type=founder-talking-neutral | quality=54.3 | reusability=medium | energy=medium | sentiment=mixed
+    "but there was an issue"
+  [body] 18.2s-24.5s | visual_type=founder-talking-neutral | quality=74.4 | reusability=low | energy=medium | sentiment=negative
+    "Plenty of people had tried to knock off my product but unfortunately the platform I was raising money on thought that I "
+  [body] 24.5s-30.7s | visual_type=founder-talking-neutral | quality=59.5 | reusability=low | energy=medium | sentiment=neutral
+    "Of course I sent them videos and patent applications clearly proving that I invented the product"
+  [body] 30.7s-33.9s | visual_type=founder-talking-neutral | quality=99.2 | reusability=medium | energy=medium | sentiment=positive
+    "Luckily they corrected their mistake and I learned a great lesson"
+  [body] 33.9s-39.7s | visual_type=founder-talking-neutral | quality=97.6 | reusability=medium | energy=medium | sentiment=positive
+    "Dealing with people who don't believe in you is significantly easier when you can prove them wrong with your actions and"
+  [cta] 39.7s-41.6s | visual_type=founder-talking-neutral | quality=86.8 | reusability=medium | energy=medium | sentiment=neutral
+    "I'll see you on the next one"
+  [cta] 41.6s-44.6s | visual_type=text-overlay-only | quality=46.2 | reusability=high | energy=medium | sentiment=positive
+    "Peace"

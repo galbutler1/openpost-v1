@@ -1,0 +1,43 @@
+=== 69. DG_lJgsNUQB ===
+Upload date : 20250309
+Views       : 9,135
+Likes       : 279
+Comments    : 34
+Reposts     : 0
+
+Transcript:
+I'm a chef Oh you're a chef Okay awesome Yeah yeah yeah Excuse me sir Do you like washing dishes I do wash dishes on a daily basis I'm a chef Oh you're a chef Okay awesome Yeah yeah yeah So I want to help you out I invented this plate Fold it into a bowl and you can see it When you're loading your dishwasher you can fold it flat and save a bunch of space Make it a little bit easier No man This doesn't work for my kitchen Doesn't work for your kitchen No Okay How about for your house 9th floor Okay Ridiculous Yeah Yeah
+
+Segments (16):
+  [hook] 0.0s-2.5s | visual_type=text-overlay-only | quality=60.3 | reusability=none | energy=medium | sentiment=neutral
+    "I'm a chef Oh you're a chef Okay awesome Yeah yeah yeah"
+  [hook] 2.5s-4.0s | visual_type=text-overlay-only | quality=47.5 | reusability=medium | energy=medium | sentiment=neutral
+    "Excuse me sir"
+  [hook] 4.0s-5.4s | visual_type=split-screen | quality=52.4 | reusability=medium | energy=medium | sentiment=neutral
+    "Do you like washing dishes"
+  [hook] 5.4s-9.4s | visual_type=text-overlay-only | quality=53.9 | reusability=medium | energy=medium | sentiment=neutral
+    "I do wash dishes on a daily basis I'm a chef"
+  [hook] 9.4s-11.6s | visual_type=text-overlay-only | quality=48.8 | reusability=medium | energy=medium | sentiment=positive
+    "Oh you're a chef Okay awesome Yeah yeah yeah"
+  [body] 11.6s-13.0s | visual_type=text-overlay-only | quality=47.0 | reusability=medium | energy=medium | sentiment=positive
+    "So I want to help you out"
+  [body] 13.0s-14.2s | visual_type=product-in-hand | quality=45.9 | reusability=high | energy=medium | sentiment=positive
+    "I invented this plate"
+  [body] 14.2s-17.2s | visual_type=product-in-hand | quality=46.1 | reusability=high | energy=medium | sentiment=positive
+    "Fold it into a bowl and you can see it"
+  [body] 17.2s-20.5s | visual_type=product-in-hand | quality=49.6 | reusability=high | energy=medium | sentiment=positive
+    "When you're loading your dishwasher you can fold it flat and save a bunch of space"
+  [body] 20.5s-21.6s | visual_type=product-in-hand | quality=49.5 | reusability=high | energy=medium | sentiment=positive
+    "Make it a little bit easier"
+  [body] 21.6s-24.7s | visual_type=product-in-hand | quality=46.9 | reusability=medium | energy=medium | sentiment=negative
+    "No man This doesn't work for my kitchen"
+  [body] 24.7s-26.1s | visual_type=text-overlay-only | quality=51.1 | reusability=medium | energy=medium | sentiment=negative
+    "Doesn't work for your kitchen No"
+  [body] 26.1s-27.4s | visual_type=product-in-hand | quality=54.1 | reusability=medium | energy=medium | sentiment=neutral
+    "Okay How about for your house"
+  [body] 27.4s-28.8s | visual_type=product-in-hand | quality=46.1 | reusability=medium | energy=medium | sentiment=neutral
+    "9th floor"
+  [body] 28.8s-31.2s | visual_type=text-overlay-only | quality=46.8 | reusability=medium | energy=medium | sentiment=negative
+    "Okay Ridiculous"
+  [cta] 31.2s-36.1s | visual_type=text-overlay-only | quality=32.0 | reusability=medium | energy=medium | sentiment=neutral
+    "Yeah Yeah"

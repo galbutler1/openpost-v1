@@ -1,0 +1,19 @@
+=== 43. DDNCrleteiW ===
+Upload date : 20241205
+Views       : 6,118
+Likes       : 165
+Comments    : 19
+Reposts     : 0
+
+Transcript:
+For some reason this is a hot take I don't think you should be making a course unless you've already done what you're teaching in the course That's it
+
+Segments (4):
+  [hook] 0.0s-1.3s | visual_type=founder-talking-neutral | quality=48.2 | reusability=none | energy=medium | sentiment=neutral
+    "For some reason this is a hot take"
+  [body] 1.3s-3.4s | visual_type=founder-talking-neutral | quality=45.8 | reusability=medium | energy=medium | sentiment=neutral
+    "I don't think you should be making a course unless"
+  [body] 3.4s-5.9s | visual_type=founder-talking-neutral | quality=47.9 | reusability=medium | energy=medium | sentiment=neutral
+    "you've already done what you're teaching in the course"
+  [cta] 5.9s-8.6s | visual_type=founder-talking-neutral | quality=48.6 | reusability=medium | energy=medium | sentiment=neutral
+    "That's it"

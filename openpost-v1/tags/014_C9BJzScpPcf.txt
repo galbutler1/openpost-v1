@@ -1,0 +1,27 @@
+=== 14. C9BJzScpPcf ===
+Upload date : 20240704
+Views       : 9,376
+Likes       : 511
+Comments    : 27
+Reposts     : 0
+
+Transcript:
+Ever feel like you're drowning in distractions and can't get anything done This simple hack is scientifically proven to save two and a half to six hours per week All you have to do is change your phone display to black and white and your screen time will drop dramatically What will you do with your extra time Personally I'm building a line of products to revolutionize the kitchen experience If that sounds cool to you it means the world to me if you can give me a follow and I'd love to hear about what dreams you're working towards Share them in the comment section or shoot me a DM and I'll see you in the next one Peace
+
+Segments (8):
+  [hook] 0.0s-3.6s | visual_type=outdoor | quality=82.5 | reusability=high | energy=medium | sentiment=neutral
+    "Ever feel like you're drowning in distractions and can't get anything done"
+  [body] 3.6s-8.2s | visual_type=text-overlay-only | quality=88.2 | reusability=medium | energy=medium | sentiment=positive
+    "This simple hack is scientifically proven to save two and a half to six hours per week"
+  [body] 8.2s-14.4s | visual_type=text-overlay-only | quality=60.8 | reusability=medium | energy=medium | sentiment=positive
+    "All you have to do is change your phone display to black and white and your screen time will drop dramatically"
+  [body] 14.4s-16.5s | visual_type=founder-talking-neutral | quality=62.6 | reusability=medium | energy=medium | sentiment=neutral
+    "What will you do with your extra time"
+  [body] 16.5s-20.0s | visual_type=founder-talking-neutral | quality=59.2 | reusability=medium | energy=medium | sentiment=positive
+    "Personally I'm building a line of products to revolutionize the kitchen experience"
+  [cta] 20.0s-23.6s | visual_type=founder-talking-neutral | quality=51.2 | reusability=medium | energy=medium | sentiment=positive
+    "If that sounds cool to you it means the world to me if you can give me a follow"
+  [cta] 23.6s-26.0s | visual_type=founder-talking-neutral | quality=42.0 | reusability=medium | energy=medium | sentiment=positive
+    "and I'd love to hear about what dreams you're working towards"
+  [cta] 26.0s-30.8s | visual_type=founder-talking-neutral | quality=55.3 | reusability=medium | energy=medium | sentiment=positive
+    "Share them in the comment section or shoot me a DM and I'll see you in the next one Peace"

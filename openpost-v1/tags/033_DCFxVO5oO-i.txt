@@ -1,0 +1,26 @@
+=== 33. DCFxVO5oO-i ===
+Upload date : 20241108
+Views       : 3,557
+Likes       : 211
+Comments    : 18
+Reposts     : 0
+
+Transcript:
+I'm an 18 year old entrepreneur and last year I launched my first product Things started off great until I realized how f***ing hard it was to manufacture I've had to learn some lessons the hard way but I've definitely learned them and things are headed in a very exciting direction I'm just getting started on this crazy journey and I mean the world to me if you can give me a follow so I can share it with you See you in the next one Peace Bye Bye
+
+Segments (9):
+  [hook] 0.0s-2.8s | visual_type=product-demo-use-case | quality=49.4 | reusability=none | energy=medium | sentiment=neutral
+    "I'm an 18 year old entrepreneur"
+  [hook] 2.8s-5.1s | visual_type=product-demo-use-case | quality=50.7 | reusability=medium | energy=medium | sentiment=positive
+    "and last year I launched my first product"
+  [hook] 5.1s-9.4s | visual_type=product-in-hand | quality=38.5 | reusability=high | energy=medium | sentiment=neutral
+  [body] 9.4s-13.3s | visual_type=founder-talking-neutral | quality=39.8 | reusability=medium | energy=medium | sentiment=mixed
+    "Things started off great until I realized how f***ing hard it was to manufacture"
+  [body] 13.3s-14.7s | visual_type=founder-talking-serious | quality=42.7 | reusability=medium | energy=medium | sentiment=neutral
+  [body] 14.7s-18.0s | visual_type=founder-talking-neutral | quality=54.2 | reusability=medium | energy=medium | sentiment=positive
+    "I've had to learn some lessons the hard way but I've definitely learned them and things are headed in a very exciting di"
+  [body] 18.0s-23.3s | visual_type=founder-talking-excited | quality=39.3 | reusability=medium | energy=high | sentiment=positive
+  [cta] 23.3s-27.2s | visual_type=founder-talking-neutral | quality=40.5 | reusability=medium | energy=medium | sentiment=positive
+    "I'm just getting started on this crazy journey and I mean the world to me if you can give me a follow"
+  [cta] 27.2s-30.9s | visual_type=outdoor | quality=43.8 | reusability=medium | energy=medium | sentiment=positive
+    "so I can share it with you See you in the next one Peace Bye Bye"

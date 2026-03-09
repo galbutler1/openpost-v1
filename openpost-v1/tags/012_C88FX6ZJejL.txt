@@ -1,0 +1,27 @@
+=== 12. C88FX6ZJejL ===
+Upload date : 20240702
+Views       : 5,398,429
+Likes       : 362,454
+Comments    : 7,098
+Reposts     : 0
+
+Transcript:
+So I invented this bowl that stores completely flat to save space and everyone is commenting if it can hold cereal and milk Suitable for the best meal in the world The walls do not open easily As you can see I'm using pretty strong magnets Obviously if you were to hold it like this and rip it apart yes the walls will open but if you use it normally with common sense it's perfectly fine for liquids And then of course cleanup is super easy Unfold it and then just run some water Good as new
+
+Segments (8):
+  [hook] 0.0s-3.9s | visual_type=product-demo-use-case | quality=57.9 | reusability=high | energy=medium | sentiment=positive
+    "So I invented this bowl that stores completely flat to save space"
+  [hook] 3.9s-8.3s | visual_type=product-demo-use-case | quality=56.8 | reusability=medium | energy=medium | sentiment=neutral
+    "and everyone is commenting if it can hold cereal and milk"
+  [body] 8.3s-15.3s | visual_type=product-demo-use-case | quality=56.3 | reusability=medium | energy=medium | sentiment=positive
+    "Suitable for the best meal in the world"
+  [body] 15.3s-19.2s | visual_type=product-demo-use-case | quality=64.1 | reusability=high | energy=medium | sentiment=positive
+    "The walls do not open easily As you can see I'm using pretty strong magnets"
+  [body] 19.2s-24.6s | visual_type=product-demo-use-case | quality=64.3 | reusability=medium | energy=medium | sentiment=neutral
+    "Obviously if you were to hold it like this and rip it apart yes the walls will open"
+  [body] 24.6s-29.9s | visual_type=product-demo-use-case | quality=65.0 | reusability=high | energy=medium | sentiment=positive
+    "but if you use it normally with common sense it's perfectly fine for liquids"
+  [body] 29.9s-36.4s | visual_type=product-demo-use-case | quality=62.9 | reusability=high | energy=medium | sentiment=positive
+    "And then of course cleanup is super easy Unfold it and then just run some water"
+  [cta] 36.4s-42.2s | visual_type=product-demo-use-case | quality=59.2 | reusability=medium | energy=medium | sentiment=positive
+    "Good as new"

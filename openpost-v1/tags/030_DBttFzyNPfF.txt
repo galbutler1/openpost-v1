@@ -1,0 +1,25 @@
+=== 30. DBttFzyNPfF ===
+Upload date : 20241029
+Views       : 2,683
+Likes       : 163
+Comments    : 34
+Reposts     : 0
+
+Transcript:
+Patience is not about waiting it's about figuring out what to do now Over a year ago I launched as a full It did pretty well but then there was a manufacturing delay and another and another and after months of this I realized I need to stop waiting and start doing things in the meantime So I grew my Instagram and developed multiple patent pending products And while of course I still struggle with patience focusing on what I can do now has been extremely helpful Peace
+
+Segments (7):
+  [hook] 0.0s-3.7s | visual_type=text-overlay-only | quality=46.2 | reusability=high | energy=medium | sentiment=neutral
+    "Patience is not about waiting it's about figuring out what to do now"
+  [body] 3.7s-8.7s | visual_type=screen-recording | quality=45.8 | reusability=medium | energy=medium | sentiment=mixed
+    "Over a year ago I launched as a full It did pretty well but then there was a manufacturing delay"
+  [body] 8.7s-12.2s | visual_type=screen-recording | quality=48.1 | reusability=medium | energy=medium | sentiment=negative
+    "and another and another and after months of this I realized I need to stop waiting"
+  [body] 12.2s-15.1s | visual_type=text-overlay-only | quality=36.7 | reusability=medium | energy=medium | sentiment=positive
+    "and start doing things in the meantime So I grew my Instagram"
+  [body] 15.1s-17.8s | visual_type=screen-recording | quality=45.9 | reusability=medium | energy=medium | sentiment=positive
+    "and developed multiple patent pending products"
+  [body] 17.8s-22.0s | visual_type=text-overlay-only | quality=39.2 | reusability=high | energy=medium | sentiment=positive
+    "And while of course I still struggle with patience focusing on what I can do now has been extremely helpful"
+  [cta] 22.0s-23.4s | visual_type=text-overlay-only | quality=31.1 | reusability=high | energy=low | sentiment=positive
+    "Peace"

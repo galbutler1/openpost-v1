@@ -1,0 +1,27 @@
+=== 57. DFLMdg2txkD ===
+Upload date : 20250123
+Views       : 7,853
+Likes       : 415
+Comments    : 43
+Reposts     : 0
+
+Transcript:
+It doesn't matter where you record your video or how fancy your editing is what's most important is what you're talking about Personally I'm documenting my journey creating a company called Wave where I'm making revolutionary kitchen products My first product is this bowl that folds flat into a plate with a safe space a dishwasher and cabinets and I have some really cool things coming If you mean the world to me you can give me a follow Hopefully I'll see you in the next one
+
+Segments (8):
+  [hook] 0.0s-3.5s | visual_type=text-overlay-only | quality=43.5 | reusability=high | energy=medium | sentiment=neutral
+    "It doesn't matter where you record your video or how fancy your editing is"
+  [hook] 3.5s-6.1s | visual_type=text-overlay-only | quality=39.7 | reusability=high | energy=medium | sentiment=neutral
+    "what's most important is what you're talking about"
+  [body] 6.1s-12.4s | visual_type=text-overlay-only | quality=46.6 | reusability=medium | energy=medium | sentiment=positive
+    "Personally I'm documenting my journey creating a company called Wave where I'm making revolutionary kitchen products"
+  [body] 12.4s-15.5s | visual_type=product-demo-feature | quality=44.3 | reusability=medium | energy=medium | sentiment=positive
+    "My first product is this bowl that folds flat into a plate"
+  [body] 15.5s-18.1s | visual_type=product-demo-feature | quality=43.7 | reusability=medium | energy=medium | sentiment=positive
+    "with a safe space a dishwasher and cabinets"
+  [body] 18.1s-19.4s | visual_type=split-screen | quality=46.6 | reusability=medium | energy=medium | sentiment=positive
+    "and I have some really cool things coming"
+  [cta] 19.4s-21.1s | visual_type=text-overlay-only | quality=41.1 | reusability=medium | energy=medium | sentiment=positive
+    "If you mean the world to me you can give me a follow"
+  [cta] 21.1s-23.4s | visual_type=text-overlay-only | quality=40.5 | reusability=medium | energy=medium | sentiment=positive
+    "Hopefully I'll see you in the next one"

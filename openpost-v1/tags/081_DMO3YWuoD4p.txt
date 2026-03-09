@@ -1,0 +1,32 @@
+=== 81. DMO3YWuoD4p ===
+Upload date : 20250718
+Views       : 22,759
+Likes       : 795
+Comments    : 56
+Reposts     : 0
+
+Transcript:
+It took me almost a year of making videos to man up and start being transparent to my followers See two years ago I launched this product It's a bowl that folds flat into a plate to save space in your dishwasher and your cabinets And I launched it when I was 17 The campaign did pretty well and I had some momentum And then for almost two years I kind of went quiet When people would ask I would say production is going well and the product is going to be delivered soon But the truth is there were just constant delays one after another that were quickly draining budget and making the product take a super long time to deliver to my early backers Part of me didn't want to accept how difficult it was so I didn't want to start talking about all of the challenges I hoped that manufacturing would just magically finish itself and then I would start being transparent when there was good news But what I've learned is that waiting for good news to be transparent is not how you build a following People gravitate towards real people not perfection And so a couple days ago I started posting the comeback series where I'm documenting my journey from a successful product launch to struggling with production to eventually delivering my product and scaling this company So if you want to see my real journey building my dream meaning the world to me you can give me a follow and hopefully I'll see you in the next one Peace
+
+Segments (11):
+  [hook] 0.0s-1.1s | visual_type=lifestyle | quality=30.2 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 1.1s-6.4s | visual_type=founder-talking-neutral | quality=35.1 | reusability=medium | energy=medium | sentiment=neutral
+    "It took me almost a year of making videos to man up and start being transparent to my followers"
+  [body] 6.4s-12.5s | visual_type=split-screen | quality=33.8 | reusability=low | energy=medium | sentiment=neutral
+    "See two years ago I launched this product It's a bowl that folds flat into a plate to save space in your dishwasher and "
+  [body] 12.5s-18.1s | visual_type=founder-talking-neutral | quality=53.6 | reusability=medium | energy=medium | sentiment=neutral
+    "And I launched it when I was 17 The campaign did pretty well and I had some momentum And then for almost two years I kin"
+  [body] 18.1s-24.3s | visual_type=founder-talking-neutral | quality=26.1 | reusability=medium | energy=medium | sentiment=neutral
+    "When people would ask I would say production is going well and the product is going to be delivered soon"
+  [body] 24.3s-32.6s | visual_type=founder-talking-neutral | quality=27.8 | reusability=low | energy=medium | sentiment=negative
+    "But the truth is there were just constant delays one after another that were quickly draining budget and making the prod"
+  [body] 32.6s-40.1s | visual_type=founder-talking-neutral | quality=26.8 | reusability=medium | energy=medium | sentiment=negative
+    "Part of me didn't want to accept how difficult it was so I didn't want to start talking about all of the challenges"
+  [body] 40.1s-46.3s | visual_type=founder-talking-neutral | quality=27.4 | reusability=medium | energy=medium | sentiment=neutral
+    "I hoped that manufacturing would just magically finish itself and then I would start being transparent when there was go"
+  [body] 46.3s-54.6s | visual_type=founder-talking-neutral | quality=27.4 | reusability=medium | energy=medium | sentiment=positive
+    "But what I've learned is that waiting for good news to be transparent is not how you build a following People gravitate "
+  [body] 54.6s-66.0s | visual_type=founder-talking-neutral | quality=38.4 | reusability=low | energy=medium | sentiment=positive
+    "And so a couple days ago I started posting the comeback series where I'm documenting my journey from a successful produc"
+  [cta] 66.0s-75.2s | visual_type=founder-talking-neutral | quality=25.3 | reusability=medium | energy=medium | sentiment=positive
+    "So if you want to see my real journey building my dream meaning the world to me you can give me a follow and hopefully I"

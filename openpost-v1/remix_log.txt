@@ -1,0 +1,429 @@
+======================================================================
+OPENPOST — REMIX LOG
+Generated: 2026-03-09 11:01
+Total remixes logged: 28
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  BATCH 1 (EARLY TEST)
+──────────────────────────────────────────────────────────────────────
+
+Remix #1 — Anchor: DOJlrzNCWIR
+  Upload date : 20250903
+  Views       : 2,063,436  |  Likes: 139,725
+  Transcript  : I will fight beside people If you want to follow my journey building this product and launching other I invented this pr...
+  B-roll cuts : 9 / 26 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    6.2s-8.2s        2.0s        +6.3s anchor     product-in-hand               C9fB5nROqRU
+  2    8.2s-10.2s       2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    10.2s-12.2s       2.0s        consecutive      product-demo-use-case         C9KwMGDuZ19
+  4    39.5s-41.5s       2.0s        +27.3s anchor    outdoor                       DOJsbgbCeka
+  5    41.5s-43.5s       2.0s        consecutive      outdoor                       C-veQ69JCBF
+  6    43.5s-45.5s       2.0s        consecutive      lifestyle                     DNwMdrR0sDk
+  7    45.5s-47.5s       2.0s        consecutive      outdoor                       DT3Z00gCdUl
+  8    48.0s-50.0s       2.0s        +1.1s anchor     product-demo-feature          DDC1XYdu93b
+  9    50.0s-52.0s       2.0s        consecutive      product-demo-use-case         C88FX6ZJejL
+
+Remix #2 — Anchor: DOJsbgbCeka
+  Upload date : 20250903
+  Views       : 1,107,709  |  Likes: 82,437
+  Transcript  : I will fight beside people I invented this product in high school and two years after launching it I still haven't deliv...
+  B-roll cuts : 4 / 14 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    34.2s-36.2s       2.0s        +34.2s anchor    outdoor                       C-veQ69JCBF
+  2    36.2s-38.2s       2.0s        consecutive      outdoor                       C9fB5nROqRU
+  3    38.2s-40.2s       2.0s        consecutive      lifestyle                     DNwMdrR0sDk
+  4    40.2s-42.2s       2.0s        +0.6s anchor     outdoor                       DT3Z00gCdUl
+
+Remix #3 — Anchor: DNBdqRQpMkr
+  Upload date : 20250806
+  Views       : 216,586  |  Likes: 15,934
+  Transcript  : No way What's up guys Good Shabbos I love the video you made by the way I appreciate that Take care guys...
+  B-roll cuts : 0 / 2 windows
+
+  (no b-roll inserted — anchor plays uncut)
+
+Remix #4 — Anchor: DT3Z00gCdUl
+  Upload date : 20260123
+  Views       : 42,561  |  Likes: 1,790
+  Transcript  : I'm Gaul and for the past few years I've been working on the most advanced dish of all time Unlike normal bowls that are...
+  B-roll cuts : 3 / 6 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    12.9s-14.9s       2.0s        +12.9s anchor    product-in-hand               C9fB5nROqRU
+  2    14.9s-16.9s       2.0s        +0.0s anchor     product-demo-feature          DRZowokDX8X
+  3    16.9s-18.9s       2.0s        consecutive      product-demo-use-case         C9KwMGDuZ19
+
+──────────────────────────────────────────────────────────────────────
+  BATCH 2 (13-VIDEO RUN)
+──────────────────────────────────────────────────────────────────────
+
+Remix #5 — Anchor: DGtl1oPN9nV
+  Upload date : 20250302
+  Views       : 596,341  |  Likes: 57,869
+  Transcript  : I invented this product when I was 15 It's a bowl that folds completely flat into a plate to save space in your dishwash...
+  B-roll cuts : 12 / 12 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    8.5s-10.5s       2.0s        +8.4s anchor     product-in-hand               C9fB5nROqRU
+  2    10.5s-12.5s       2.0s        +0.1s anchor     product-demo-feature          DRZowokDX8X
+  3    12.5s-14.5s       2.0s        +0.1s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    14.6s-16.6s       2.0s        +0.1s anchor     product-demo-feature          DDC1XYdu93b
+  5    16.6s-18.6s       2.0s        +0.1s anchor     product-demo-use-case         C88FX6ZJejL
+  6    18.6s-20.6s       2.0s        consecutive      product-demo-use-case         C9lBg3tJ1i5
+  7    21.2s-23.2s       2.0s        +0.5s anchor     product-demo-feature          DHbAaC3tCjM
+  8    23.2s-25.2s       2.0s        +0.1s anchor     product-in-hand               DG_lJgsNUQB
+  9    26.2s-28.2s       2.0s        +0.9s anchor     product-demo-feature          DMG4Yv6oJKF
+  10   28.2s-30.2s       2.0s        +0.2s anchor     product-demo-use-case         DFqeUrnu4v5
+  11   30.2s-32.2s       2.0s        consecutive      product-in-hand               DES-8VjOmVa
+  12   32.2s-34.2s       2.0s        +0.1s anchor     product-demo-feature          DHbk53MN-aN
+
+Remix #6 — Anchor: DEVLB4LNTGi
+  Upload date : 20250102
+  Views       : 435,703  |  Likes: 36,425
+  Transcript  : Plate bowl I'm Gaul I'm a teenage entrepreneur I invented this bowl to make your kitchen experience easier Now I don't k...
+  B-roll cuts : 6 / 7 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    9.9s-11.9s       2.0s        +9.7s anchor     product-in-hand               C9fB5nROqRU
+  2    11.9s-13.9s       2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    13.9s-15.9s       2.0s        +0.5s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    15.9s-17.9s       2.0s        consecutive      product-demo-feature          DDC1XYdu93b
+  5    19.2s-21.2s       2.0s        +1.2s anchor     founder-talking-excited       DChVHFpNrRR
+  6    21.2s-23.2s       2.0s        consecutive      founder-talking-excited       C-8x48op-y8
+
+Remix #7 — Anchor: DDXkpPBuog1
+  Upload date : 20241209
+  Views       : 248,214  |  Likes: 9,269
+  Transcript  : Plate bowl last year when I was 17 I launched this product to make your kitchen experience significantly easier since th...
+  B-roll cuts : 3 / 4 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    3.1s-5.1s        2.0s        +3.1s anchor     product-in-hand               C9fB5nROqRU
+  2    5.1s-6.7s        1.5s        consecutive      product-demo-feature          DRZowokDX8X
+  3    8.6s-10.6s       2.0s        +2.0s anchor     product-demo-use-case         C9KwMGDuZ19
+
+Remix #8 — Anchor: DGygHDUtpah
+  Upload date : 20250304
+  Views       : 109,910  |  Likes: 6,707
+  Transcript  : Excuse me sir what do you think about my invention Wow you can be a millionaire one day Listen to me Oh I think it's coo...
+  B-roll cuts : 2 / 7 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    10.9s-12.9s       2.0s        +11.0s anchor    product-in-hand               C9fB5nROqRU
+  2    12.9s-14.5s       1.7s        +0.0s anchor     product-demo-feature          DRZowokDX8X
+
+Remix #9 — Anchor: DMG4Yv6oJKF
+  Upload date : 20250715
+  Views       : 97,674  |  Likes: 7,111
+  Transcript  : I just ended an almost two year relationship Took me a while to decide if I wanted to talk about this publicly or not Ho...
+  B-roll cuts : 6 / 6 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    28.6s-30.6s       2.0s        +28.8s anchor    product-in-hand               C9fB5nROqRU
+  2    30.8s-32.8s       2.0s        +0.1s anchor     product-demo-feature          DRZowokDX8X
+  3    32.8s-34.8s       2.0s        +0.1s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    35.5s-37.5s       2.0s        +0.4s anchor     outdoor                       DOJsbgbCeka
+  5    38.3s-40.3s       2.0s        +1.1s anchor     product-demo-feature          DDC1XYdu93b
+  6    40.3s-42.3s       2.0s        consecutive      product-demo-use-case         C88FX6ZJejL
+
+Remix #10 — Anchor: DCmhWH9OMao
+  Upload date : 20241120
+  Views       : 92,764  |  Likes: 3,506
+  Transcript  : I'm gonna keep this really quick and uncut I'm Gaul I'm an 18 year old entrepreneur and I'm on a mission to improve the ...
+  B-roll cuts : 5 / 5 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    2.2s-4.2s        2.0s        +2.1s anchor     outdoor                       DOJsbgbCeka
+  2    4.2s-6.2s        2.0s        +0.3s anchor     outdoor                       C-veQ69JCBF
+  3    6.2s-7.8s        1.5s        consecutive      outdoor                       C9fB5nROqRU
+  4    7.8s-9.8s        2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  5    9.8s-11.8s       2.0s        +0.2s anchor     product-demo-use-case         C9KwMGDuZ19
+
+Remix #11 — Anchor: DH3ZMJatz0b
+  Upload date : 20250331
+  Views       : 87,940  |  Likes: 3,555
+  Transcript  : Thank you Thank you Hey great to meet you man All right just to confirm that's 1 million bulls You know what Mark I like...
+  B-roll cuts : 2 / 3 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    14.4s-16.4s       2.0s        +14.2s anchor    founder-talking-excited       DChVHFpNrRR
+  2    18.9s-20.9s       2.0s        +2.7s anchor     founder-talking-excited       C-8x48op-y8
+
+Remix #12 — Anchor: C-8x48op-y8
+  Upload date : 20240821
+  Views       : 14,305  |  Likes: 1,545
+  Transcript  : A few years ago I noticed that plates are a lot easier to wash and store than bowls And since then I've been working my ...
+  B-roll cuts : 5 / 10 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    14.3s-16.3s       2.0s        +14.3s anchor    workspace                     C8lDh7lJotB
+  2    16.3s-18.3s       2.0s        consecutive      workspace                     C-a60evpuLH
+  3    19.3s-21.3s       2.0s        +1.5s anchor     product-in-hand               C9fB5nROqRU
+  4    21.3s-23.3s       2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  5    23.3s-25.3s       2.0s        consecutive      product-demo-use-case         C9KwMGDuZ19
+
+Remix #13 — Anchor: DMiwzlcJQD3
+  Upload date : 20250725
+  Views       : 62,991  |  Likes: 1,898
+  Transcript  : 60 000 people know me as The Bowl Kid because I make videos about this product that I launched when I was 17 But what if...
+  B-roll cuts : 5 / 9 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    7.5s-9.5s        2.0s        +7.6s anchor     product-in-hand               C9fB5nROqRU
+  2    9.5s-11.5s       2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    12.8s-14.8s       2.0s        +1.3s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    14.8s-16.8s       2.0s        +0.0s anchor     product-demo-feature          DDC1XYdu93b
+  5    16.8s-18.8s       2.0s        +0.1s anchor     product-demo-use-case         C88FX6ZJejL
+
+Remix #14 — Anchor: C8pmKyYJQk3
+  Upload date : 20240625
+  Views       : 47,297  |  Likes: 1,704
+  Transcript  : I just graduated Now that that's done with I can go full time on my company Wave where I'm on a mission to revolutionize...
+  B-roll cuts : 2 / 5 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    5.1s-7.1s        2.0s        +5.2s anchor     outdoor                       DOJsbgbCeka
+  2    7.1s-9.1s        2.0s        consecutive      outdoor                       C-veQ69JCBF
+
+Remix #15 — Anchor: DN1cV-X2kv7
+  Upload date : 20250826
+  Views       : 64,274  |  Likes: 986
+  Transcript  : I probably should have figured out how this stuff works before I made this video I normally hate sponsorships but trust ...
+  B-roll cuts : 6 / 17 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    9.7s-11.7s       2.0s        +9.9s anchor     product-in-hand               C9fB5nROqRU
+  2    11.7s-13.7s       2.0s        +0.0s anchor     product-demo-feature          DRZowokDX8X
+  3    31.8s-33.8s       2.0s        +17.6s anchor    product-demo-use-case         C9KwMGDuZ19
+  4    33.8s-35.8s       2.0s        +0.0s anchor     product-demo-feature          DDC1XYdu93b
+  5    35.8s-37.8s       2.0s        +0.0s anchor     product-demo-use-case         C88FX6ZJejL
+  6    37.8s-39.8s       2.0s        consecutive      product-demo-use-case         C9lBg3tJ1i5
+
+Remix #16 — Anchor: DPKBkcfDWIQ
+  Upload date : 20250928
+  Views       : 56,446  |  Likes: 892
+  Transcript  : Wow You can be a millionaire one day Yeah Listen to me Oh I think it's cool Hey Excuse me excuse me What do you think ab...
+  B-roll cuts : 1 / 6 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    9.4s-11.2s       1.7s        +9.3s anchor     product-in-hand               C9fB5nROqRU
+
+Remix #17 — Anchor: DNwMdrR0sDk
+  Upload date : 20250824
+  Views       : 47,844  |  Likes: 1,017
+  Transcript  : Do you want to watch boring videos Because I keep running into this issue where I'm trying to document my journey develo...
+  B-roll cuts : 2 / 14 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    40.4s-42.4s       2.0s        +40.4s anchor    outdoor                       DOJsbgbCeka
+  2    42.4s-44.4s       2.0s        +0.1s anchor     outdoor                       C-veQ69JCBF
+
+──────────────────────────────────────────────────────────────────────
+  BATCH 3 (OPENPOST V3)
+──────────────────────────────────────────────────────────────────────
+
+Remix #18 — Anchor: C7w1eMUvXLp
+  Upload date : 20240603
+  Views       : 28,718  |  Likes: 1,124
+  Transcript  : Doing the dishes sucks That's why I created this It's a bowl that holds completely flat making storage insanely simple T...
+  B-roll cuts : 5 / 5 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    4.8s-6.8s        2.0s        +5.0s anchor     product-in-hand               C9fB5nROqRU
+  2    6.8s-8.8s        2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    8.8s-10.8s       2.0s        +0.1s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    10.9s-12.9s       2.0s        +0.1s anchor     product-demo-feature          DDC1XYdu93b
+  5    13.6s-15.6s       2.0s        +0.5s anchor     outdoor                       DOJsbgbCeka
+
+Remix #19 — Anchor: C8DYloWp_7r
+  Upload date : 20240610
+  Views       : 25,329  |  Likes: 1,443
+  Transcript  : Suddenly I had over 100 000 in orders and no idea how I was gonna make the product Let me tell you a quick story Last ye...
+  B-roll cuts : 19 / 19 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    6.3s-8.3s        2.0s        +6.4s anchor     product-in-hand               C9fB5nROqRU
+  2    8.3s-10.3s       2.0s        +0.1s anchor     product-demo-feature          DRZowokDX8X
+  3    10.3s-12.3s       2.0s        +0.1s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    12.3s-14.3s       2.0s        +0.1s anchor     product-demo-feature          DDC1XYdu93b
+  5    14.3s-16.3s       2.0s        consecutive      product-demo-use-case         C88FX6ZJejL
+  6    16.4s-18.4s       2.0s        +0.5s anchor     product-demo-use-case         C9lBg3tJ1i5
+  7    18.4s-20.4s       2.0s        consecutive      product-demo-feature          DHbAaC3tCjM
+  8    20.4s-22.4s       2.0s        +0.0s anchor     product-in-hand               DG_lJgsNUQB
+  9    22.4s-24.4s       2.0s        +0.1s anchor     product-demo-feature          DMG4Yv6oJKF
+  10   24.4s-26.4s       2.0s        +0.1s anchor     product-demo-use-case         DFqeUrnu4v5
+  11   26.4s-28.4s       2.0s        +0.1s anchor     product-in-hand               DES-8VjOmVa
+  12   29.0s-31.0s       2.0s        +0.5s anchor     product-demo-feature          DHbk53MN-aN
+  13   31.0s-33.0s       2.0s        +0.1s anchor     product-demo-feature          DHjd71qO2wr
+  14   33.0s-35.0s       2.0s        +0.1s anchor     product-close-up              C7w1eMUvXLp
+  15   35.0s-37.0s       2.0s        +0.0s anchor     product-in-hand               DEdLTHbuSxp
+  16   37.0s-38.7s       1.6s        +0.1s anchor     product-demo-feature          C-8x48op-y8
+  17   38.7s-40.7s       2.0s        consecutive      product-in-hand               DCHOQMYtYkz
+  18   40.7s-42.7s       2.0s        consecutive      product-demo-use-case         DFBQyfduWQ8
+  19   42.7s-44.7s       2.0s        +0.2s anchor     product-demo-feature          DGDjwD4NMaA
+
+Remix #20 — Anchor: C8cZ9ICuaA_
+  Upload date : 20240620
+  Views       : 26,323  |  Likes: 2,180
+  Transcript  : Imagine losing everything That's how I felt when I got this email saying that I would lose over a hundred thousand dolla...
+  B-roll cuts : 6 / 10 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    7.9s-9.9s        2.0s        +7.8s anchor     product-in-hand               C9fB5nROqRU
+  2    9.9s-11.9s       2.0s        +0.1s anchor     product-demo-feature          DRZowokDX8X
+  3    12.3s-14.3s       2.0s        +0.2s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    14.3s-16.3s       2.0s        +0.0s anchor     product-demo-feature          DDC1XYdu93b
+  5    16.3s-18.3s       2.0s        +0.0s anchor     product-demo-use-case         C88FX6ZJejL
+  6    18.3s-20.3s       2.0s        +0.1s anchor     product-demo-use-case         C9lBg3tJ1i5
+
+Remix #21 — Anchor: C9dqJWMJusG
+  Upload date : 20240716
+  Views       : 24,715  |  Likes: 1,655
+  Transcript  : Check this out With this space saving bowl I raised over 100 000 in less than 30 days while I was 17 And believe me this...
+  B-roll cuts : 6 / 8 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    3.0s-5.0s        2.0s        +3.1s anchor     product-in-hand               C9fB5nROqRU
+  2    5.0s-7.0s        2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    7.0s-9.0s        2.0s        +0.3s anchor     outdoor                       DOJsbgbCeka
+  4    9.0s-10.6s       1.5s        consecutive      outdoor                       C-veQ69JCBF
+  5    14.2s-16.2s       2.0s        +3.9s anchor     lifestyle                     DNwMdrR0sDk
+  6    16.2s-18.2s       2.0s        +0.2s anchor     outdoor                       DT3Z00gCdUl
+
+Remix #22 — Anchor: C9iZLenJPiE
+  Upload date : 20240717
+  Views       : 19,584  |  Likes: 1,301
+  Transcript  : Can I just get a hot soup The adults hot soup All right Time to walk a mile and a half back Let me know what other quest...
+  B-roll cuts : 2 / 4 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    24.6s-26.6s       2.0s        +24.6s anchor    product-in-hand               C9fB5nROqRU
+  2    26.6s-28.6s       2.0s        consecutive      product-demo-feature          DRZowokDX8X
+
+Remix #23 — Anchor: DDVQPIuuZe5
+  Upload date : 20241208
+  Views       : 25,044  |  Likes: 1,208
+  Transcript  : What if I told you I invented a product that will prevent your dishwasher from ever being full again In a second it turn...
+  B-roll cuts : 7 / 10 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    3.2s-5.2s        2.0s        +3.3s anchor     product-in-hand               C9fB5nROqRU
+  2    5.2s-7.2s        2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    7.2s-9.2s        2.0s        +0.3s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    15.7s-17.7s       2.0s        +6.5s anchor     product-demo-feature          DDC1XYdu93b
+  5    17.7s-19.2s       1.5s        consecutive      product-demo-use-case         C88FX6ZJejL
+  6    19.2s-21.2s       2.0s        consecutive      workspace                     C8lDh7lJotB
+  7    21.2s-23.2s       2.0s        consecutive      workspace                     C-a60evpuLH
+
+Remix #24 — Anchor: DEdLTHbuSxp
+  Upload date : 20250105
+  Views       : 30,023  |  Likes: 2,061
+  Transcript  : Something feels wrong about this I just ordered 75 000 magnets If you're not deathly curious why just keep scrolling A y...
+  B-roll cuts : 5 / 9 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    6.4s-8.4s        2.0s        +6.6s anchor     product-in-hand               C9fB5nROqRU
+  2    8.5s-10.5s       2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    10.5s-12.5s       2.0s        +0.1s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    22.8s-24.8s       2.0s        +10.2s anchor    outdoor                       DOJsbgbCeka
+  5    24.8s-26.8s       2.0s        +0.3s anchor     outdoor                       C-veQ69JCBF
+
+Remix #25 — Anchor: DFvYDyWtZ6c
+  Upload date : 20250206
+  Views       : 36,331  |  Likes: 1,439
+  Transcript  : No one on this bus is aware that I invented the most efficient kitchen product in the world Let me explain It's a bowl t...
+  B-roll cuts : 3 / 5 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    5.8s-7.8s        2.0s        +5.8s anchor     product-in-hand               C9fB5nROqRU
+  2    7.8s-9.8s        2.0s        consecutive      product-demo-feature          DRZowokDX8X
+  3    9.8s-11.8s       2.0s        consecutive      product-demo-use-case         C9KwMGDuZ19
+
+Remix #26 — Anchor: DGyGX1FsdtX
+  Upload date : 20250304
+  Views       : 17,126  |  Likes: 932
+  Transcript  : What do you guys think about my invention What do you think it is No no you eat you eat Plate and bowl I know balls ball...
+  B-roll cuts : 1 / 5 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    9.2s-11.2s       2.0s        +9.0s anchor     product-in-hand               C9fB5nROqRU
+
+Remix #27 — Anchor: DMWSxWCJDUt
+  Upload date : 20250720
+  Views       : 25,677  |  Likes: 756
+  Transcript  : a quick update on my invention If you're new here it's a bowl that folds completely flat into a plate to save space in y...
+  B-roll cuts : 26 / 32 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    22.0s-24.0s       2.0s        +21.8s anchor    product-in-hand               C9fB5nROqRU
+  2    24.0s-26.0s       2.0s        +0.1s anchor     product-demo-feature          DRZowokDX8X
+  3    26.0s-28.0s       2.0s        +0.0s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    28.0s-30.0s       2.0s        +0.1s anchor     product-demo-feature          DDC1XYdu93b
+  5    30.0s-32.0s       2.0s        +0.1s anchor     product-demo-use-case         C88FX6ZJejL
+  6    32.0s-34.0s       2.0s        consecutive      product-demo-use-case         C9lBg3tJ1i5
+  7    34.0s-36.0s       2.0s        +0.1s anchor     product-demo-feature          DHbAaC3tCjM
+  8    36.0s-38.0s       2.0s        +0.1s anchor     product-in-hand               DG_lJgsNUQB
+  9    38.0s-40.0s       2.0s        consecutive      product-demo-feature          DMG4Yv6oJKF
+  10   40.0s-42.0s       2.0s        +0.1s anchor     product-demo-use-case         DFqeUrnu4v5
+  11   42.0s-44.0s       2.0s        consecutive      product-in-hand               DES-8VjOmVa
+  12   45.0s-47.0s       2.0s        +0.9s anchor     product-demo-feature          DHbk53MN-aN
+  13   47.0s-49.0s       2.0s        consecutive      product-demo-feature          DHjd71qO2wr
+  14   49.0s-51.0s       2.0s        +0.2s anchor     product-close-up              C7w1eMUvXLp
+  15   51.0s-53.0s       2.0s        +0.1s anchor     product-in-hand               DEdLTHbuSxp
+  16   53.0s-55.0s       2.0s        consecutive      product-demo-feature          C-8x48op-y8
+  17   55.0s-57.0s       2.0s        +0.1s anchor     product-in-hand               DCHOQMYtYkz
+  18   57.0s-59.0s       2.0s        +0.1s anchor     product-demo-use-case         DFBQyfduWQ8
+  19   59.0s-61.0s       2.0s        +0.1s anchor     product-demo-feature          DGDjwD4NMaA
+  20   61.0s-63.0s       2.0s        +0.1s anchor     product-demo-feature          DH1UhIqNm2g
+  21   63.0s-65.0s       2.0s        consecutive      product-demo-feature          DN1cV-X2kv7
+  22   66.0s-68.0s       2.0s        +1.1s anchor     product-in-hand               DSXFQd0jTYq
+  23   68.0s-70.0s       2.0s        +0.1s anchor     product-in-hand               DDXkpPBuog1
+  24   70.0s-72.0s       2.0s        +0.1s anchor     product-in-hand               DElOn_PtQwf
+  25   72.0s-74.0s       2.0s        consecutive      product-in-hand               DGygHDUtpah
+  26   74.0s-76.0s       2.0s        +0.1s anchor     product-demo-feature          DTOjVRYDXnm
+
+Remix #28 — Anchor: DMyb9R5JK0c
+  Upload date : 20250731
+  Views       : 33,851  |  Likes: 590
+  Transcript  : I invented a dish that makes your kitchen experience easier It folds up to a bowl then flat to a plate when it's time to...
+  B-roll cuts : 4 / 6 windows
+
+  #    Window            Duration    Gap from prev    Visual Type                   Source Video
+  ---  ----------------  ----------  ---------------  ----------------------------  ---------------
+  1    16.5s-18.5s       2.0s        +16.5s anchor    product-in-hand               C9fB5nROqRU
+  2    18.5s-20.5s       2.0s        +0.0s anchor     product-demo-feature          DRZowokDX8X
+  3    25.4s-27.4s       2.0s        +5.0s anchor     product-demo-use-case         C9KwMGDuZ19
+  4    28.2s-30.2s       2.0s        +0.6s anchor     outdoor                       DOJsbgbCeka
+
+======================================================================
+END OF LOG
+======================================================================

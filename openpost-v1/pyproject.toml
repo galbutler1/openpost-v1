@@ -1,0 +1,26 @@
+[project]
+name = "clipforge"
+version = "0.1.0"
+description = "Short-form content remixer — turn existing video into new clips"
+requires-python = ">=3.11"
+dependencies = [
+    "demucs",
+    "openai-whisper",
+    "scenedetect[opencv]",
+    "librosa",
+    "moviepy",
+    "soundfile",
+    "numpy",
+    "rich",       # CLI progress display
+    "typer",      # CLI framework
+]
+
+[project.scripts]
+clipforge = "clipforge.cli:app"
+
+[tool.setuptools.packages.find]
+include = ["clipforge*"]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"

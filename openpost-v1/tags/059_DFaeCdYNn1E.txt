@@ -1,0 +1,27 @@
+=== 59. DFaeCdYNn1E ===
+Upload date : 20250129
+Views       : 12,137
+Likes       : 703
+Comments    : 52
+Reposts     : 0
+
+Transcript:
+I get accused of stealing this idea of this space saving bowl almost every single day and while I've posted videos showing my patent applications and videos of me developing the idea years ago a lot of people just want to hate Honestly just more comments from me so I'm definitely not complaining but if you want to support a solo entrepreneur with some really big goals beyond just this product it would mean the world to me if you could drop me a follow and hopefully I'll see you in the next one Peace
+
+Segments (8):
+  [hook] 0.0s-3.4s | visual_type=founder-talking-neutral | quality=45.6 | reusability=medium | energy=medium | sentiment=neutral
+    "I get accused of stealing this idea of this space saving bowl"
+  [hook] 3.4s-5.3s | visual_type=text-overlay-only | quality=37.8 | reusability=medium | energy=medium | sentiment=neutral
+    "almost every single day and while"
+  [body] 5.3s-9.3s | visual_type=founder-talking-neutral | quality=64.0 | reusability=medium | energy=medium | sentiment=neutral
+    "I've posted videos showing my patent applications and videos of me developing the idea"
+  [body] 9.3s-11.6s | visual_type=text-overlay-only | quality=44.4 | reusability=medium | energy=medium | sentiment=negative
+    "years ago a lot of people just want to hate"
+  [body] 11.6s-15.9s | visual_type=founder-talking-neutral | quality=55.6 | reusability=medium | energy=medium | sentiment=mixed
+    "Honestly just more comments from me so I'm definitely not complaining"
+  [body] 15.9s-20.6s | visual_type=text-overlay-only | quality=41.3 | reusability=medium | energy=medium | sentiment=positive
+    "but if you want to support a solo entrepreneur with some really big goals beyond just this product"
+  [cta] 20.6s-22.8s | visual_type=founder-talking-neutral | quality=40.9 | reusability=medium | energy=medium | sentiment=positive
+    "it would mean the world to me if you could drop me a follow"
+  [cta] 22.8s-25.8s | visual_type=founder-talking-neutral | quality=41.2 | reusability=medium | energy=medium | sentiment=positive
+    "and hopefully I'll see you in the next one Peace"

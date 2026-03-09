@@ -1,0 +1,33 @@
+=== 63. DF3LyCNuYlR ===
+Upload date : 20250209
+Views       : 10,321
+Likes       : 598
+Comments    : 70
+Reposts     : 0
+
+Transcript:
+I invented this bowl The bowl is completely flat into a plate to save space in your kitchen And when I get hate comments on videos people think I'm trying to fight them off as if they're not completely beneficial to my brand You see every hate comment I get boosts my algorithm makes my videos go more viral and allows more people to see my innovative products So if you're a hater watching this video I love you Keep commenting Peace
+
+Segments (11):
+  [hook] 0.0s-1.0s | visual_type=founder-talking-neutral | quality=37.4 | reusability=none | energy=medium | sentiment=neutral
+    "I invented this bowl"
+  [hook] 1.0s-4.3s | visual_type=founder-talking-neutral | quality=44.2 | reusability=medium | energy=medium | sentiment=positive
+    "The bowl is completely flat into a plate to save space in your kitchen"
+  [body] 4.3s-6.1s | visual_type=split-screen | quality=54.3 | reusability=medium | energy=medium | sentiment=neutral
+    "And when I get hate comments on videos"
+  [body] 6.1s-8.4s | visual_type=text-overlay-only | quality=52.2 | reusability=medium | energy=medium | sentiment=neutral
+    "people think I'm trying to fight them off"
+  [body] 8.4s-11.9s | visual_type=text-overlay-only | quality=40.9 | reusability=medium | energy=medium | sentiment=positive
+    "as if they're not completely beneficial to my brand"
+  [body] 11.9s-14.6s | visual_type=founder-talking-neutral | quality=48.0 | reusability=medium | energy=medium | sentiment=positive
+    "You see every hate comment I get boosts my algorithm"
+  [body] 14.6s-16.6s | visual_type=split-screen | quality=72.9 | reusability=medium | energy=medium | sentiment=positive
+    "makes my videos go more viral"
+  [body] 16.6s-19.7s | visual_type=split-screen | quality=67.3 | reusability=medium | energy=medium | sentiment=positive
+    "and allows more people to see my innovative products"
+  [body] 19.7s-21.8s | visual_type=founder-talking-neutral | quality=46.1 | reusability=medium | energy=medium | sentiment=neutral
+    "So if you're a hater watching this video"
+  [cta] 21.8s-25.1s | visual_type=founder-talking-neutral | quality=41.4 | reusability=medium | energy=medium | sentiment=positive
+    "I love you Keep commenting"
+  [cta] 25.1s-27.5s | visual_type=founder-talking-neutral | quality=37.9 | reusability=medium | energy=medium | sentiment=positive
+    "Peace"

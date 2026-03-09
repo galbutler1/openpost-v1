@@ -1,0 +1,28 @@
+=== 1. C7w1eMUvXLp ===
+Upload date : 20240603
+Views       : 28,718
+Likes       : 1,124
+Comments    : 52
+Reposts     : 0
+
+Transcript:
+Doing the dishes sucks That's why I created this It's a bowl that holds completely flat making storage insanely simple This is my first product and my company Wave and I'm on a mission to revolutionize the kitchen experience If that interests you give me a follow and I'll see you in the next one Peace
+
+Segments (9):
+  [hook] 0.0s-1.5s | visual_type=outdoor | quality=71.4 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 1.5s-3.4s | visual_type=text-overlay-only | quality=53.9 | reusability=high | energy=medium | sentiment=negative
+    "Doing the dishes sucks"
+  [hook] 3.4s-4.8s | visual_type=outdoor | quality=53.5 | reusability=medium | energy=medium | sentiment=positive
+    "That's why I created this"
+  [body] 4.8s-10.9s | visual_type=product-demo-use-case | quality=56.3 | reusability=medium | energy=medium | sentiment=positive
+    "It's a bowl that holds completely flat making storage insanely simple"
+  [body] 10.9s-13.6s | visual_type=product-close-up | quality=72.5 | reusability=medium | energy=medium | sentiment=positive
+    "This is my first product and my company Wave"
+  [body] 13.6s-16.3s | visual_type=text-overlay-only | quality=55.1 | reusability=medium | energy=medium | sentiment=positive
+    "and I'm on a mission to revolutionize the kitchen experience"
+  [cta] 16.3s-18.2s | visual_type=text-overlay-only | quality=69.7 | reusability=medium | energy=medium | sentiment=positive
+    "If that interests you give me a follow"
+  [cta] 18.2s-20.4s | visual_type=outdoor | quality=77.6 | reusability=medium | energy=medium | sentiment=positive
+    "and I'll see you in the next one"
+  [cta] 20.4s-22.4s | visual_type=outdoor | quality=64.8 | reusability=medium | energy=medium | sentiment=positive
+    "Peace"

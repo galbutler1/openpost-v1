@@ -1,0 +1,33 @@
+=== 93. DQjvxK-CnO4 ===
+Upload date : 20251102
+Views       : 10,438
+Likes       : 746
+Comments    : 92
+Reposts     : 0
+
+Transcript:
+It genuinely blows my mind that there are now over 100 000 people following my journey to bring this folding bowl I invented to life I remember when the first knockoff came out of my product I thought that no one would support me I thought that they would do a better job than me I would have no chance To think that there's now 100 000 people that are following me and supporting me beyond words There's people that have backed my project that are still waiting patiently If you're one of those people your support means the world to me and I'm doing everything I can to get this delivered to you as soon as possible but I'm not cutting corners I'm not going to deliver something that's not going to work I could deliver today but when the product starts falling apart or the material starts peeling or the hinges start cracking that's going to be your table that's getting leaked on and I don't want that You don't deserve that So I'm spending time to get this right coupled with the fact that I'm learning everything for the first time It takes time It takes a long time and it's challenging I think all worthwhile things are challenging So I love you guys See you in the next one Peace
+
+Segments (11):
+  [hook] 0.0s-3.5s | visual_type=founder-talking-neutral | quality=47.7 | reusability=high | energy=medium | sentiment=positive
+    "It genuinely blows my mind"
+  [hook] 3.5s-12.8s | visual_type=founder-talking-neutral | quality=64.1 | reusability=medium | energy=medium | sentiment=positive
+    "that there are now over 100 000 people following my journey to bring this folding bowl I invented to life"
+  [body] 12.8s-22.4s | visual_type=founder-talking-neutral | quality=43.6 | reusability=medium | energy=medium | sentiment=negative
+    "I remember when the first knockoff came out of my product I thought that no one would support me"
+  [body] 22.4s-29.0s | visual_type=founder-talking-neutral | quality=42.5 | reusability=medium | energy=medium | sentiment=positive
+    "I thought that they would do a better job than me I would have no chance To think that there's now 100 000 people that a"
+  [body] 29.0s-39.8s | visual_type=founder-talking-neutral | quality=53.4 | reusability=medium | energy=medium | sentiment=positive
+    "There's people that have backed my project that are still waiting patiently If you're one of those people your support m"
+  [body] 39.8s-44.9s | visual_type=founder-talking-neutral | quality=44.5 | reusability=medium | energy=medium | sentiment=neutral
+    "but I'm not cutting corners I'm not going to deliver something that's not going to work"
+  [body] 44.9s-55.7s | visual_type=founder-talking-neutral | quality=44.0 | reusability=medium | energy=medium | sentiment=negative
+    "I could deliver today but when the product starts falling apart or the material starts peeling or the hinges start crack"
+  [body] 55.7s-63.2s | visual_type=founder-talking-neutral | quality=45.0 | reusability=medium | energy=medium | sentiment=neutral
+    "You don't deserve that So I'm spending time to get this right coupled with the fact that I'm learning everything for the"
+  [body] 63.2s-69.0s | visual_type=founder-talking-neutral | quality=44.3 | reusability=high | energy=medium | sentiment=neutral
+    "It takes time It takes a long time and it's challenging I think all worthwhile things are challenging"
+  [cta] 69.0s-72.1s | visual_type=founder-talking-neutral | quality=43.7 | reusability=medium | energy=medium | sentiment=positive
+    "So I love you guys See you in the next one"
+  [cta] 72.1s-74.2s | visual_type=text-overlay-only | quality=52.7 | reusability=medium | energy=low | sentiment=positive
+    "Peace"

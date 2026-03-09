@@ -1,0 +1,18 @@
+=== 49. DDclTfKOrwl ===
+Upload date : 20241211
+Views       : 9,297
+Likes       : 320
+Comments    : 15
+Reposts     : 0
+
+Transcript:
+Quick reminder just because you feel like you're staying still doesn't mean you're not moving in the right direction
+
+Segments (4):
+  [hook] 0.0s-2.0s | visual_type=founder-talking-neutral | quality=24.5 | reusability=none | energy=medium | sentiment=neutral
+    "Quick reminder"
+  [body] 2.0s-3.4s | visual_type=text-overlay-only | quality=37.7 | reusability=medium | energy=medium | sentiment=neutral
+    "just because you feel like you're staying still"
+  [body] 3.4s-5.4s | visual_type=text-overlay-only | quality=50.0 | reusability=medium | energy=medium | sentiment=positive
+    "doesn't mean you're not moving in the right direction"
+  [cta] 5.4s-6.7s | visual_type=text-overlay-only | quality=59.7 | reusability=none | energy=silent | sentiment=neutral

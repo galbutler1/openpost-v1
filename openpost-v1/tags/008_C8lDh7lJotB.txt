@@ -1,0 +1,27 @@
+=== 8. C8lDh7lJotB ===
+Upload date : 20240624
+Views       : 16,008
+Likes       : 621
+Comments    : 48
+Reposts     : 0
+
+Transcript:
+We open the hymnal to page 542 read the first stanza of the poem you find there To the virgins to make much of time Yes That's the one Somewhat appropriate isn't it Gather ye rosebuds while ye may old time is still a flying and this same flower that smiles today tomorrow will be dying The Latin term for that sentiment is carpe diem Who knows what that means Gravity
+
+Segments (9):
+  [hook] 0.0s-3.5s | visual_type=workspace | quality=59.9 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 3.5s-10.7s | visual_type=screen-recording | quality=22.5 | reusability=low | energy=medium | sentiment=neutral
+    "We open the hymnal to page 542 read the first stanza of the poem you find there"
+  [hook] 10.7s-13.0s | visual_type=screen-recording | quality=24.2 | reusability=low | energy=medium | sentiment=neutral
+    "To the virgins to make much of time"
+  [body] 13.0s-16.9s | visual_type=screen-recording | quality=25.6 | reusability=medium | energy=medium | sentiment=neutral
+    "Yes That's the one Somewhat appropriate isn't it"
+  [body] 16.9s-26.4s | visual_type=screen-recording | quality=26.4 | reusability=medium | energy=medium | sentiment=neutral
+    "Gather ye rosebuds while ye may old time is still a flying and this same flower that smiles today tomorrow will be dying"
+  [body] 26.4s-30.3s | visual_type=screen-recording | quality=37.7 | reusability=medium | energy=medium | sentiment=neutral
+    "The Latin term for that sentiment is carpe diem"
+  [body] 30.3s-33.1s | visual_type=workspace | quality=50.9 | reusability=medium | energy=medium | sentiment=neutral
+    "Who knows what that means"
+  [body] 33.1s-55.7s | visual_type=outdoor | quality=45.0 | reusability=high | energy=silent | sentiment=neutral
+  [cta] 55.7s-56.9s | visual_type=text-overlay-only | quality=22.2 | reusability=medium | energy=low | sentiment=neutral
+    "Gravity"

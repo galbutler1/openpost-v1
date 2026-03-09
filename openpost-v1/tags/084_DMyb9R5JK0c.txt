@@ -1,0 +1,27 @@
+=== 84. DMyb9R5JK0c ===
+Upload date : 20250731
+Views       : 33,851
+Likes       : 590
+Comments    : 34
+Reposts     : 0
+
+Transcript:
+I invented a dish that makes your kitchen experience easier It folds up to a bowl then flat to a plate when it's time to store and wash It's super space efficient in your cabinets and dishwasher and it's super easy to hand wash This is my first product of my company Wave I'm on a mission to revolutionize the kitchen experience It would mean the world to me if you could give me a follow and I'll see you on the next one Peace
+
+Segments (9):
+  [hook] 0.0s-12.0s | visual_type=product-demo-use-case | quality=38.5 | reusability=high | energy=medium | sentiment=positive
+  [hook] 12.0s-13.1s | visual_type=product-close-up | quality=42.1 | reusability=high | energy=medium | sentiment=positive
+  [hook] 13.1s-16.5s | visual_type=founder-talking-neutral | quality=39.4 | reusability=medium | energy=medium | sentiment=positive
+    "I invented a dish that makes your kitchen experience easier"
+  [body] 16.5s-21.1s | visual_type=product-in-hand | quality=40.3 | reusability=medium | energy=medium | sentiment=positive
+    "It folds up to a bowl then flat to a plate when it's time to store and wash"
+  [body] 21.1s-25.4s | visual_type=founder-talking-neutral | quality=39.5 | reusability=medium | energy=medium | sentiment=positive
+    "It's super space efficient in your cabinets and dishwasher and it's super easy to hand wash"
+  [body] 25.4s-28.2s | visual_type=founder-talking-neutral | quality=38.4 | reusability=medium | energy=medium | sentiment=positive
+    "This is my first product of my company Wave"
+  [body] 28.2s-31.5s | visual_type=founder-talking-neutral | quality=39.3 | reusability=medium | energy=medium | sentiment=positive
+    "I'm on a mission to revolutionize the kitchen experience"
+  [cta] 31.5s-33.9s | visual_type=founder-talking-neutral | quality=33.3 | reusability=medium | energy=medium | sentiment=positive
+    "It would mean the world to me if you could give me a follow"
+  [cta] 33.9s-36.6s | visual_type=founder-talking-neutral | quality=34.8 | reusability=medium | energy=medium | sentiment=positive
+    "and I'll see you on the next one Peace"

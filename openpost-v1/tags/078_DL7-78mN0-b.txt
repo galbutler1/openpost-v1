@@ -1,0 +1,33 @@
+=== 78. DL7-78mN0-b ===
+Upload date : 20250710
+Views       : 7,596
+Likes       : 417
+Comments    : 53
+Reposts     : 0
+
+Transcript:
+Before I needed to start making money I'd be a millionaire from entrepreneurship To give me the best chances of completing my goal I committed very early on that I was not going to go to college And instead of spending time studying for tests I would spend it on business Now it's been a few years since then and in a few months kids my age are going to college I gotta say I'm getting scarily close to my deadline and the question is if I'm going to double down on my goal or give in to the pressure and the fear You didn't think I was serious did you This is day two of the comeback series where I'm documenting my journey from a successful product launch to struggling with delivery to eventually scaling to the moon Today I had some calls regarding funding so I could secure that my product gets delivered as soon as possible to the early supporters and to help expand for the future of this company I'd love it if you could follow me through this journey and I hope to see you tomorrow Peace
+
+Segments (11):
+  [hook] 0.0s-3.9s | visual_type=founder-talking-neutral | quality=69.4 | reusability=medium | energy=medium | sentiment=neutral
+    "Before I needed to start making money I'd be a millionaire from entrepreneurship"
+  [hook] 3.9s-8.9s | visual_type=founder-talking-neutral | quality=52.9 | reusability=medium | energy=medium | sentiment=neutral
+    "To give me the best chances of completing my goal I committed very early on that I was not going to go to college"
+  [hook] 8.9s-12.7s | visual_type=founder-talking-neutral | quality=53.1 | reusability=medium | energy=medium | sentiment=neutral
+    "And instead of spending time studying for tests I would spend it on business"
+  [body] 12.7s-17.9s | visual_type=founder-talking-neutral | quality=33.2 | reusability=medium | energy=medium | sentiment=neutral
+    "Now it's been a few years since then and in a few months kids my age are going to college"
+  [body] 17.9s-27.6s | visual_type=founder-talking-neutral | quality=73.6 | reusability=medium | energy=medium | sentiment=mixed
+    "I gotta say I'm getting scarily close to my deadline and the question is if I'm going to double down on my goal or give "
+  [body] 27.6s-31.1s | visual_type=founder-laughing | quality=70.8 | reusability=medium | energy=medium | sentiment=positive
+    "You didn't think I was serious did you"
+  [body] 31.1s-40.5s | visual_type=founder-talking-neutral | quality=80.3 | reusability=medium | energy=medium | sentiment=positive
+    "This is day two of the comeback series where I'm documenting my journey from a successful product launch to struggling w"
+  [body] 40.5s-46.9s | visual_type=split-screen | quality=67.7 | reusability=medium | energy=medium | sentiment=positive
+    "Today I had some calls regarding funding so I could secure that my product gets delivered as soon as possible to the ear"
+  [body] 46.9s-49.7s | visual_type=founder-talking-neutral | quality=64.1 | reusability=medium | energy=medium | sentiment=positive
+    "and to help expand for the future of this company"
+  [cta] 49.7s-52.6s | visual_type=founder-talking-neutral | quality=48.4 | reusability=medium | energy=medium | sentiment=positive
+    "I'd love it if you could follow me through this journey and I hope to see you tomorrow"
+  [cta] 52.6s-55.6s | visual_type=text-overlay-only | quality=55.5 | reusability=high | energy=medium | sentiment=positive
+    "Peace"

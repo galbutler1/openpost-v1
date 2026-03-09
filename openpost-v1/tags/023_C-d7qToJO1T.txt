@@ -1,0 +1,28 @@
+=== 23. C-d7qToJO1T ===
+Upload date : 20240809
+Views       : 6,908
+Likes       : 547
+Comments    : 88
+Reposts     : 0
+
+Transcript:
+I invented the space saving bowl and it raised six figures in less than four weeks but more importantly it marked the beginning of my company Wave where I'm on a mission a mission a mission on a mission to revolutionize the kitchen industry I have some really big projects coming and if you want your kitchen experience to be easier drop me a follow Also these bowls are currently in mass production and if you want to be notified on launch day comment once and I'll shoot you a DM See you in the next one Peace
+
+Segments (9):
+  [hook] 0.0s-1.4s | visual_type=outdoor | quality=43.3 | reusability=high | energy=medium | sentiment=neutral
+  [hook] 1.4s-5.3s | visual_type=founder-talking-neutral | quality=54.0 | reusability=medium | energy=medium | sentiment=positive
+    "I invented the space saving bowl and it raised six figures in less than four weeks"
+  [hook] 5.3s-8.4s | visual_type=text-overlay-only | quality=49.7 | reusability=medium | energy=medium | sentiment=positive
+    "but more importantly it marked the beginning of my company Wave"
+  [body] 8.4s-13.2s | visual_type=founder-talking-neutral | quality=44.9 | reusability=medium | energy=medium | sentiment=positive
+    "where I'm on a mission a mission a mission on a mission to revolutionize the kitchen industry"
+  [body] 13.2s-17.6s | visual_type=founder-talking-neutral | quality=44.0 | reusability=medium | energy=medium | sentiment=positive
+    "I have some really big projects coming and if you want your kitchen experience to be easier"
+  [cta] 17.6s-18.6s | visual_type=founder-talking-neutral | quality=35.0 | reusability=none | energy=medium | sentiment=positive
+    "drop me a follow"
+  [cta] 18.6s-22.9s | visual_type=founder-talking-neutral | quality=39.8 | reusability=medium | energy=medium | sentiment=positive
+    "Also these bowls are currently in mass production and if you want to be notified on launch day"
+  [cta] 22.9s-24.8s | visual_type=founder-talking-neutral | quality=37.8 | reusability=medium | energy=medium | sentiment=positive
+    "comment once and I'll shoot you a DM"
+  [cta] 24.8s-26.9s | visual_type=founder-talking-neutral | quality=35.4 | reusability=medium | energy=medium | sentiment=positive
+    "See you in the next one Peace"

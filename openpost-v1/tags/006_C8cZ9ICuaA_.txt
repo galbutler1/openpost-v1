@@ -1,0 +1,25 @@
+=== 6. C8cZ9ICuaA_ ===
+Upload date : 20240620
+Views       : 26,323
+Likes       : 2,180
+Comments    : 55
+Reposts     : 0
+
+Transcript:
+Imagine losing everything That's how I felt when I got this email saying that I would lose over a hundred thousand dollars in funding for my product A bunch of people have tried to copy my idea But the platform I was raising money on thought that I copied them Of course sent them videos and patent applications proving that I was the one who invented it and luckily they corrected their mistake This is a very scary experience but it taught me a valuable lesson People will always judge you and criticize you but it doesn't mean that you're wrong You just got to fight back peace
+
+Segments (7):
+  [hook] 0.0s-2.5s | visual_type=outdoor | quality=38.7 | reusability=high | energy=medium | sentiment=negative
+    "Imagine losing everything"
+  [hook] 2.5s-7.9s | visual_type=text-overlay-only | quality=65.4 | reusability=medium | energy=medium | sentiment=negative
+    "That's how I felt when I got this email saying that I would lose over a hundred thousand dollars in funding for my produ"
+  [body] 7.9s-12.3s | visual_type=founder-talking-neutral | quality=89.2 | reusability=medium | energy=medium | sentiment=negative
+    "A bunch of people have tried to copy my idea But the platform I was raising money on thought that I copied them"
+  [body] 12.3s-20.5s | visual_type=founder-talking-neutral | quality=89.0 | reusability=medium | energy=medium | sentiment=mixed
+    "Of course sent them videos and patent applications proving that I was the one who invented it and luckily they corrected"
+  [body] 20.5s-24.2s | visual_type=text-overlay-only | quality=57.2 | reusability=medium | energy=medium | sentiment=mixed
+    "This is a very scary experience but it taught me a valuable lesson"
+  [body] 24.2s-28.3s | visual_type=text-overlay-only | quality=58.4 | reusability=medium | energy=medium | sentiment=neutral
+    "People will always judge you and criticize you but it doesn't mean that you're wrong"
+  [cta] 28.3s-32.3s | visual_type=text-overlay-only | quality=58.1 | reusability=medium | energy=medium | sentiment=positive
+    "You just got to fight back peace"

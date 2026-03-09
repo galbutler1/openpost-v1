@@ -1,0 +1,23 @@
+=== 44. DDVQPIuuZe5 ===
+Upload date : 20241208
+Views       : 25,044
+Likes       : 1,208
+Comments    : 60
+Reposts     : 0
+
+Transcript:
+What if I told you I invented a product that will prevent your dishwasher from ever being full again In a second it turns into a fully functional bowl that can also fold flat to be used as a plate In your dishwasher you could fit a ton of these without taking up any space and in your cabinets they're practically invisible I launched this product last year as a 17 year old and since then I've been working on manufacturing it and developing new awesome products to help make your kitchen experience easier It would mean the world to me if you can give me a follow and hopefully I'll see you in the next one Peace
+
+Segments (6):
+  [hook] 0.0s-3.2s | visual_type=founder-talking-neutral | quality=67.6 | reusability=medium | energy=medium | sentiment=positive
+    "What if I told you I invented a product that will prevent your dishwasher from ever being full again"
+  [body] 3.2s-10.2s | visual_type=text-overlay-only | quality=58.0 | reusability=high | energy=medium | sentiment=positive
+    "In a second it turns into a fully functional bowl that can also fold flat to be used as a plate"
+  [body] 10.2s-15.7s | visual_type=founder-talking-neutral | quality=76.3 | reusability=high | energy=medium | sentiment=positive
+    "In your dishwasher you could fit a ton of these without taking up any space and in your cabinets they're practically inv"
+  [body] 15.7s-19.2s | visual_type=founder-talking-neutral | quality=87.8 | reusability=medium | energy=medium | sentiment=positive
+    "I launched this product last year as a 17 year old and since then"
+  [body] 19.2s-24.2s | visual_type=text-overlay-only | quality=52.5 | reusability=medium | energy=medium | sentiment=positive
+    "I've been working on manufacturing it and developing new awesome products to help make your kitchen experience easier"
+  [cta] 24.2s-28.9s | visual_type=founder-talking-neutral | quality=67.5 | reusability=medium | energy=medium | sentiment=positive
+    "It would mean the world to me if you can give me a follow and hopefully I'll see you in the next one Peace"

@@ -1,0 +1,23 @@
+=== 31. DB7Bvikux2x ===
+Upload date : 20241103
+Views       : 5,271
+Likes       : 304
+Comments    : 33
+Reposts     : 0
+
+Transcript:
+Might be a hot take I think being an entrepreneur you actually usually have less freedom than non entrepreneurs Let me explain take today For example Some things are wrong with manufacturing for my product and I had to deal with some unhappy customers which kind of feels like I have thousands of Bosses and the paycheck that's not guaranteed At the same time while an employee needs to work in a specific place for a certain amount of hours I'm just scootering to the beach right now to continue my work there which is which is kind of cool So risking my life holding this tripod of course there's pros and cons to being an entrepreneur But at the end of the day there's a reason why the vast majority of people don't choose to become one But obviously being able to work here is definitely a beautiful piece
+
+Segments (6):
+  [hook] 0.0s-6.3s | visual_type=founder-talking-neutral | quality=58.9 | reusability=medium | energy=medium | sentiment=neutral
+    "Might be a hot take I think being an entrepreneur you actually usually have less freedom than non entrepreneurs"
+  [body] 6.3s-19.1s | visual_type=founder-talking-neutral | quality=43.1 | reusability=low | energy=medium | sentiment=negative
+    "Let me explain take today For example Some things are wrong with manufacturing for my product and I had to deal with som"
+  [body] 19.1s-29.1s | visual_type=founder-talking-neutral | quality=41.9 | reusability=medium | energy=medium | sentiment=positive
+    "At the same time while an employee needs to work in a specific place for a certain amount of hours I'm just scootering t"
+  [body] 29.1s-33.8s | visual_type=founder-talking-neutral | quality=49.2 | reusability=medium | energy=medium | sentiment=mixed
+    "So risking my life holding this tripod of course there's pros and cons to being an entrepreneur"
+  [body] 33.8s-39.1s | visual_type=founder-talking-neutral | quality=50.3 | reusability=medium | energy=medium | sentiment=neutral
+    "But at the end of the day there's a reason why the vast majority of people don't choose to become one"
+  [cta] 39.1s-44.7s | visual_type=founder-talking-neutral | quality=42.1 | reusability=medium | energy=medium | sentiment=positive
+    "But obviously being able to work here is definitely a beautiful piece"

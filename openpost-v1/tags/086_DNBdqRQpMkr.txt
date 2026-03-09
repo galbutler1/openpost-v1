@@ -1,0 +1,19 @@
+=== 86. DNBdqRQpMkr ===
+Upload date : 20250806
+Views       : 216,586
+Likes       : 15,934
+Comments    : 229
+Reposts     : 0
+
+Transcript:
+No way What's up guys Good Shabbos I love the video you made by the way I appreciate that Take care guys
+
+Segments (4):
+  [hook] 0.0s-1.6s | visual_type=founder-reacting | quality=72.8 | reusability=none | energy=medium | sentiment=neutral
+    "No way"
+  [hook] 1.6s-3.4s | visual_type=visual-type-unknown | quality=76.1 | reusability=none | energy=silent | sentiment=neutral
+    "What's up guys"
+  [body] 3.4s-4.8s | visual_type=founder-talking-neutral | quality=59.2 | reusability=low | energy=medium | sentiment=positive
+    "Good Shabbos"
+  [body] 4.8s-8.8s | visual_type=founder-talking-neutral | quality=73.5 | reusability=low | energy=medium | sentiment=positive
+    "I love the video you made by the way I appreciate that Take care guys"

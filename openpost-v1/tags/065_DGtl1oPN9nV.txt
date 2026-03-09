@@ -1,0 +1,27 @@
+=== 65. DGtl1oPN9nV ===
+Upload date : 20250302
+Views       : 596,341
+Likes       : 57,869
+Comments    : 1,447
+Reposts     : 0
+
+Transcript:
+I invented this product when I was 15 It's a bowl that folds completely flat into a plate to save space in your dishwasher and cabinets As I got older I got better at product development and marketing and I eventually launched a product and it did pretty well Despite the videos and patent applications that clearly prove I was the first to create this idea there's been a few knockoffs Of course knockoffs are a regular part of business and they happen to every successful product but I need a little help I'm not a big company with a lot of experience I'm just a teenage kid trying to launch this product and other products to improve your kitchen experience and it'd mean the world to me if you could drop me a follow show a little support along my journey and hopefully I'll see you in the next video Peace
+
+Segments (8):
+  [hook] 0.0s-3.3s | visual_type=founder-talking-neutral | quality=57.9 | reusability=medium | energy=medium | sentiment=neutral
+    "I invented this product when I was 15"
+  [hook] 3.3s-8.5s | visual_type=split-screen | quality=53.3 | reusability=high | energy=medium | sentiment=positive
+    "It's a bowl that folds completely flat into a plate to save space in your dishwasher and cabinets"
+  [body] 8.5s-14.6s | visual_type=founder-talking-neutral | quality=47.7 | reusability=medium | energy=medium | sentiment=positive
+    "As I got older I got better at product development and marketing and I eventually launched a product and it did pretty w"
+  [body] 14.6s-21.2s | visual_type=split-screen | quality=78.8 | reusability=medium | energy=medium | sentiment=mixed
+    "Despite the videos and patent applications that clearly prove I was the first to create this idea there's been a few kno"
+  [body] 21.2s-26.2s | visual_type=founder-talking-neutral | quality=47.9 | reusability=medium | energy=medium | sentiment=neutral
+    "Of course knockoffs are a regular part of business and they happen to every successful product"
+  [body] 26.2s-35.1s | visual_type=founder-talking-neutral | quality=47.9 | reusability=medium | energy=medium | sentiment=neutral
+    "but I need a little help I'm not a big company with a lot of experience I'm just a teenage kid trying to launch this pro"
+  [cta] 35.1s-41.5s | visual_type=founder-talking-neutral | quality=47.2 | reusability=medium | energy=medium | sentiment=positive
+    "and it'd mean the world to me if you could drop me a follow show a little support along my journey and hopefully I'll se"
+  [cta] 41.5s-43.5s | visual_type=founder-talking-neutral | quality=55.0 | reusability=low | energy=low | sentiment=positive
+    "Peace"

@@ -1,0 +1,31 @@
+=== 89. DOJlrzNCWIR ===
+Upload date : 20250903
+Views       : 2,063,436
+Likes       : 139,725
+Comments    : 12,504
+Reposts     : 0
+
+Transcript:
+I will fight beside people If you want to follow my journey building this product and launching other I invented this product in high school and two years after launching it I still haven't delivered I fucking mug it Everything mug it I fucking I will fight you Not fighting bro What people want is I have no interest in fighting you Why I don't fight Okay But I will I will fight beside people We're not fighting We're not fighting You will We're not fighting You will No we're not Okay you know Anyway what I was saying is that it's been a wild journey and I've definitely learned a lot about the manufacturing industry and especially a lot about myself I'm going to wrap this video up but if you want to follow my journey building this product and launching other See me I'm just recording myself I will fight beside people I'm not fighting you I understand you Anyway drop me a follow if you want to see more and hope to see you in the next one Peace
+
+Segments (10):
+  [hook] 0.0s-2.3s | visual_type=outdoor | quality=47.3 | reusability=medium | energy=medium | sentiment=neutral
+    "I will fight beside people"
+  [hook] 2.3s-6.2s | visual_type=text-overlay-only | quality=47.8 | reusability=high | energy=medium | sentiment=neutral
+    "If you want to follow my journey building this product and launching other"
+  [body] 6.2s-12.4s | visual_type=founder-talking-neutral | quality=39.4 | reusability=medium | energy=medium | sentiment=mixed
+    "I invented this product in high school and two years after launching it I still haven't delivered"
+  [body] 12.4s-20.1s | visual_type=split-screen | quality=39.2 | reusability=low | energy=high | sentiment=negative
+    "I fucking mug it Everything mug it I fucking I will fight you"
+  [body] 20.1s-39.5s | visual_type=text-overlay-only | quality=47.2 | reusability=low | energy=medium | sentiment=mixed
+    "Not fighting bro What people want is I have no interest in fighting you Why I don't fight Okay But I will I will fight b"
+  [body] 39.5s-48.0s | visual_type=founder-talking-neutral | quality=45.2 | reusability=medium | energy=medium | sentiment=positive
+    "Okay you know Anyway what I was saying is that it's been a wild journey and I've definitely learned a lot about the manu"
+  [body] 48.0s-52.5s | visual_type=founder-talking-neutral | quality=47.7 | reusability=high | energy=medium | sentiment=neutral
+    "I'm going to wrap this video up but if you want to follow my journey building this product and launching other"
+  [body] 52.5s-60.3s | visual_type=outdoor | quality=41.2 | reusability=low | energy=medium | sentiment=neutral
+    "See me I'm just recording myself I will fight beside people I'm not fighting you I understand you"
+  [cta] 60.3s-66.9s | visual_type=founder-talking-neutral | quality=49.3 | reusability=high | energy=medium | sentiment=positive
+    "Anyway drop me a follow if you want to see more and hope to see you in the next one"
+  [cta] 66.9s-68.2s | visual_type=text-overlay-only | quality=41.7 | reusability=medium | energy=low | sentiment=positive
+    "Peace"

@@ -1,0 +1,23 @@
+=== 15. C9KwMGDuZ19 ===
+Upload date : 20240708
+Views       : 37,055
+Likes       : 1,496
+Comments    : 117
+Reposts     : 0
+
+Transcript:
+Alright so I invented this bowl that folds completely flat to save space and unlike normal bowls that are super annoying to load in your dishwasher this one folds completely flat so it takes up almost no space These are currently in mass production and if you want to be notified on launch day just go to the link in my bio and put in your email address Until then let me know what question I should answer in the next video and I'll see you guys
+
+Segments (6):
+  [hook] 0.8s-4.9s | visual_type=product-demo-use-case | quality=64.1 | reusability=none | energy=medium | sentiment=neutral
+    "Alright so I invented this bowl that folds completely flat to save space"
+  [body] 4.9s-9.0s | visual_type=product-demo-feature | quality=64.7 | reusability=high | energy=medium | sentiment=negative
+    "and unlike normal bowls that are super annoying to load in your dishwasher"
+  [body] 9.0s-14.8s | visual_type=product-demo-use-case | quality=66.4 | reusability=high | energy=medium | sentiment=positive
+    "this one folds completely flat so it takes up almost no space"
+  [body] 14.8s-17.9s | visual_type=product-demo-use-case | quality=66.3 | reusability=medium | energy=medium | sentiment=neutral
+    "These are currently in mass production"
+  [cta] 17.9s-22.0s | visual_type=product-demo-feature | quality=65.0 | reusability=medium | energy=medium | sentiment=neutral
+    "and if you want to be notified on launch day just go to the link in my bio and put in your email address"
+  [cta] 22.0s-27.1s | visual_type=product-demo-feature | quality=66.4 | reusability=medium | energy=medium | sentiment=neutral
+    "Until then let me know what question I should answer in the next video and I'll see you guys"

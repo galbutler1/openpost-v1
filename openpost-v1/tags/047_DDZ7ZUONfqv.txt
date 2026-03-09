@@ -1,0 +1,25 @@
+=== 47. DDZ7ZUONfqv ===
+Upload date : 20241210
+Views       : 9,334
+Likes       : 317
+Comments    : 17
+Reposts     : 0
+
+Transcript:
+I know you can't see me so well because the lights behind me but I wanted to have the sunset in the background I invented this bowl last year to make your kitchen experience significantly easier Folds flat to save space in your cabinets and dishwasher and in a second It's back to a fully functional bowl since last year I've been working on mass producing this product and developing new awesome products to help make just realize while editing that the video cut off here But uh basically you got the gist and if you could follow me that'd be lit and i'll see you in the next video Peace
+
+Segments (7):
+  [hook] 0.0s-3.7s | visual_type=outdoor | quality=66.3 | reusability=low | energy=medium | sentiment=neutral
+    "I know you can't see me so well because the lights behind me but I wanted to have the sunset in the background"
+  [body] 3.7s-8.0s | visual_type=text-overlay-only | quality=50.2 | reusability=medium | energy=medium | sentiment=positive
+    "I invented this bowl last year to make your kitchen experience significantly easier"
+  [body] 8.0s-13.6s | visual_type=text-overlay-only | quality=36.3 | reusability=medium | energy=medium | sentiment=positive
+    "Folds flat to save space in your cabinets and dishwasher and in a second It's back to a fully functional bowl"
+  [body] 13.6s-19.2s | visual_type=text-overlay-only | quality=48.1 | reusability=medium | energy=medium | sentiment=positive
+    "since last year I've been working on mass producing this product and developing new awesome products to help make"
+  [body] 19.2s-21.2s | visual_type=text-overlay-only | quality=4.9 | reusability=low | energy=medium | sentiment=neutral
+    "just realize while editing that the video cut off here"
+  [cta] 21.2s-26.3s | visual_type=text-overlay-only | quality=4.6 | reusability=medium | energy=medium | sentiment=positive
+    "But uh basically you got the gist and if you could follow me that'd be lit and i'll see you in the next video"
+  [cta] 26.3s-27.3s | visual_type=text-overlay-only | quality=5.1 | reusability=none | energy=medium | sentiment=positive
+    "Peace"

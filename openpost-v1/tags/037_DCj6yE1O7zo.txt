@@ -1,0 +1,29 @@
+=== 37. DCj6yE1O7zo ===
+Upload date : 20241119
+Views       : 8,466
+Likes       : 331
+Comments    : 51
+Reposts     : 0
+
+Transcript:
+Just give me a second Not going to lie I am not seeing Raisin Bran I guess this will work I don't have milk so please forgive me Yeah this works Comment your next question Also it's too gross to show on camera but I promise you I ate this and as always super easy clean up Boom good as new
+
+Segments (10):
+  [hook] 0.0s-3.6s | visual_type=workspace | quality=42.4 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 3.6s-4.9s | visual_type=text-overlay-only | quality=59.5 | reusability=medium | energy=medium | sentiment=neutral
+    "Just give me a second"
+  [hook] 4.9s-8.1s | visual_type=outdoor | quality=97.9 | reusability=none | energy=silent | sentiment=neutral
+  [body] 8.1s-11.2s | visual_type=outdoor | quality=71.0 | reusability=low | energy=medium | sentiment=neutral
+    "Not going to lie I am not seeing Raisin Bran I guess this will work"
+  [body] 11.2s-16.7s | visual_type=lifestyle | quality=65.1 | reusability=low | energy=medium | sentiment=neutral
+    "I don't have milk so please forgive me"
+  [body] 16.7s-21.9s | visual_type=product-demo-use-case | quality=59.0 | reusability=low | energy=medium | sentiment=positive
+    "Yeah this works"
+  [cta] 21.9s-23.1s | visual_type=lifestyle | quality=58.1 | reusability=medium | energy=medium | sentiment=neutral
+    "Comment your next question"
+  [cta] 23.1s-26.5s | visual_type=product-demo-use-case | quality=40.6 | reusability=low | energy=medium | sentiment=neutral
+    "Also it's too gross to show on camera but I promise you I ate this"
+  [cta] 26.5s-28.4s | visual_type=product-demo-use-case | quality=39.7 | reusability=low | energy=medium | sentiment=positive
+    "and as always super easy clean up"
+  [cta] 28.4s-34.9s | visual_type=product-demo-use-case | quality=33.7 | reusability=medium | energy=medium | sentiment=positive
+    "Boom good as new"

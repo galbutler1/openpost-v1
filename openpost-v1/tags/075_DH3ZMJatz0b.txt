@@ -1,0 +1,26 @@
+=== 75. DH3ZMJatz0b ===
+Upload date : 20250331
+Views       : 87,940
+Likes       : 3,555
+Comments    : 101
+Reposts     : 0
+
+Transcript:
+Thank you Thank you Hey great to meet you man All right just to confirm that's 1 million bulls You know what Mark I like you a lot man You deserve more than that Let's do 10 million bulls Perfect Have a good one
+
+Segments (8):
+  [hook] 0.0s-2.1s | visual_type=founder-thinking | quality=32.6 | reusability=none | energy=silent | sentiment=neutral
+    "Thank you"
+  [hook] 2.1s-8.6s | visual_type=product-demo-use-case | quality=24.5 | reusability=medium | energy=silent | sentiment=neutral
+    "Thank you"
+  [hook] 8.6s-13.3s | visual_type=product-demo-use-case | quality=23.4 | reusability=medium | energy=silent | sentiment=neutral
+  [body] 13.3s-14.4s | visual_type=founder-reacting | quality=20.8 | reusability=low | energy=medium | sentiment=positive
+    "Hey great to meet you man"
+  [body] 14.4s-16.7s | visual_type=on-phone | quality=21.6 | reusability=low | energy=medium | sentiment=neutral
+    "All right just to confirm that's 1 million bulls"
+  [body] 16.7s-18.9s | visual_type=founder-reacting | quality=22.0 | reusability=low | energy=medium | sentiment=positive
+    "You know what Mark I like you a lot man"
+  [body] 18.9s-21.5s | visual_type=founder-reacting | quality=22.8 | reusability=low | energy=medium | sentiment=positive
+    "You deserve more than that Let's do 10 million bulls"
+  [cta] 21.5s-23.7s | visual_type=outdoor | quality=23.0 | reusability=low | energy=medium | sentiment=positive
+    "Perfect Have a good one"

@@ -1,0 +1,27 @@
+=== 55. DElOn_PtQwf ===
+Upload date : 20250108
+Views       : 16,961
+Likes       : 505
+Comments    : 29
+Reposts     : 0
+
+Transcript:
+I invented this product in high school It's a bowl that folds completely flat into a plate to save space in your dishwasher and cabinets And the biggest regret I have by far is not starting earlier Running out of time to achieve your dreams is probably one of the biggest fears people have If you have an idea for a product or company I deeply encourage you to flip over a timer and start working on it now By the way I'm on a mission to revolutionize the kitchen experience And if you wanna know more about that product and future products I'm developing it'd mean the world to me if you could drop me a follow And hopefully I'll see you in the next one Peace
+
+Segments (8):
+  [hook] 0.0s-1.6s | visual_type=founder-talking-neutral | quality=43.9 | reusability=none | energy=medium | sentiment=neutral
+    "I invented this product in high school"
+  [hook] 1.6s-8.3s | visual_type=text-overlay-only | quality=43.4 | reusability=high | energy=medium | sentiment=positive
+    "It's a bowl that folds completely flat into a plate to save space in your dishwasher and cabinets"
+  [body] 8.3s-11.7s | visual_type=founder-talking-neutral | quality=46.6 | reusability=medium | energy=medium | sentiment=negative
+    "And the biggest regret I have by far is not starting earlier"
+  [body] 11.7s-17.9s | visual_type=founder-talking-neutral | quality=35.7 | reusability=medium | energy=medium | sentiment=negative
+    "Running out of time to achieve your dreams is probably one of the biggest fears people have"
+  [body] 17.9s-24.8s | visual_type=product-in-hand | quality=35.2 | reusability=high | energy=medium | sentiment=positive
+    "If you have an idea for a product or company I deeply encourage you to flip over a timer and start working on it now"
+  [body] 24.8s-28.6s | visual_type=text-overlay-only | quality=26.5 | reusability=medium | energy=medium | sentiment=positive
+    "By the way I'm on a mission to revolutionize the kitchen experience"
+  [cta] 28.6s-34.2s | visual_type=founder-talking-neutral | quality=27.8 | reusability=medium | energy=medium | sentiment=positive
+    "And if you wanna know more about that product and future products I'm developing it'd mean the world to me if you could "
+  [cta] 34.2s-37.6s | visual_type=founder-talking-neutral | quality=21.7 | reusability=medium | energy=medium | sentiment=positive
+    "And hopefully I'll see you in the next one Peace"

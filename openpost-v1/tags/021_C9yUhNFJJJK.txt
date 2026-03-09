@@ -1,0 +1,22 @@
+=== 21. C9yUhNFJJJK ===
+Upload date : 20240724
+Views       : 13,056
+Likes       : 723
+Comments    : 92
+Reposts     : 0
+
+Transcript:
+To everyone who tried taking down my account ripping off my products and destroying my brand I have one thing to say to you Thank you While these experiences have been difficult they've built my character and prepared me for challenges to come If your intention was to help me you did a great job And if you're new here I'm on a mission to revolutionize the kitchen industry and I would absolutely love to have you here for the journey See you on the next one Peace
+
+Segments (6):
+  [hook] 0.0s-4.5s | visual_type=outdoor | quality=86.5 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 4.5s-13.5s | visual_type=founder-talking-neutral | quality=86.4 | reusability=medium | energy=medium | sentiment=neutral
+    "To everyone who tried taking down my account ripping off my products and destroying my brand I have one thing to say to "
+  [body] 13.5s-19.4s | visual_type=founder-talking-neutral | quality=87.3 | reusability=medium | energy=medium | sentiment=positive
+    "you While these experiences have been difficult they've built my character and prepared me for challenges to come"
+  [body] 19.4s-23.1s | visual_type=founder-talking-neutral | quality=86.8 | reusability=medium | energy=medium | sentiment=positive
+    "If your intention was to help me you did a great job"
+  [body] 23.1s-31.2s | visual_type=founder-talking-neutral | quality=86.7 | reusability=high | energy=medium | sentiment=positive
+    "And if you're new here I'm on a mission to revolutionize the kitchen industry and I would absolutely love to have you he"
+  [cta] 31.2s-37.2s | visual_type=text-overlay-only | quality=88.1 | reusability=medium | energy=medium | sentiment=positive
+    "See you on the next one Peace"

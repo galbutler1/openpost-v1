@@ -1,0 +1,33 @@
+=== 42. DDFlZv1OQGq ===
+Upload date : 20241202
+Views       : 2,685
+Likes       : 202
+Comments    : 29
+Reposts     : 0
+
+Transcript:
+I'm an 18 year old entrepreneur who's not going to college to pursue my business and before you scroll no I don't have a course and I'm not a coach I know this sounds weird I'm developing a line of physical products that I invented specifically to make dishwashing easier What does an 18 year old know about dishwashing It's not about dishwashing It's about solving real problems that affect hundreds of millions of people with solutions that in my opinion are extremely interesting Just to clarify I have no hate for online courses and coaches I'm just doing something that's a lot different and Significantly more rare that being said there is a reason of my launching physical products It's a lot more rare And if you follow me you'll notice very quickly the ups and downs that contribute to that So it mean the world to me you can join me on this super interesting journey And I'd love to see you in the next one Peace
+
+Segments (11):
+  [hook] 0.0s-3.5s | visual_type=founder-talking-neutral | quality=46.5 | reusability=high | energy=medium | sentiment=neutral
+    "I'm an 18 year old entrepreneur"
+  [hook] 3.5s-6.5s | visual_type=founder-talking-neutral | quality=48.3 | reusability=high | energy=medium | sentiment=neutral
+    "who's not going to college to pursue my business and before you scroll no I don't have a course"
+  [hook] 6.5s-8.8s | visual_type=founder-talking-neutral | quality=47.3 | reusability=high | energy=medium | sentiment=neutral
+    "and I'm not a coach I know this sounds weird"
+  [body] 8.8s-14.9s | visual_type=founder-talking-neutral | quality=43.9 | reusability=medium | energy=medium | sentiment=neutral
+    "I'm developing a line of physical products that I invented specifically to make dishwashing easier"
+  [body] 14.9s-21.1s | visual_type=founder-talking-neutral | quality=43.1 | reusability=medium | energy=medium | sentiment=neutral
+    "What does an 18 year old know about dishwashing It's not about dishwashing It's about solving real problems that affect "
+  [body] 21.1s-24.9s | visual_type=founder-talking-neutral | quality=44.6 | reusability=medium | energy=medium | sentiment=positive
+    "with solutions that in my opinion are extremely interesting"
+  [body] 24.9s-28.7s | visual_type=founder-talking-neutral | quality=42.8 | reusability=medium | energy=medium | sentiment=neutral
+    "Just to clarify I have no hate for online courses and coaches"
+  [body] 28.7s-32.8s | visual_type=founder-talking-neutral | quality=45.1 | reusability=medium | energy=medium | sentiment=positive
+    "I'm just doing something that's a lot different and Significantly more rare"
+  [body] 32.8s-36.1s | visual_type=founder-talking-neutral | quality=44.8 | reusability=medium | energy=medium | sentiment=neutral
+    "that being said there is a reason of my launching physical products It's a lot more rare"
+  [body] 36.1s-40.3s | visual_type=founder-talking-neutral | quality=44.7 | reusability=medium | energy=medium | sentiment=neutral
+    "And if you follow me you'll notice very quickly the ups and downs that contribute to that"
+  [cta] 40.3s-45.7s | visual_type=founder-talking-neutral | quality=42.9 | reusability=medium | energy=medium | sentiment=positive
+    "So it mean the world to me you can join me on this super interesting journey And I'd love to see you in the next one Pea"

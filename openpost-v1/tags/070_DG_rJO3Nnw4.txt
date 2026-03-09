@@ -1,0 +1,26 @@
+=== 70. DG_rJO3Nnw4 ===
+Upload date : 20250309
+Views       : 15,508
+Likes       : 515
+Comments    : 38
+Reposts     : 0
+
+Transcript:
+Sir do you like washing dishes I do wash dishes on a daily basis I'm a chef Oh you're a chef okay awesome So I wanna help you out I invented this plate fold it into a bowl and you can see when you're loading your dishwasher you can fold it flat and save a bunch of space make it a little bit easier No man this doesn't work for my kitchen Doesn't work for your kitchen No Okay how about for your house Neither Okay Ridiculous Yeah Yeah
+
+Segments (8):
+  [hook] 0.0s-1.5s | visual_type=text-overlay-only | quality=54.4 | reusability=none | energy=medium | sentiment=neutral
+    "Sir"
+  [hook] 1.5s-8.2s | visual_type=founder-talking-neutral | quality=50.8 | reusability=low | energy=medium | sentiment=neutral
+    "do you like washing dishes I do wash dishes on a daily basis I'm a chef Oh you're a chef okay awesome"
+  [body] 8.2s-18.7s | visual_type=product-in-hand | quality=48.9 | reusability=medium | energy=medium | sentiment=positive
+    "So I wanna help you out I invented this plate fold it into a bowl and you can see when you're loading your dishwasher yo"
+  [body] 18.7s-21.9s | visual_type=founder-talking-neutral | quality=47.5 | reusability=low | energy=medium | sentiment=negative
+    "No man this doesn't work for my kitchen"
+  [body] 21.9s-24.5s | visual_type=founder-talking-neutral | quality=53.0 | reusability=low | energy=medium | sentiment=negative
+    "Doesn't work for your kitchen No"
+  [body] 24.5s-26.8s | visual_type=product-in-hand | quality=42.6 | reusability=low | energy=medium | sentiment=negative
+    "Okay how about for your house Neither"
+  [cta] 26.8s-29.3s | visual_type=founder-laughing | quality=45.0 | reusability=low | energy=medium | sentiment=mixed
+    "Okay Ridiculous Yeah Yeah"
+  [cta] 29.3s-33.8s | visual_type=text-overlay-only | quality=27.3 | reusability=none | energy=silent | sentiment=neutral

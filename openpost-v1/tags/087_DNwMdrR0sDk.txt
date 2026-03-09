@@ -1,0 +1,37 @@
+=== 87. DNwMdrR0sDk ===
+Upload date : 20250824
+Views       : 47,844
+Likes       : 1,017
+Comments    : 68
+Reposts     : 0
+
+Transcript:
+Do you want to watch boring videos Because I keep running into this issue where I'm trying to document my journey developing this space saving product I invented but I'll just go for months of time where there's nothing really exciting to share and so I just won't make videos And I feel like that's not so good for growing an audience but I also don't want to share boring things to you guys and just bore you Should I restart this video I reached out to this really cool guy named Yoni who makes daily videos and I told him that I have these really repetitive issues and I don't want to just make repetitive content and his response was life is repetitive So maybe I should just make boring videos and even on days where nothing cool happens just for those of you who want to follow like a genuine journey and not just a highlight reel It's kind of hard for me to do because I like making entertaining content For those of you who do want to follow that I would really appreciate it It would mean the world to me but I also don't expect you to want that So yeah let me know Peace
+
+Segments (13):
+  [hook] 0.0s-3.1s | visual_type=lifestyle | quality=86.5 | reusability=medium | energy=medium | sentiment=neutral
+    "Do you want to watch boring videos"
+  [hook] 3.1s-8.3s | visual_type=text-overlay-only | quality=87.9 | reusability=medium | energy=medium | sentiment=neutral
+    "Because I keep running into this issue where I'm trying to document my journey developing this space saving product"
+  [hook] 8.3s-13.8s | visual_type=split-screen | quality=86.7 | reusability=medium | energy=medium | sentiment=neutral
+    "I invented but I'll just go for months of time where there's nothing really exciting to share"
+  [body] 13.8s-18.3s | visual_type=lifestyle | quality=85.2 | reusability=medium | energy=medium | sentiment=negative
+    "and so I just won't make videos And I feel like that's not so good for growing an audience"
+  [body] 18.3s-22.7s | visual_type=text-overlay-only | quality=85.9 | reusability=medium | energy=medium | sentiment=negative
+    "but I also don't want to share boring things to you guys and just bore you"
+  [body] 22.7s-23.8s | visual_type=text-overlay-only | quality=85.5 | reusability=medium | energy=medium | sentiment=neutral
+    "Should I restart this video"
+  [body] 23.8s-28.8s | visual_type=split-screen | quality=82.9 | reusability=medium | energy=medium | sentiment=neutral
+    "I reached out to this really cool guy named Yoni who makes daily videos and I told him that I have these really repetiti"
+  [body] 28.8s-34.9s | visual_type=lifestyle | quality=76.1 | reusability=medium | energy=medium | sentiment=neutral
+    "and I don't want to just make repetitive content and his response was life is repetitive"
+  [body] 34.9s-40.4s | visual_type=text-overlay-only | quality=85.3 | reusability=medium | energy=medium | sentiment=neutral
+    "So maybe I should just make boring videos and even on days where nothing cool happens"
+  [body] 40.4s-45.7s | visual_type=lifestyle | quality=74.5 | reusability=medium | energy=medium | sentiment=positive
+    "just for those of you who want to follow like a genuine journey and not just a highlight reel"
+  [body] 45.7s-48.8s | visual_type=text-overlay-only | quality=85.8 | reusability=medium | energy=medium | sentiment=neutral
+    "It's kind of hard for me to do because I like making entertaining content"
+  [cta] 48.8s-52.7s | visual_type=lifestyle | quality=84.2 | reusability=medium | energy=medium | sentiment=positive
+    "For those of you who do want to follow that I would really appreciate it It would mean the world to me"
+  [cta] 52.7s-57.2s | visual_type=lifestyle | quality=84.2 | reusability=medium | energy=medium | sentiment=neutral
+    "but I also don't expect you to want that So yeah let me know Peace"

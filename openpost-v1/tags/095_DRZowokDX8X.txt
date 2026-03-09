@@ -1,0 +1,31 @@
+=== 95. DRZowokDX8X ===
+Upload date : 20251123
+Views       : 7,027
+Likes       : 410
+Comments    : 56
+Reposts     : 0
+
+Transcript:
+This space saving bowl I invented is almost finally ready to ship but we need to fix one thing As you could clearly see here the hinges are not being manufactured in an optimal way The red areas are where the plastic is not reliable and will likely break over time It's a super complicated thing but basically the pressure and the areas where the plastic was being ejected into the mold were not set up to be optimal It's up to the hinges failing after a certain amount of fold which would lead to liquid seeping out of your bowl which I don't think you want Last week we opened up a new mold We're aiming to fix these issues As you can see here there's no red areas Stay tuned for updates I'll let you know how these molds go and see you in the next one Peace
+
+Segments (10):
+  [hook] 0.0s-3.9s | visual_type=founder-talking-neutral | quality=67.9 | reusability=high | energy=medium | sentiment=positive
+    "This space saving bowl I invented is almost finally ready to ship"
+  [hook] 3.9s-5.5s | visual_type=founder-talking-neutral | quality=55.5 | reusability=medium | energy=medium | sentiment=neutral
+    "but we need to fix one thing"
+  [body] 5.5s-10.3s | visual_type=product-demo-feature | quality=99.4 | reusability=medium | energy=medium | sentiment=neutral
+    "As you could clearly see here the hinges are not being manufactured in an optimal way"
+  [body] 10.3s-14.2s | visual_type=product-demo-feature | quality=97.1 | reusability=medium | energy=medium | sentiment=negative
+    "The red areas are where the plastic is not reliable and will likely break over time"
+  [body] 14.2s-21.7s | visual_type=product-demo-feature | quality=76.7 | reusability=medium | energy=medium | sentiment=neutral
+    "It's a super complicated thing but basically the pressure and the areas where the plastic was being ejected into the mol"
+  [body] 21.7s-28.2s | visual_type=founder-talking-neutral | quality=77.4 | reusability=medium | energy=medium | sentiment=negative
+    "It's up to the hinges failing after a certain amount of fold which would lead to liquid seeping out of your bowl which I"
+  [body] 28.2s-31.4s | visual_type=founder-talking-neutral | quality=97.1 | reusability=medium | energy=medium | sentiment=positive
+    "Last week we opened up a new mold We're aiming to fix these issues"
+  [body] 31.4s-33.2s | visual_type=product-demo-feature | quality=98.4 | reusability=medium | energy=medium | sentiment=positive
+    "As you can see here there's no red areas"
+  [cta] 33.2s-37.0s | visual_type=founder-talking-neutral | quality=63.3 | reusability=medium | energy=medium | sentiment=positive
+    "Stay tuned for updates I'll let you know how these molds go and see you in the next one"
+  [cta] 37.0s-38.4s | visual_type=text-overlay-only | quality=45.4 | reusability=high | energy=medium | sentiment=positive
+    "Peace"

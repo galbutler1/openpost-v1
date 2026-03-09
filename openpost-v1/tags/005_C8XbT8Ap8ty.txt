@@ -1,0 +1,15 @@
+=== 5. C8XbT8Ap8ty ===
+Upload date : 20240618
+Views       : 31,019
+Likes       : 1,022
+Comments    : 37
+Reposts     : 0
+
+Transcript:
+Oh
+
+Segments (3):
+  [hook] 0.0s-2.3s | visual_type=event | quality=40.2 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 2.3s-3.7s | visual_type=event | quality=33.5 | reusability=none | energy=low | sentiment=neutral
+    "Oh"
+  [cta] 3.7s-6.1s | visual_type=event | quality=22.2 | reusability=none | energy=silent | sentiment=neutral

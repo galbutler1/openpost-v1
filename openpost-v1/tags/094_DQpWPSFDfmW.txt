@@ -1,0 +1,27 @@
+=== 94. DQpWPSFDfmW ===
+Upload date : 20251104
+Views       : 9,148
+Likes       : 418
+Comments    : 36
+Reposts     : 0
+
+Transcript:
+Over the past year and a half I've grown my audience to over 100 000 followers and I still haven't delivered a single one of my products that I've been working on producing I'm saying this because it's easy to create an excuse for why you haven't started working on your dream yet For me it was that I wasn't gonna start posting content until I had mass production completely figured out for my product and what I learned is that people aren't looking to just follow perfection They want to follow a genuine human being going through a journey with the ups and downs that comes with it Whatever your goal is wherever you are in that journey just start It's okay if it's messy it's okay if you're not there yet I think the key is to remember that the journey is more important than the destination and it sounds super cliche but most cliche things are kinda true Peace
+
+Segments (8):
+  [hook] 0.0s-3.2s | visual_type=founder-talking-neutral | quality=90.5 | reusability=high | energy=medium | sentiment=positive
+    "Over the past year and a half I've grown my audience to over 100 000 followers"
+  [hook] 3.2s-8.8s | visual_type=founder-talking-neutral | quality=85.5 | reusability=medium | energy=medium | sentiment=neutral
+    "and I still haven't delivered a single one of my products that I've been working on producing"
+  [body] 8.8s-14.9s | visual_type=founder-talking-neutral | quality=59.5 | reusability=medium | energy=medium | sentiment=neutral
+    "I'm saying this because it's easy to create an excuse for why you haven't started working on your dream yet"
+  [body] 14.9s-24.1s | visual_type=founder-talking-neutral | quality=80.9 | reusability=medium | energy=medium | sentiment=neutral
+    "For me it was that I wasn't gonna start posting content until I had mass production completely figured out for my produc"
+  [body] 24.1s-33.4s | visual_type=founder-talking-neutral | quality=87.4 | reusability=high | energy=medium | sentiment=positive
+    "and what I learned is that people aren't looking to just follow perfection They want to follow a genuine human being goi"
+  [body] 33.4s-39.6s | visual_type=founder-talking-neutral | quality=89.1 | reusability=high | energy=medium | sentiment=positive
+    "Whatever your goal is wherever you are in that journey just start It's okay if it's messy it's okay if you're not there "
+  [body] 39.6s-48.1s | visual_type=founder-talking-neutral | quality=90.5 | reusability=high | energy=medium | sentiment=positive
+    "I think the key is to remember that the journey is more important than the destination and it sounds super cliche but mo"
+  [cta] 48.1s-49.5s | visual_type=founder-talking-neutral | quality=79.2 | reusability=medium | energy=low | sentiment=positive
+    "Peace"

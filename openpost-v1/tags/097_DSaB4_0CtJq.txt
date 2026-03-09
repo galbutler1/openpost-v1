@@ -1,0 +1,35 @@
+=== 97. DSaB4_0CtJq ===
+Upload date : 20251218
+Views       : 6,026
+Likes       : 376
+Comments    : 74
+Reposts     : 0
+
+Transcript:
+So I invented this space saving bowl that folds completely flat into a plate to save space in your kitchen I've been working on it for over two years and yesterday I posted a really great production update and I got this comment I'm sure this person had no bad intentions and I actually really appreciate that they're even following my journey This is an extremely important point for anyone building any type of business The dots always connect in reverse Something happens another thing happens and in the moment it takes so long you don't necessarily know what you're doing and then you look back and everything connects perfectly And of course the natural reaction is why wasn't I just doing this from the beginning It's what allows you to evolve as an entrepreneur over time and apply things you've learned the next time something comes up If you wanna follow my journey building this product and see if I can connect some more dots drop me a follow Comment once if you wanna be added to the wait list and I'll see you in the next one Peace
+
+Segments (12):
+  [hook] 0.0s-3.5s | visual_type=founder-talking-neutral | quality=71.5 | reusability=medium | energy=medium | sentiment=positive
+    "So I invented this"
+  [hook] 3.5s-7.5s | visual_type=product-demo-feature | quality=75.2 | reusability=high | energy=medium | sentiment=positive
+    "space saving bowl that folds completely flat into a plate to save space in your kitchen"
+  [hook] 7.5s-10.2s | visual_type=founder-talking-neutral | quality=73.6 | reusability=medium | energy=medium | sentiment=neutral
+    "I've been working on it for over two years"
+  [body] 10.2s-13.9s | visual_type=split-screen | quality=92.9 | reusability=medium | energy=medium | sentiment=positive
+    "and yesterday I posted a really great production update"
+  [body] 13.9s-20.7s | visual_type=founder-talking-neutral | quality=74.4 | reusability=medium | energy=medium | sentiment=positive
+    "and I got this comment I'm sure this person had no bad intentions and I actually really appreciate that they're even fol"
+  [body] 20.7s-25.8s | visual_type=founder-talking-neutral | quality=73.5 | reusability=medium | energy=medium | sentiment=neutral
+    "This is an extremely important point for anyone building any type of business"
+  [body] 25.8s-27.9s | visual_type=founder-talking-neutral | quality=75.8 | reusability=medium | energy=medium | sentiment=neutral
+    "The dots always connect in reverse"
+  [body] 27.9s-35.7s | visual_type=founder-talking-neutral | quality=75.9 | reusability=medium | energy=medium | sentiment=neutral
+    "Something happens another thing happens and in the moment it takes so long you don't necessarily know what you're doing "
+  [body] 35.7s-40.4s | visual_type=founder-talking-neutral | quality=75.1 | reusability=medium | energy=medium | sentiment=neutral
+    "And of course the natural reaction is why wasn't I just doing this from the beginning"
+  [body] 40.4s-47.1s | visual_type=founder-talking-neutral | quality=77.3 | reusability=medium | energy=medium | sentiment=neutral
+    "It's what allows you to evolve as an entrepreneur over time and apply things you've learned the next time something come"
+  [cta] 47.1s-52.1s | visual_type=founder-talking-neutral | quality=43.1 | reusability=medium | energy=medium | sentiment=positive
+    "If you wanna follow my journey building this product and see if I can connect some more dots"
+  [cta] 52.1s-57.4s | visual_type=founder-talking-neutral | quality=59.0 | reusability=medium | energy=medium | sentiment=positive
+    "drop me a follow Comment once if you wanna be added to the wait list and I'll see you in the next one Peace"

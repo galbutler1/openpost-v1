@@ -1,0 +1,22 @@
+=== 13. C8-dWfxpOak ===
+Upload date : 20240703
+Views       : 13,028
+Likes       : 692
+Comments    : 34
+Reposts     : 0
+
+Transcript:
+This starter flame represents the first product I publicly released it got some attention and sparked some interest The follow up explosion represents something much bigger that this product will lead to If you want to be here for the main event drop me a follow I'd love to have you here while we blow up the kitchen industry I'll see you in the next one peace
+
+Segments (6):
+  [hook] 0.0s-5.5s | visual_type=text-overlay-only | quality=18.9 | reusability=none | energy=silent | sentiment=neutral
+  [hook] 5.5s-11.3s | visual_type=text-overlay-only | quality=51.2 | reusability=medium | energy=medium | sentiment=positive
+    "This starter flame represents the first product I publicly released"
+  [body] 11.3s-13.8s | visual_type=text-overlay-only | quality=28.2 | reusability=medium | energy=medium | sentiment=positive
+    "it got some attention and sparked some interest"
+  [body] 13.8s-19.0s | visual_type=text-overlay-only | quality=34.1 | reusability=medium | energy=medium | sentiment=positive
+    "The follow up explosion represents something much bigger that this product will lead to"
+  [cta] 19.0s-24.7s | visual_type=text-overlay-only | quality=13.1 | reusability=medium | energy=medium | sentiment=positive
+    "If you want to be here for the main event drop me a follow I'd love to have you here while we blow up the kitchen indust"
+  [cta] 24.7s-27.9s | visual_type=text-overlay-only | quality=13.3 | reusability=medium | energy=medium | sentiment=positive
+    "I'll see you in the next one peace"
