@@ -188,10 +188,14 @@ def assemble_remix(
             "-map", "[vout]",
             "-map", "0:a",       # anchor audio, unmodified
             "-c:v", "libx264",
+            "-profile:v", "high",
+            "-level", "4.0",
             "-preset", "fast",
             "-crf", "23",
+            "-pix_fmt", "yuv420p",   # required for iOS Camera Roll import
             "-c:a", "aac",
             "-b:a", "192k",
+            "-movflags", "+faststart",  # metadata at front for smooth playback
             "-shortest",
             str(output_path),
         ]
