@@ -55,6 +55,10 @@ PREVIOUSLY_USED_ANCHORS = {
     "DL5OckHNbpB", "DSXFQd0jTYq", "DTOjVRYDXnm", "C9yUhNFJJJK", "DQjvxK-CnO4",
     # Batch 7b — 2 videos (partial run before fix)
     "DFBQyfduWQ8", "DF3LyCNuYlR",
+    # Batch 8 — 10 videos (reused anchors, fresh b-roll)
+    "DOJlrzNCWIR", "DGtl1oPN9nV", "C88FX6ZJejL", "DOJsbgbCeka",
+    "DMG4Yv6oJKF", "DEVLB4LNTGi", "DGygHDUtpah", "DDXkpPBuog1",
+    "DMiwzlcJQD3", "C-8x48op-y8",
 }
 
 
