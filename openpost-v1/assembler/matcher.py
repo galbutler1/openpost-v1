@@ -15,6 +15,7 @@ Never insert an off-topic clip just to fill a window.
 
 from __future__ import annotations
 
+import random
 import re
 from typing import Optional
 
@@ -44,8 +45,6 @@ TOPIC_VISUAL_TYPES: dict[str, set[str]] = {
 
 
 # ── Keyword sets ─────────────────────────────────────────────────────────────
-# Single-word cues use word-boundary matching to avoid false positives
-# e.g. "product" must NOT match "production", "sell" must NOT match "seller"
 
 _PRODUCT_WORDS = {
     "product", "invention", "invented", "bowl", "magnet", "hinge",
@@ -92,6 +91,36 @@ _EMOTION_WORDS = {
 _EMOTION_PHRASES = {
     "real talk", "to be honest", "i cried", "didn't expect",
     "broke down", "confession",
+}
+
+
+# ── Product sub-type context hints ────────────────────────────────────────────
+# When the anchor is talking about specific aspects, prefer matching visual type.
+# These are applied as soft score boosts, not hard filters.
+
+_SUBTYPE_HINTS: dict[str, set[str]] = {
+    "product-demo-feature": {
+        "fold", "flat", "hinge", "collapse", "compact", "space", "saves",
+        "design", "patent", "magnet", "feature", "works", "mechanism",
+        "manufactured", "manufacturing", "quality", "material", "built",
+    },
+    "product-demo-use-case": {
+        "dishwasher", "wash", "meal", "food", "eat", "eating", "use",
+        "store", "storage", "kitchen", "cook", "cooking", "normal",
+        "everyday", "fits", "drawer", "cabinet",
+    },
+    "product-in-hand": {
+        "hold", "holding", "hand", "grab", "show", "here it is", "look at",
+        "this is it", "invented", "invention", "feel", "touch",
+    },
+    "product-close-up": {
+        "detail", "close", "look closely", "you can see", "quality",
+        "material", "texture", "inspect",
+    },
+    "product-comparison": {
+        "compare", "versus", "vs", "normal bowl", "regular", "difference",
+        "side by side", "other bowls", "unlike",
+    },
 }
 
 
@@ -145,9 +174,25 @@ def broll_compatibility_score(full_transcript: str, body_segment_count: int) -> 
 
 
 def _clip_quality(seg: Segment) -> float:
-    """Rank matching clips by visual quality."""
+    """Base visual quality score for a clip."""
     reu = {"high": 100, "medium": 60, "low": 20, "none": 0}.get(seg.reusability.value, 20)
     return seg.quality_score * 0.6 + reu * 0.4
+
+
+def _subtype_boost(seg: Segment, anchor_transcript: str) -> float:
+    """
+    Bonus multiplier when a clip's visual type closely matches what the anchor
+    is specifically describing at this moment.
+    e.g. anchor says "fold flat" → boost product-demo-feature clips.
+    Returns 1.0 (no change) to 1.5 (strong match).
+    """
+    vt = seg.visual_type.value
+    hints = _SUBTYPE_HINTS.get(vt)
+    if not hints:
+        return 1.0
+    t = anchor_transcript.lower()
+    hits = sum(1 for kw in hints if kw in t)
+    return 1.0 + min(hits * 0.15, 0.5)
 
 
 def find_match(
@@ -158,20 +203,26 @@ def find_match(
     used_segment_ids: set[str] | None = None,
     used_source_video_ids: set[str] | None = None,
     video_topic: str | None = None,
+    last_visual_type: str | None = None,
 ) -> Optional[Segment]:
     """
     Find a b-roll clip matching the anchor's topic.
+
+    Selection is weighted-random from the top candidates so different
+    runs and windows produce variety rather than always the same top clip.
 
     Topic resolution:
       1. Segment-level topic (what this specific 2-second window says) — primary.
          If the segment itself has clear keywords (score >= 1), always use that.
       2. Video-level topic (full transcript) — fallback ONLY when the segment
-         has zero keyword signal on its own. This gets b-roll into segments like
-         "Suitable for the best meal in the world" that clearly show the product
-         but don't use the word "product".
+         has zero keyword signal on its own.
 
-    This prevents journey/outdoor clips bleeding into product-focused windows
-    just because the video mentions "journey" somewhere else.
+    Scoring factors:
+      - Base quality (_clip_quality)
+      - Sub-type context boost (_subtype_boost): prefers clips whose visual type
+        matches what the anchor is literally describing
+      - Variety penalty: down-weights clips matching the last-used visual type
+        to avoid repetitive back-to-back same-type cuts
     """
     used_ids        = used_segment_ids       or set()
     used_source_ids = used_source_video_ids  or set()
@@ -181,14 +232,10 @@ def find_match(
     seg_score  = seg_scores[seg_best]
 
     if video_topic == "product":
-        # Product videos: always show product b-roll only.
-        # Never let a passing "story" or "journey" word trigger outdoor clips.
         topic = "product"
     elif seg_score >= 1:
-        # Non-product video: trust the segment's own topic signal
         topic = seg_best
     elif video_topic is not None:
-        # Segment is ambiguous — fall back to video-level topic
         topic = video_topic
     else:
         return None
@@ -201,14 +248,11 @@ def find_match(
             continue
         if video.video_id in used_source_ids:
             continue
-        # "Quick Story" video — never use as b-roll, text baked into the frame
-        if video.video_id == "C8DYloWp_7r":
-            continue
-        # Egg-basket metaphor video — falling/outdoor clips make no sense as b-roll
-        if video.video_id == "DB_--pIOLs3":
-            continue
         for seg in video.segments:
             if seg.segment_id in used_ids:
+                continue
+            # "Quick Story" text-overlay segment — baked-in text ruins the cut
+            if seg.segment_id == "44c90259-ccab-45af-9b47-c9a4f8c4859d":
                 continue
             if seg.zone.value in ("hook", "cta"):
                 continue
@@ -222,5 +266,19 @@ def find_match(
     if not matches:
         return None
 
-    matches.sort(key=_clip_quality, reverse=True)
-    return matches[0]
+    # ── Composite score: quality × context relevance × variety ───────────────
+    def score(seg: Segment) -> float:
+        base = _clip_quality(seg)
+        ctx  = _subtype_boost(seg, anchor_segment.transcript)
+        # Down-weight if same visual type as the previous cut (reduce grouping)
+        variety = 0.6 if (last_visual_type and seg.visual_type.value == last_visual_type) else 1.0
+        return base * ctx * variety
+
+    matches.sort(key=score, reverse=True)
+
+    # Weighted-random pick from top candidates — high scores preferred but not
+    # guaranteed, so different windows and runs produce different clips.
+    top_n = min(8, len(matches))
+    top   = matches[:top_n]
+    weights = [max(score(s), 0.01) ** 2 for s in top]
+    return random.choices(top, weights=weights, k=1)[0]

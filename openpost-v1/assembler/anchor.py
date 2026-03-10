@@ -27,9 +27,8 @@ def select_anchors(videos: list[Video], n_remixes: int) -> list[Video]:
         if has_eligible_body:
             eligible.append(v)
 
-    # Sort descending by performance_score
-    eligible.sort(key=lambda v: v.performance_score, reverse=True)
-
+    # Preserve the caller's ordering (broll_score × views from gen_remixes.py).
+    # Do NOT re-sort by performance_score — that would put zero-signal videos first.
     return eligible[:n_remixes]
 
 

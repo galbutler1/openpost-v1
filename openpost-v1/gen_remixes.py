@@ -51,6 +51,10 @@ PREVIOUSLY_USED_ANCHORS = {
     "DH1UhIqNm2g", "DMO3YWuoD4p", "DHbAaC3tCjM",
     # Batch 6 — 5 videos
     "DElOn_PtQwf", "DG_rJO3Nnw4", "C70eOWHOWvS", "DG5oB_LtHlA", "DDdH1DPN0Kb",
+    # Batch 7 — 5 videos
+    "DL5OckHNbpB", "DSXFQd0jTYq", "DTOjVRYDXnm", "C9yUhNFJJJK", "DQjvxK-CnO4",
+    # Batch 7b — 2 videos (partial run before fix)
+    "DFBQyfduWQ8", "DF3LyCNuYlR",
 }
 
 
@@ -151,7 +155,8 @@ def build_remix(
 
     plan_windows: list[tuple] = []
     used_segment_ids: set[str] = set()
-    used_source_video_ids: set[str] = set()  # still tracked but relaxed below
+    used_source_video_ids: set[str] = set()
+    last_visual_type: str | None = None
     cut_count = 0
 
     for window in windows:
@@ -171,10 +176,12 @@ def build_remix(
             used_segment_ids=used_segment_ids,
             used_source_video_ids=used_source_video_ids,
             video_topic=video_topic,
+            last_visual_type=last_visual_type,
         )
         if match is not None:
             used_segment_ids.add(match.segment_id)
             used_source_video_ids.add(match.source_video_id)
+            last_visual_type = match.visual_type.value
             cut_count += 1
             console.print(
                 f"  [green]✓[/green] {window.start:.1f}s–{window.end:.1f}s → "
@@ -202,6 +209,8 @@ def main() -> None:
     parser.add_argument("--min-perf", type=float, default=0.0, help="Min performance score for b-roll pool")
     parser.add_argument("--anchor-min-perf", type=float, default=0.0, help="Min performance score for anchors")
     parser.add_argument("--above-median-views", action="store_true", default=True, help="Only use anchors with above-median view counts")
+    parser.add_argument("--all-views", action="store_true", default=False, help="Allow any view count (overrides --above-median-views)")
+    parser.add_argument("--reuse-anchors", action="store_true", default=False, help="Allow previously used anchors (new b-roll will be selected)")
     args = parser.parse_args()
 
     console.print(Panel.fit(
@@ -228,12 +237,12 @@ def main() -> None:
     median_views = sorted_views[len(sorted_views) // 2]
     console.print(f"Median views across library: [cyan]{median_views:,}[/cyan]")
 
-    # Filter anchors: exclude previously used, apply view threshold
+    # Filter anchors: exclude previously used (unless --reuse-anchors), apply view threshold
     anchor_pool = [
         v for v in all_videos
-        if v.video_id not in PREVIOUSLY_USED_ANCHORS
+        if (args.reuse_anchors or v.video_id not in PREVIOUSLY_USED_ANCHORS)
         and v.performance_score >= args.anchor_min_perf
-        and (not args.above_median_views or v.metadata.view_count > median_views)
+        and (args.all_views or not args.above_median_views or v.metadata.view_count > median_views)
     ]
 
     # Score each anchor by b-roll compatibility (topic signal + body segment count)
