@@ -15,7 +15,8 @@ from datetime import datetime
 VIDEOS_DIR   = Path("/Users/galbutler/booster/data/videos")
 SEGMENTS_DIR = Path("/Users/galbutler/booster/data/segments")
 REMIX_LOG    = Path("/Users/galbutler/booster/openpost-v1/remix_log.txt")
-LOGO_PATH    = Path("/Users/galbutler/Downloads/OpenPost Logo.png")   # PNG — latest logo
+REHOOK_LOG   = Path("/Users/galbutler/booster/data/rehook_log.json")
+LOGO_PATH    = Path("/Users/galbutler/Downloads/OpenPost (6).png")   # PNG — latest logo
 THUMBS_DIR   = Path("/tmp/thumbs")
 OUTPUT_PATH  = Path("/Users/galbutler/Desktop/openpost_master.html")
 
@@ -33,6 +34,12 @@ with open(LOGO_PATH, "rb") as f:
     logo_b64 = base64.b64encode(f.read()).decode("ascii")
 logo_mime = "image/png"
 print("Logo encoded (PNG)")
+
+# ── Step 2b: Embed nav icon as base64
+_ICON_PATH = Path("/Users/galbutler/Downloads/openpost icon.png")
+with open(_ICON_PATH, "rb") as f:
+    icon_b64 = base64.b64encode(f.read()).decode("ascii")
+print("Nav icon encoded")
 
 # ── Step 3: Load video metadata ───────────────────────────────────────────────
 videos = {}
@@ -147,6 +154,17 @@ total_segments = sum(len(s.get("segments", [])) for s in segments_data.values())
 most_viewed    = max(sorted_videos, key=lambda v: v.get("view_count", 0))
 anchor_ids     = {r["anchor_id"] for r in remixes}
 
+# ── Load rehook log ────────────────────────────────────────────────────────────
+rehooks = []
+if REHOOK_LOG.exists():
+    try:
+        rehooks = json.loads(REHOOK_LOG.read_text(encoding="utf-8"))
+    except Exception:
+        rehooks = []
+rehook_ids = {r["video_id"] for r in rehooks}
+total_rehooks = len(rehooks)
+print(f"Loaded {total_rehooks} re-hook entries")
+
 print(f"Stats: remixes={total_remixes}, cuts={total_cuts}, sources={len(unique_sources)}, segments={total_segments}")
 
 # ── Step 9: Utility ────────────────────────────────────────────────────────────
@@ -194,7 +212,9 @@ for v in sorted_videos:
         "repost_count":    v.get("repost_count", 0),
         "upload_date":     str(v.get("upload_date", "")),
         "upload_date_fmt": fmt_date(v.get("upload_date", "")),
-        "is_anchor":       vid_id in anchor_ids,
+        "is_anchor":       vid_id in anchor_ids or vid_id in rehook_ids,
+        "has_broll":       vid_id in anchor_ids,
+        "has_rehook":      vid_id in rehook_ids,
         "full_transcript": full_transcript,
         "topic":           topic,
         "segments":        js_segs,
@@ -226,6 +246,7 @@ total_likes_all = sum(v.get("like_count", 0) for v in sorted_videos)
 STATS = {
     "total_reels":      len(sorted_videos),
     "total_remixes":    total_remixes,
+    "total_rehooks":    total_rehooks,
     "total_cuts":       total_cuts,
     "unique_sources":   len(unique_sources),
     "total_segments":   total_segments,
@@ -235,7 +256,8 @@ STATS = {
     "total_likes_all":  total_likes_all,
     "total_followers":  None,  # set manually by user
 }
-STATS_JSON = json.dumps(STATS, separators=(",", ":"))
+STATS_JSON   = json.dumps(STATS,   separators=(",", ":"))
+REHOOKS_JSON = json.dumps(rehooks, separators=(",", ":"))
 
 # ── Step 11: Render HTML ───────────────────────────────────────────────────────
 html = f"""<!DOCTYPE html>
@@ -246,7 +268,7 @@ html = f"""<!DOCTYPE html>
 <title>OpenPost — Video Intelligence Dashboard</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
 :root{{
@@ -277,6 +299,11 @@ body{{
   font-size:14px;
   line-height:1.5;
 }}
+#bg-canvas{{
+  position:fixed;inset:0;width:100%;height:100%;
+  pointer-events:none;z-index:0;
+}}
+body>*:not(#bg-canvas){{position:relative;z-index:1}}
 
 /* ── Nav ── */
 /* ── Top nav ── */
@@ -298,7 +325,7 @@ body{{
   transition:opacity .15s;
 }}
 .nav-logo-btn:hover{{opacity:.75}}
-.nav-logo-img{{height:22px;width:auto;filter:brightness(0) invert(1)}}
+.nav-logo-img{{height:28px;width:auto}}
 .nav-spacer{{flex:1}}
 .nav-auth-btns{{display:flex;gap:8px;align-items:center}}
 .nav-login-btn{{
@@ -434,40 +461,68 @@ body{{padding-top:56px}}
 /* ── LIBRARY ── */
 /* Brand hero — big logo section at top */
 .brand-header{{
-  min-height:52vh;
+  position:relative;
+  overflow:hidden;
+  min-height:54vh;
   display:flex;flex-direction:column;align-items:center;justify-content:center;
   padding:96px 32px 72px;
   text-align:center;
   border-bottom:1px solid var(--border);
 }}
-.brand-logo{{width:360px;max-width:80vw;height:auto;display:block;
-  filter:brightness(0) invert(1);
-  margin-bottom:14px;
+#hero-canvas{{
+  position:absolute;inset:0;
+  width:100%;height:100%;
+  pointer-events:none;
 }}
-.brand-tagline{{font-size:18px;color:#fff;font-weight:500;letter-spacing:.1px;margin-bottom:48px}}
+.hero-content{{
+  position:relative;z-index:1;
+  display:flex;flex-direction:column;align-items:center;
+}}
+.brand-logo{{width:340px;max-width:78vw;height:auto;display:block;
+  margin-bottom:8px;
+}}
+.brand-tagline{{font-size:16px;color:rgba(255,255,255,.82);font-weight:400;letter-spacing:.2px;margin-bottom:10px}}
 .brand-description{{display:none}}
+.hero-live-row{{
+  display:flex;align-items:center;gap:9px;
+  margin-bottom:40px;
+  font-size:12px;color:rgba(255,255,255,.75);
+  text-transform:uppercase;letter-spacing:2px;font-weight:700;
+  font-family:'JetBrains Mono',monospace;
+}}
+.hero-live-dot{{
+  width:8px;height:8px;border-radius:50%;
+  background:#4ade80;
+  box-shadow:0 0 12px rgba(74,222,128,.9),0 0 24px rgba(74,222,128,.4);
+  animation:pulse-dot 2.2s ease-in-out infinite;
+}}
+@keyframes pulse-dot{{
+  0%,100%{{opacity:1;transform:scale(1)}}
+  50%{{opacity:.35;transform:scale(.7)}}
+}}
 .hero-vanity-row{{
-  display:flex;gap:0;align-items:stretch;justify-content:center;
+  display:flex;gap:0;align-items:center;justify-content:center;
   flex-wrap:wrap;
-  background:var(--card);
-  border:1px solid var(--border);
-  border-radius:14px;
-  overflow:hidden;
 }}
 .hero-vanity-item{{
   text-align:center;
-  padding:22px 40px;
+  padding:0 52px;
   position:relative;
 }}
 .hero-vanity-item+.hero-vanity-item::before{{
-  content:'';position:absolute;left:0;top:20%;height:60%;
-  width:1px;background:var(--border);
+  content:'';position:absolute;left:0;top:15%;height:70%;
+  width:1px;background:rgba(255,255,255,.06);
 }}
-.hero-vanity-num{{font-size:26px;font-weight:800;letter-spacing:-1px;line-height:1;margin-bottom:5px}}
-.hero-vanity-num.green{{color:#4ade80}}
-.hero-vanity-num.blue{{color:#818cf8}}
-.hero-vanity-num.teal{{color:#2dd4bf}}
-.hero-vanity-label{{font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:1px;font-weight:600}}
+.hero-vanity-num{{
+  font-size:48px;font-weight:800;
+  font-family:'JetBrains Mono',monospace;
+  letter-spacing:-2px;line-height:1;
+  margin-bottom:8px;
+  color:#fff;
+  text-shadow:0 0 40px rgba(255,255,255,.18);
+}}
+.hero-vanity-num.green,.hero-vanity-num.blue,.hero-vanity-num.teal,.hero-vanity-num.orange{{color:#fff;text-shadow:0 0 40px rgba(255,255,255,.18)}}
+.hero-vanity-label{{font-size:9px;color:rgba(255,255,255,.38);text-transform:uppercase;letter-spacing:1.5px;font-weight:700;font-family:'JetBrains Mono',monospace}}
 
 .library-header{{
   position:sticky;top:0;z-index:100;
@@ -507,6 +562,61 @@ body{{padding-top:56px}}
 .filter-btn.active{{background:rgba(255,255,255,.1);color:#fff;border-color:#555;font-weight:600}}
 .filter-btn-count{{font-size:11px;color:inherit;opacity:.6;margin-left:4px}}
 .filter-btn.active .filter-btn-count{{opacity:.7}}
+
+/* Remixed dropdown */
+.remixed-btn-wrap{{position:relative;display:inline-flex}}
+.remixed-caret{{
+  display:inline-flex;align-items:center;justify-content:center;
+  padding:0 8px 0 4px;
+  border-left:1px solid rgba(255,255,255,.1);
+  color:var(--text-muted);font-size:9px;cursor:pointer;
+  transition:color .15s;
+  margin-left:0;
+}}
+.remixed-btn-wrap .filter-btn{{border-radius:8px 0 0 8px;border-right:none}}
+.remixed-btn-wrap .remixed-caret-btn{{
+  padding:8px 10px;
+  border-radius:0 8px 8px 0;
+  border:1px solid var(--border);
+  border-left:none;
+  background:var(--card);
+  color:var(--text-muted);
+  cursor:pointer;transition:all .15s;
+  font-size:9px;
+  display:flex;align-items:center;
+}}
+.remixed-btn-wrap .remixed-caret-btn:hover{{color:#fff;border-color:#444;background:var(--card)}}
+.remixed-btn-wrap.active-wrap .filter-btn,
+.remixed-btn-wrap.active-wrap .remixed-caret-btn{{
+  background:rgba(255,255,255,.1);border-color:#555;color:#fff;
+}}
+.remix-type-dropdown{{
+  position:absolute;top:calc(100% + 6px);left:0;z-index:300;
+  background:#161618;
+  border:1px solid var(--border2);
+  border-radius:10px;
+  padding:6px;
+  display:none;
+  min-width:160px;
+  box-shadow:0 8px 24px rgba(0,0,0,.5);
+  flex-direction:column;gap:2px;
+}}
+.remix-type-dropdown.open{{display:flex}}
+.rtype-btn{{
+  display:flex;align-items:center;gap:8px;
+  padding:8px 12px;border-radius:7px;
+  border:none;background:none;
+  color:var(--text-muted);
+  font-family:'Inter',sans-serif;font-size:12px;font-weight:500;
+  cursor:pointer;transition:background .12s,color .12s;
+  text-align:left;width:100%;
+}}
+.rtype-btn:hover{{background:rgba(255,255,255,.06);color:#fff}}
+.rtype-btn.active{{background:rgba(255,255,255,.08);color:#fff;font-weight:600}}
+.rtype-dot{{width:7px;height:7px;border-radius:50%;flex-shrink:0}}
+.rtype-dot-all{{background:#888}}
+.rtype-dot-broll{{background:#818cf8}}
+.rtype-dot-rehook{{background:#4ade80}}
 .create-btn{{
   padding:8px 20px;
   border-radius:8px;
@@ -1101,11 +1211,12 @@ body{{padding-top:56px}}
 </style>
 </head>
 <body>
+<canvas id="bg-canvas"></canvas>
 
 <!-- Top nav — fixed across all views -->
 <nav class="top-nav">
   <button class="nav-logo-btn" onclick="showView('library')">
-    <img src="data:{logo_mime};base64,{logo_b64}" class="nav-logo-img" alt="OpenPost">
+    <img src="data:image/png;base64,{icon_b64}" class="nav-logo-img" alt="OpenPost">
   </button>
   <div class="nav-spacer"></div>
   <div class="nav-auth-btns">
@@ -1119,11 +1230,18 @@ body{{padding-top:56px}}
 
   <!-- Brand hero header -->
   <div class="brand-header">
-    <img src="data:{logo_mime};base64,{logo_b64}" class="brand-logo" alt="OpenPost">
-    <div class="brand-tagline">Truly automated media growth</div>
-    <div class="brand-description">Your content, remixed and ready to post — automatically.</div>
-    <div class="hero-vanity-row" id="hero-vanity-row">
-      <!-- populated by JS -->
+    <canvas id="hero-canvas"></canvas>
+    <div class="hero-content">
+      <img src="data:{logo_mime};base64,{logo_b64}" class="brand-logo" alt="OpenPost">
+      <div class="brand-tagline">Truly automated media growth</div>
+      <div class="hero-live-row">
+        <span class="hero-live-dot"></span>
+        <span>Live</span>
+        <span id="hero-date" style="color:rgba(255,255,255,.45)"></span>
+      </div>
+      <div class="hero-vanity-row" id="hero-vanity-row">
+        <!-- populated by JS -->
+      </div>
     </div>
   </div>
 
@@ -1137,7 +1255,15 @@ body{{padding-top:56px}}
     <input type="text" class="search-input" placeholder="Search by transcript, ID, date…" id="search-input" oninput="filterLibrary()">
     <div class="filter-btns">
       <button class="filter-btn active" data-filter="all" onclick="setFilter('all')" id="filter-all">All<span class="filter-btn-count" id="count-all"></span></button>
-      <button class="filter-btn" data-filter="remixed" onclick="setFilter('remixed')" id="filter-remixed">Remixed<span class="filter-btn-count" id="count-remixed"></span></button>
+      <div class="remixed-btn-wrap" id="remixed-btn-wrap">
+        <button class="filter-btn" data-filter="remixed" onclick="setFilter('remixed')" id="filter-remixed">Remixed<span class="filter-btn-count" id="count-remixed"></span></button>
+        <button class="remixed-caret-btn" onclick="toggleRemixDropdown(event)" title="Filter by remix type">&#9660;</button>
+        <div class="remix-type-dropdown" id="remix-type-dropdown">
+          <button class="rtype-btn active" data-rtype="all"    onclick="setRemixType('all',this)">   <span class="rtype-dot rtype-dot-all"></span>All remixes</button>
+          <button class="rtype-btn"        data-rtype="broll"  onclick="setRemixType('broll',this)"> <span class="rtype-dot rtype-dot-broll"></span>B-Roll</button>
+          <button class="rtype-btn"        data-rtype="rehook" onclick="setRemixType('rehook',this)"><span class="rtype-dot rtype-dot-rehook"></span>Re-Hook</button>
+        </div>
+      </div>
       <button class="filter-btn" data-filter="unused" onclick="setFilter('unused')" id="filter-unused">Unused<span class="filter-btn-count" id="count-unused"></span></button>
     </div>
     <button class="clips-mode-btn" id="clips-mode-btn" onclick="toggleClipsMode()">Clips<span class="filter-btn-count" id="count-clips"></span></button>
@@ -1177,6 +1303,7 @@ body{{padding-top:56px}}
 // ── Data ──────────────────────────────────────────────────────────────────────
 const VIDEOS = {VIDEOS_JSON};
 const REMIXES = {REMIXES_JSON};
+const REHOOKS = {REHOOKS_JSON};
 const STATS = {STATS_JSON};
 
 const VIDEOS_BASE = 'file:///Users/galbutler/booster/data/videos/';
@@ -1295,11 +1422,31 @@ function closeModal() {{
 document.addEventListener('keydown', e => {{ if (e.key === 'Escape') closeModal(); }});
 
 // ── View management ───────────────────────────────────────────────────────────
-let currentView  = 'library';
-let previousView = 'library';
+const rehookIds = new Set(REHOOKS.map(r => r.video_id));
+
+let currentView   = 'library';
+let previousView  = 'library';
 let currentFilter = 'all';
+let remixTypeFilter = 'all';  // 'all' | 'broll' | 'rehook'
 let clipsMode     = false;
 let searchQuery   = '';
+
+function toggleRemixDropdown(e) {{
+  e.stopPropagation();
+  const dd = document.getElementById('remix-type-dropdown');
+  dd.classList.toggle('open');
+  // also activate remixed filter
+  if (currentFilter !== 'remixed') setFilter('remixed');
+}}
+function setRemixType(type, btn) {{
+  remixTypeFilter = type;
+  document.querySelectorAll('.rtype-btn').forEach(b => b.classList.toggle('active', b.dataset.rtype === type));
+  document.getElementById('remix-type-dropdown').classList.remove('open');
+  if (currentFilter !== 'remixed') setFilter('remixed');
+  else renderLibrary();
+}}
+// Close dropdown on outside click
+document.addEventListener('click', () => document.getElementById('remix-type-dropdown').classList.remove('open'));
 
 function showView(name) {{
   document.querySelectorAll('.view').forEach(v => {{
@@ -1435,6 +1582,9 @@ function setFilter(f) {{
   document.querySelectorAll('.filter-btn').forEach(b => {{
     b.classList.toggle('active', b.dataset.filter === f);
   }});
+  // sync the remixed wrap active styling
+  const wrap = document.getElementById('remixed-btn-wrap');
+  if (wrap) wrap.classList.toggle('active-wrap', f === 'remixed');
   renderLibrary();
 }}
 
@@ -1582,8 +1732,12 @@ function renderBroll() {{
 
 function renderLibrary() {{
   let vids = VIDEOS.filter(v => {{
-    if (currentFilter === 'remixed' && !v.is_anchor) return false;
-    if (currentFilter === 'unused'  &&  v.is_anchor) return false;
+    if (currentFilter === 'remixed') {{
+      if (!v.is_anchor) return false;
+      if (remixTypeFilter === 'broll'  && !v.has_broll)  return false;
+      if (remixTypeFilter === 'rehook' && !v.has_rehook) return false;
+    }}
+    if (currentFilter === 'unused' && v.is_anchor) return false;
     if (searchQuery) {{
       const hay = (v.video_id + ' ' + (v.full_transcript||'') + ' ' + (v.upload_date_fmt||'') + ' ' + vidNumStr(v.vid_num)).toLowerCase();
       if (!hay.includes(searchQuery)) return false;
@@ -1607,8 +1761,10 @@ function renderLibrary() {{
     const thumbHtml = src
       ? `<img class="thumb-img" src="${{src}}" alt="" loading="lazy">`
       : `<div class="thumb-placeholder">&#9654;</div>`;
-    const remixedBadge = v.is_anchor
-      ? `<div class="remixed-badge">Remixed</div>` : '';
+    let remixedBadge = '';
+    if (v.has_broll && v.has_rehook) remixedBadge = `<div class="remixed-badge">B-Roll + Re-Hook</div>`;
+    else if (v.has_broll)  remixedBadge = `<div class="remixed-badge" style="background:rgba(99,102,241,.18);border-color:rgba(99,102,241,.4);color:#818cf8">B-Roll</div>`;
+    else if (v.has_rehook) remixedBadge = `<div class="remixed-badge" style="background:rgba(34,197,94,.18);border-color:rgba(34,197,94,.4);color:#4ade80">Re-Hook</div>`;
     const snippet = (v.full_transcript || '').substring(0, 90);
     return `<div class="video-card" onclick="showDetail('${{escHtml(v.video_id)}}','library')">
       <div class="thumb-wrap">
@@ -1817,35 +1973,146 @@ function renderDetail(videoId) {{
 }}
 
 // ── Init ──────────────────────────────────────────────────────────────────────
+// ── Hero overlay: brighter waves + dark vignette over global bg ─────────────
+function drawHeroChart() {{
+  const canvas = document.getElementById('hero-canvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  const dpr = window.devicePixelRatio || 1;
+  const W = canvas.parentElement.offsetWidth;
+  const H = canvas.parentElement.offsetHeight;
+  canvas.width  = W * dpr;
+  canvas.height = H * dpr;
+  ctx.scale(dpr, dpr);
+
+  // Brighter version of the same waves for the hero area
+  const N = 110;
+  const STEP = 2;
+  for (let i = 0; i < N; i++) {{
+    const baseY = (i / (N - 1)) * H;
+    const phase = (i / N) * Math.PI * 4.2;
+    ctx.beginPath();
+    ctx.strokeStyle = 'rgba(255,255,255,0.18)';
+    ctx.lineWidth = 0.8;
+    for (let x = 0; x <= W; x += STEP) {{
+      const envA = Math.abs(Math.sin(x * 0.0048 + phase * 0.22));
+      const envB = Math.abs(Math.sin(x * 0.0031 - phase * 0.11));
+      const env  = envA * 0.65 + envB * 0.35;
+      const amp  = env * (H / N) * 3.2;
+      const freq = 0.072 + 0.012 * Math.sin(x * 0.0025 + phase * 0.08);
+      const y    = baseY + amp * Math.sin(freq * x + phase);
+      if (x === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+    }}
+    ctx.stroke();
+  }}
+
+  // Fade edges into dark so hero feels contained
+  const vg = ctx.createRadialGradient(W*0.5, H*0.45, H*0.1, W*0.5, H*0.45, W*0.65);
+  vg.addColorStop(0, 'rgba(10,10,10,0.30)');
+  vg.addColorStop(1, 'rgba(5,5,5,0.72)');
+  ctx.fillStyle = vg;
+  ctx.fillRect(0, 0, W, H);
+}}
+
+// ── Count-up animation ──────────────────────────────────────────────────────
+function countUp(el, target, duration, prefix, suffix) {{
+  const start = performance.now();
+  function fmt(n) {{
+    if (n >= 1000000) return prefix + (n/1000000).toFixed(1) + 'M' + suffix;
+    if (n >= 1000)    return prefix + Math.round(n/1000) + 'K' + suffix;
+    return prefix + n.toLocaleString() + suffix;
+  }}
+  function tick(now) {{
+    const t = Math.min((now - start) / duration, 1);
+    const ease = 1 - Math.pow(1 - t, 3);
+    el.textContent = fmt(Math.round(ease * target));
+    if (t < 1) requestAnimationFrame(tick);
+    else el.textContent = fmt(target);
+  }}
+  requestAnimationFrame(tick);
+}}
+
 (function renderHeroVanity() {{
-  // Added stats — updated manually
+  // Set date
+  const d = new Date();
+  document.getElementById('hero-date').textContent =
+    d.toLocaleDateString('en-US', {{month:'short', day:'numeric', year:'numeric'}});
+
   document.getElementById('hero-vanity-row').innerHTML = `
     <div class="hero-vanity-item">
-      <div class="hero-vanity-num green">+35K</div>
+      <div class="hero-vanity-num green" id="hv-views">+0</div>
       <div class="hero-vanity-label">Added Views</div>
     </div>
     <div class="hero-vanity-item">
-      <div class="hero-vanity-num blue">+1K</div>
+      <div class="hero-vanity-num blue" id="hv-likes">+0</div>
       <div class="hero-vanity-label">Added Likes</div>
     </div>
     <div class="hero-vanity-item">
-      <div class="hero-vanity-num teal">+100</div>
+      <div class="hero-vanity-num teal" id="hv-followers">+100</div>
       <div class="hero-vanity-label">Added Followers</div>
     </div>
     <div class="hero-vanity-item">
-      <div class="hero-vanity-num" style="color:#f97316">+${{STATS.total_remixes}}</div>
+      <div class="hero-vanity-num orange" id="hv-posts">+0</div>
       <div class="hero-vanity-label">Added Posts</div>
     </div>
   `;
+
+  // Staggered count-ups
+  setTimeout(() => countUp(document.getElementById('hv-views'),     35000,  1400, '+', ''), 100);
+  setTimeout(() => countUp(document.getElementById('hv-likes'),      1000,  1200, '+', ''), 250);
+  setTimeout(() => countUp(document.getElementById('hv-posts'),  STATS.total_remixes + STATS.total_rehooks, 1000, '+', ''), 400);
+
+  // Draw chart after DOM settles
+  setTimeout(drawHeroChart, 50);
+  window.addEventListener('resize', () => {{ drawHeroChart(); drawBgWaves(); }});
 }})();
+
+// ── Global background wave canvas ─────────────────────────────────────────
+function drawBgWaves() {{
+  const canvas = document.getElementById('bg-canvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  const W = window.innerWidth;
+  const H = document.body.scrollHeight || window.innerHeight;
+  canvas.width  = W;
+  canvas.height = H;
+
+  ctx.fillStyle = 'var(--bg, #0a0a0a)';
+  ctx.fillRect(0, 0, W, H);
+
+  const N    = 90;
+  const STEP = 3;
+
+  for (let i = 0; i < N; i++) {{
+    const baseY = (i / (N - 1)) * H;
+    const phase = (i / N) * Math.PI * 4.2;
+
+    ctx.beginPath();
+    ctx.strokeStyle = 'rgba(255,255,255,0.045)';
+    ctx.lineWidth = 0.7;
+
+    for (let x = 0; x <= W; x += STEP) {{
+      const envA = Math.abs(Math.sin(x * 0.0048 + phase * 0.22));
+      const envB = Math.abs(Math.sin(x * 0.0031 - phase * 0.11));
+      const env  = envA * 0.65 + envB * 0.35;
+      const amp  = env * (H / N) * 3.2;
+      const freq = 0.072 + 0.012 * Math.sin(x * 0.0025 + phase * 0.08);
+      const y    = baseY + amp * Math.sin(freq * x + phase);
+      if (x === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+    }}
+    ctx.stroke();
+  }}
+}}
+drawBgWaves();
 
 (function renderFilterCounts() {{
   const total   = VIDEOS.length;
   const remixed = VIDEOS.filter(v => v.is_anchor).length;
   const unused  = total - remixed;
+  const totalRemixed = VIDEOS.filter(v => v.is_anchor).length;
   document.getElementById('count-all').textContent     = ' (' + total + ')';
-  document.getElementById('count-remixed').textContent = ' (' + remixed + ')';
-  document.getElementById('count-unused').textContent  = ' (' + unused + ')';
+  document.getElementById('count-remixed').textContent = ' (' + totalRemixed + ')';
+  document.getElementById('count-unused').textContent  = ' (' + (total - totalRemixed) + ')';
   document.getElementById('count-clips').textContent   = ' (' + CLIPS.length + ')';
   document.getElementById('count-broll').textContent   = ' (' + CLIPS.length + ')';
 }})();
