@@ -16,7 +16,7 @@ VIDEOS_DIR   = Path("/Users/galbutler/booster/data/videos")
 SEGMENTS_DIR = Path("/Users/galbutler/booster/data/segments")
 REMIX_LOG    = Path("/Users/galbutler/booster/openpost-v1/remix_log.txt")
 REHOOK_LOG   = Path("/Users/galbutler/booster/data/rehook_log.json")
-LOGO_PATH    = Path("/Users/galbutler/Downloads/OpenPost (6).png")   # PNG — latest logo
+LOGO_PATH    = Path("/Users/galbutler/Downloads/OpenPost Logo.png")   # PNG — clean horizontal logo
 THUMBS_DIR   = Path("/tmp/thumbs")
 OUTPUT_PATH  = Path("/Users/galbutler/Desktop/openpost_master.html")
 
@@ -40,6 +40,12 @@ _ICON_PATH = Path("/Users/galbutler/Downloads/openpost icon.png")
 with open(_ICON_PATH, "rb") as f:
     icon_b64 = base64.b64encode(f.read()).decode("ascii")
 print("Nav icon encoded")
+
+# ── Step 2c: Embed profile picture as base64
+_PROFILE_PATH = Path("/Users/galbutler/Downloads/LinkedIn Profile Picture (1).png")
+with open(_PROFILE_PATH, "rb") as f:
+    profile_b64 = base64.b64encode(f.read()).decode("ascii")
+print("Profile pic encoded")
 
 # ── Step 3: Load video metadata ───────────────────────────────────────────────
 videos = {}
@@ -255,6 +261,16 @@ STATS = {
     "total_views_all":  total_views_all,
     "total_likes_all":  total_likes_all,
     "total_followers":  None,  # set manually by user
+    # Trial reel stats (from Instagram API, Mar 8–16 2026)
+    "trial_views":      1732580,
+    "trial_likes":      181540,
+    "trial_comments":   3888,
+    "trial_shares":     99871,
+    "trial_saves":      15549,
+    "trial_reach":      1227497,
+    "trial_followers":  1239,
+    "trial_watch_hrs":  8377,
+    "trial_reels":      54,
 }
 STATS_JSON   = json.dumps(STATS,   separators=(",", ":"))
 REHOOKS_JSON = json.dumps(rehooks, separators=(",", ":"))
@@ -272,14 +288,14 @@ html = f"""<!DOCTYPE html>
 <style>
 *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
 :root{{
-  --bg:#0a0a0a;
-  --card:#111114;
-  --card2:#18181c;
-  --border:#1e1e20;
-  --border2:#2a2a2e;
-  --text:#e8e8e8;
-  --text-muted:#666;
-  --text-dim:#3a3a3a;
+  --bg:#000;
+  --card:#0d0d0d;
+  --card2:#111;
+  --border:#1c1c1c;
+  --border2:#262626;
+  --text:#e0e0e0;
+  --text-muted:#555;
+  --text-dim:#333;
   --accent:#fff;
   --green:#22c55e;
   --orange:#f97316;
@@ -305,53 +321,49 @@ body{{
 }}
 body>*:not(#bg-canvas){{position:relative;z-index:1}}
 
-/* ── Nav ── */
 /* ── Top nav ── */
 .top-nav{{
   position:fixed;top:0;left:0;right:0;z-index:200;
   height:56px;
-  background:rgba(10,10,10,0.88);
-  backdrop-filter:blur(20px);
-  -webkit-backdrop-filter:blur(20px);
+  background:rgba(0,0,0,0.88);
+  backdrop-filter:blur(16px);
+  -webkit-backdrop-filter:blur(16px);
   border-bottom:1px solid var(--border);
   display:flex;align-items:center;
-  padding:0 28px;
-  gap:16px;
+  padding:0 40px;
+  gap:12px;
 }}
 .nav-logo-btn{{
-  display:flex;align-items:center;gap:0;
+  display:flex;align-items:center;
   background:none;border:none;cursor:pointer;padding:0;
-  flex-shrink:0;
   transition:opacity .15s;
 }}
-.nav-logo-btn:hover{{opacity:.75}}
-.nav-logo-img{{height:28px;width:auto}}
+.nav-logo-btn:hover{{opacity:.6}}
+.nav-logo-img{{height:40px;width:auto}}
 .nav-spacer{{flex:1}}
-.nav-auth-btns{{display:flex;gap:8px;align-items:center}}
+.nav-auth-btns{{display:flex;gap:10px;align-items:center}}
 .nav-login-btn{{
-  padding:7px 18px;
+  padding:8px 20px;
   border-radius:8px;
-  border:1px solid var(--border);
+  border:1px solid var(--border2);
   background:transparent;
   color:var(--text-muted);
-  font-family:'Inter',sans-serif;font-size:13px;font-weight:500;
+  font-family:'Inter',sans-serif;font-size:14px;font-weight:500;
   cursor:pointer;transition:all .15s;
 }}
 .nav-login-btn:hover{{color:#fff;border-color:#444}}
 .nav-signup-btn{{
-  padding:7px 18px;
+  padding:8px 20px;
   border-radius:8px;
   border:1px solid rgba(255,255,255,.85);
-  background:#fff;
-  color:#000;
-  font-family:'Inter',sans-serif;font-size:13px;font-weight:700;
-  cursor:pointer;transition:all .15s;
-  letter-spacing:.1px;
+  background:#fff;color:#000;
+  font-family:'Inter',sans-serif;font-size:14px;font-weight:700;
+  cursor:pointer;transition:all .15s;letter-spacing:.1px;
 }}
-.nav-signup-btn:hover{{background:#e8e8e8;border-color:#e8e8e8}}
+.nav-signup-btn:hover{{background:#e8e8e8}}
 
 /* push content below fixed nav */
-body{{padding-top:56px}}
+body{{padding-top:56px;padding-left:0}}
 
 /* ── View transitions ── */
 .view{{
@@ -458,6 +470,155 @@ body{{padding-top:56px}}
   font-size:11px;font-weight:600;
 }}
 
+/* ── Hero section ── */
+.hero-section{{
+  min-height:94vh;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:20px 60px 56px;
+  text-align:center;
+  border-bottom:1px solid var(--border);
+  background:#000;
+}}
+.hero-inner{{
+  display:flex;flex-direction:column;align-items:center;
+  width:100%;
+}}
+/* Profile avatar */
+.hero-avatar{{
+  width:120px;height:120px;border-radius:50%;
+  background:#0d0d0d;
+  border:2px solid #282828;
+  display:flex;align-items:center;justify-content:center;
+  margin-bottom:20px;
+  flex-shrink:0;
+}}
+.hero-avatar svg{{width:56px;height:56px;color:#333}}
+.hero-avatar-img{{width:100%;height:100%;object-fit:cover;border-radius:50%;display:block}}
+.hero-greeting{{
+  font-size:28px;font-weight:600;color:#fff;
+  letter-spacing:-.4px;margin-bottom:28px;
+  font-family:'Inter',sans-serif;
+}}
+.hero-greeting span{{color:#555;font-weight:400}}
+/* Live row */
+.hero-live-row{{
+  display:flex;align-items:center;gap:10px;
+  margin-bottom:20px;
+  font-size:12px;
+  text-transform:uppercase;letter-spacing:2.5px;font-weight:700;
+  font-family:'JetBrains Mono',monospace;
+}}
+/* Rainbow Post button */
+.post-btn{{
+  display:inline-flex;align-items:center;gap:8px;
+  padding:13px 52px;
+  border-radius:100px;
+  border:none;
+  background:linear-gradient(90deg,#ff6b6b,#ffd93d,#6bcb77,#4d96ff,#c77dff,#ff6b6b);
+  background-size:300% auto;
+  animation:rainbow-shift 4s linear infinite;
+  color:#fff;font-family:'Inter',sans-serif;font-size:15px;font-weight:700;
+  letter-spacing:.4px;cursor:pointer;
+  box-shadow:0 0 28px rgba(180,120,255,.25),0 0 60px rgba(77,150,255,.12);
+  margin-bottom:56px;
+  transition:transform .15s,box-shadow .15s;
+}}
+.post-btn:hover{{
+  transform:scale(1.04);
+  box-shadow:0 0 40px rgba(180,120,255,.4),0 0 80px rgba(77,150,255,.2);
+}}
+@keyframes rainbow-shift{{
+  0%{{background-position:0% center}}
+  100%{{background-position:300% center}}
+}}
+/* Summary bar */
+.library-summary-bar{{
+  display:flex;align-items:center;justify-content:center;gap:32px;
+  padding:20px 64px;
+  border-bottom:1px solid var(--border);
+  background:var(--bg);
+}}
+.summary-stat{{
+  display:flex;align-items:center;gap:8px;
+  font-size:13px;color:var(--text-muted);font-weight:500;
+}}
+.summary-stat-num{{color:#fff;font-weight:700;font-size:14px}}
+.summary-dot{{width:5px;height:5px;border-radius:50%;flex-shrink:0}}
+.summary-dot-green{{background:#22c55e}}
+.summary-dot-blue{{background:#818cf8}}
+.summary-dot-teal{{background:#2dd4bf}}
+.hero-live-dot{{
+  width:8px;height:8px;border-radius:50%;
+  background:#4ade80;
+  box-shadow:0 0 10px rgba(74,222,128,.8),0 0 22px rgba(74,222,128,.3);
+  animation:pulse-dot 2.2s ease-in-out infinite;
+}}
+.hero-live-word{{color:#4ade80}}
+.hero-live-date{{color:rgba(255,255,255,.35)}}
+@keyframes pulse-dot{{
+  0%,100%{{opacity:1;transform:scale(1)}}
+  50%{{opacity:.3;transform:scale(.7)}}
+}}
+/* Stats cards grid */
+.hero-stats-row{{
+  display:grid;
+  grid-template-columns:repeat(6,1fr);
+  gap:14px;
+  width:100%;
+  max-width:1360px;
+}}
+.hero-stat{{
+  background:#0a0a0a;
+  border:1px solid #1e1e1e;
+  border-radius:16px;
+  padding:26px 22px 20px;
+  text-align:left;
+  transition:border-color .2s,background .2s;
+}}
+.hero-stat:hover{{background:#0f0f0f;border-color:#2c2c2c}}
+.hero-stat-header{{
+  display:flex;align-items:flex-start;justify-content:space-between;
+  margin-bottom:18px;
+}}
+.hero-stat-label{{
+  font-size:10px;font-weight:700;color:#4a4a4a;
+  text-transform:uppercase;letter-spacing:1px;
+  line-height:1.4;font-family:'Inter',sans-serif;
+}}
+.hero-stat-icon{{width:17px;height:17px;flex-shrink:0;opacity:.55}}
+.hero-stat-num{{
+  font-size:34px;font-weight:800;color:#fff;
+  font-family:'JetBrains Mono',monospace;
+  letter-spacing:-1px;line-height:1;
+  margin-bottom:16px;
+}}
+.hero-stat-badge{{
+  display:inline-flex;align-items:center;gap:5px;
+  background:rgba(34,197,94,.07);
+  border:1px solid rgba(34,197,94,.18);
+  color:#4ade80;
+  border-radius:6px;
+  padding:4px 10px;
+  font-size:10px;font-weight:700;
+  font-family:'Inter',sans-serif;
+  letter-spacing:.2px;
+}}
+.hero-stat-badge-arrow{{font-size:9px}}
+.hero-stat.highlighted{{
+  background:rgba(255,255,255,.028);
+  border-color:#2e2e2e;
+  box-shadow:0 0 0 1px rgba(255,255,255,.04) inset;
+}}
+.hero-stat.highlighted:hover{{background:rgba(255,255,255,.04);border-color:#3a3a3a}}
+@media(max-width:1200px){{
+  .hero-stats-row{{grid-template-columns:repeat(3,1fr)}}
+  .hero-section{{padding:60px 40px}}
+}}
+@media(max-width:640px){{
+  .hero-stats-row{{grid-template-columns:repeat(2,1fr)}}
+  .hero-section{{padding:40px 20px}}
+}}
+
 /* ── LIBRARY ── */
 /* Brand hero — big logo section at top */
 .brand-header{{
@@ -525,12 +686,12 @@ body{{padding-top:56px}}
 .hero-vanity-label{{font-size:9px;color:rgba(255,255,255,.38);text-transform:uppercase;letter-spacing:1.5px;font-weight:700;font-family:'JetBrains Mono',monospace}}
 
 .library-header{{
-  position:sticky;top:0;z-index:100;
-  background:rgba(10,10,10,0.96);
+  position:sticky;top:52px;z-index:100;
+  background:rgba(0,0,0,0.96);
   backdrop-filter:blur(16px);
   -webkit-backdrop-filter:blur(16px);
   border-bottom:1px solid var(--border);
-  padding:14px 32px;
+  padding:14px 64px;
   display:flex;align-items:center;gap:12px;
   flex-wrap:wrap;
 }}
@@ -631,8 +792,8 @@ body{{padding-top:56px}}
 .create-btn:hover{{background:#e8e8e8;border-color:#e8e8e8;transform:translateY(-1px)}}
 .create-btn:active{{transform:translateY(0)}}
 .library-section-header{{
-  max-width:1800px;margin:0 auto;
-  padding:28px 32px 8px;
+  max-width:none;margin:0;
+  padding:40px 64px 12px;
   display:flex;align-items:baseline;gap:10px;
 }}
 .library-section-title{{font-size:20px;font-weight:700;color:#fff;letter-spacing:-.3px}}
@@ -668,8 +829,8 @@ body{{padding-top:56px}}
 .clips-grid{{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
-  gap:12px;
-  padding:20px 32px 48px;
+  gap:14px;
+  padding:20px 64px 80px;
   max-width:1800px;margin:0 auto;
 }}
 .clip-card{{
@@ -716,7 +877,7 @@ body{{padding-top:56px}}
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
   gap:16px;
-  padding:20px 32px 48px;
+  padding:20px 64px 80px;
   max-width:1800px;margin:0 auto;
 }}
 .broll-card{{
@@ -875,12 +1036,12 @@ body{{padding-top:56px}}
 .video-grid{{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
-  gap:14px;
-  padding:20px 32px 48px;
-  max-width:1800px;margin:0 auto;
+  gap:16px;
+  padding:20px 64px 80px;
+  max-width:none;
 }}
-@media(max-width:900px){{.video-grid{{grid-template-columns:repeat(3,1fr)}}}}
-@media(max-width:600px){{.video-grid{{grid-template-columns:repeat(2,1fr)}}}}
+@media(max-width:900px){{.video-grid{{grid-template-columns:repeat(3,1fr);padding:20px 32px 60px}}}}
+@media(max-width:600px){{.video-grid{{grid-template-columns:repeat(2,1fr);padding:16px 20px 60px}}}}
 
 .video-card{{
   background:var(--card);
@@ -1216,7 +1377,7 @@ body{{padding-top:56px}}
 <!-- Top nav — fixed across all views -->
 <nav class="top-nav">
   <button class="nav-logo-btn" onclick="showView('library')">
-    <img src="data:image/png;base64,{icon_b64}" class="nav-logo-img" alt="OpenPost">
+    <img src="data:image/png;base64,{logo_b64}" class="nav-logo-img" alt="OpenPost">
   </button>
   <div class="nav-spacer"></div>
   <div class="nav-auth-btns">
@@ -1228,21 +1389,38 @@ body{{padding-top:56px}}
 <!-- LIBRARY VIEW (main / default) -->
 <div id="view-library" class="view active">
 
-  <!-- Brand hero header -->
-  <div class="brand-header">
-    <canvas id="hero-canvas"></canvas>
-    <div class="hero-content">
-      <img src="data:{logo_mime};base64,{logo_b64}" class="brand-logo" alt="OpenPost">
-      <div class="brand-tagline">Truly automated media growth</div>
+  <!-- Hero section -->
+  <div class="hero-section">
+    <div class="hero-inner">
+      <!-- Profile picture -->
+      <div class="hero-avatar">
+        <img src="data:image/png;base64,{profile_b64}" alt="Profile" class="hero-avatar-img">
+      </div>
+      <div class="hero-greeting">let's dominate, <span>Gal</span></div>
+      <!-- Create Posts button -->
+      <button class="post-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M22 2L11 13" stroke="white" stroke-width="2.2" stroke-linecap="round"/><path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="white" stroke-width="2.2" stroke-linejoin="round"/></svg>
+        Create Posts
+      </button>
+      <!-- Live row -->
       <div class="hero-live-row">
         <span class="hero-live-dot"></span>
-        <span>Live</span>
-        <span id="hero-date" style="color:rgba(255,255,255,.45)"></span>
+        <span class="hero-live-word">Live</span>
+        <span class="hero-live-date" id="hero-date"></span>
       </div>
-      <div class="hero-vanity-row" id="hero-vanity-row">
+      <!-- Stats -->
+      <div class="hero-stats-row" id="hero-vanity-row">
         <!-- populated by JS -->
       </div>
     </div>
+  </div>
+
+  <!-- Summary bar -->
+  <div class="library-summary-bar">
+    <div class="summary-stat"><span class="summary-dot summary-dot-blue"></span><span class="summary-stat-num">{total_remixes}</span> remixed</div>
+    <div class="summary-stat"><span class="summary-dot summary-dot-green"></span><span class="summary-stat-num">{total_rehooks}</span> re-hooked</div>
+    <div class="summary-stat"><span class="summary-dot summary-dot-teal"></span><span class="summary-stat-num">{len(unique_sources)}</span> b-roll sources</div>
+    <div class="summary-stat"><span class="summary-dot" style="background:#555"></span><span class="summary-stat-num">{total_segments}</span> segments tagged</div>
   </div>
 
   <!-- Library section header -->
@@ -1254,9 +1432,9 @@ body{{padding-top:56px}}
   <div class="library-header">
     <input type="text" class="search-input" placeholder="Search by transcript, ID, date…" id="search-input" oninput="filterLibrary()">
     <div class="filter-btns">
-      <button class="filter-btn active" data-filter="all" onclick="setFilter('all')" id="filter-all">All<span class="filter-btn-count" id="count-all"></span></button>
+      <button class="filter-btn active" data-filter="all" onclick="setFilter('all')" id="filter-all">All Videos<span class="filter-btn-count" id="count-all"></span></button>
       <div class="remixed-btn-wrap" id="remixed-btn-wrap">
-        <button class="filter-btn" data-filter="remixed" onclick="setFilter('remixed')" id="filter-remixed">Remixed<span class="filter-btn-count" id="count-remixed"></span></button>
+        <button class="filter-btn" data-filter="remixed" onclick="setFilter('remixed')" id="filter-remixed">Remixed ✓<span class="filter-btn-count" id="count-remixed"></span></button>
         <button class="remixed-caret-btn" onclick="toggleRemixDropdown(event)" title="Filter by remix type">&#9660;</button>
         <div class="remix-type-dropdown" id="remix-type-dropdown">
           <button class="rtype-btn active" data-rtype="all"    onclick="setRemixType('all',this)">   <span class="rtype-dot rtype-dot-all"></span>All remixes</button>
@@ -1264,7 +1442,7 @@ body{{padding-top:56px}}
           <button class="rtype-btn"        data-rtype="rehook" onclick="setRemixType('rehook',this)"><span class="rtype-dot rtype-dot-rehook"></span>Re-Hook</button>
         </div>
       </div>
-      <button class="filter-btn" data-filter="unused" onclick="setFilter('unused')" id="filter-unused">Unused<span class="filter-btn-count" id="count-unused"></span></button>
+      <button class="filter-btn" data-filter="unused" onclick="setFilter('unused')" id="filter-unused">Not Yet Used<span class="filter-btn-count" id="count-unused"></span></button>
     </div>
     <button class="clips-mode-btn" id="clips-mode-btn" onclick="toggleClipsMode()">Clips<span class="filter-btn-count" id="count-clips"></span></button>
     <button class="broll-mode-btn" id="broll-mode-btn" onclick="toggleBrollMode()">B-Roll<span class="filter-btn-count" id="count-broll"></span></button>
@@ -2018,9 +2196,11 @@ function drawHeroChart() {{
 function countUp(el, target, duration, prefix, suffix) {{
   const start = performance.now();
   function fmt(n) {{
-    if (n >= 1000000) return prefix + (n/1000000).toFixed(1) + 'M' + suffix;
-    if (n >= 1000)    return prefix + Math.round(n/1000) + 'K' + suffix;
-    return prefix + n.toLocaleString() + suffix;
+    let s;
+    if (n >= 1000000)      s = (n / 1000000).toFixed(n >= 10000000 ? 0 : 1).replace(/\.0$/, '') + 'M';
+    else if (n >= 1000)    s = (n / 1000).toFixed(n >= 100000 ? 0 : 1).replace(/\.0$/, '') + 'K';
+    else                   s = Math.round(n).toString();
+    return prefix + s + suffix;
   }}
   function tick(now) {{
     const t = Math.min((now - start) / duration, 1);
@@ -2039,28 +2219,63 @@ function countUp(el, target, duration, prefix, suffix) {{
     d.toLocaleDateString('en-US', {{month:'short', day:'numeric', year:'numeric'}});
 
   document.getElementById('hero-vanity-row').innerHTML = `
-    <div class="hero-vanity-item">
-      <div class="hero-vanity-num green" id="hv-views">+0</div>
-      <div class="hero-vanity-label">Added Views</div>
+    <div class="hero-stat highlighted">
+      <div class="hero-stat-header">
+        <div class="hero-stat-label">Followers Gained</div>
+        <svg class="hero-stat-icon" viewBox="0 0 24 24" fill="none"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" stroke="#14b8a6" stroke-width="1.8"/><circle cx="9" cy="7" r="4" stroke="#14b8a6" stroke-width="1.8"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75" stroke="#14b8a6" stroke-width="1.8"/></svg>
+      </div>
+      <div class="hero-stat-num" id="hv-followers">0</div>
+      <span class="hero-stat-badge"><span class="hero-stat-badge-arrow">↑</span> Mar 8–16</span>
     </div>
-    <div class="hero-vanity-item">
-      <div class="hero-vanity-num blue" id="hv-likes">+0</div>
-      <div class="hero-vanity-label">Added Likes</div>
+    <div class="hero-stat highlighted">
+      <div class="hero-stat-header">
+        <div class="hero-stat-label">Views Gained</div>
+        <svg class="hero-stat-icon" viewBox="0 0 24 24" fill="none"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" stroke="#22c55e" stroke-width="1.8"/><circle cx="12" cy="12" r="3" stroke="#22c55e" stroke-width="1.8"/></svg>
+      </div>
+      <div class="hero-stat-num" id="hv-views">0</div>
+      <span class="hero-stat-badge"><span class="hero-stat-badge-arrow">↑</span> Mar 8–16</span>
     </div>
-    <div class="hero-vanity-item">
-      <div class="hero-vanity-num teal" id="hv-followers">+100</div>
-      <div class="hero-vanity-label">Added Followers</div>
+    <div class="hero-stat highlighted">
+      <div class="hero-stat-header">
+        <div class="hero-stat-label">Likes Gained</div>
+        <svg class="hero-stat-icon" viewBox="0 0 24 24" fill="none"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" stroke="#6366f1" stroke-width="1.8"/></svg>
+      </div>
+      <div class="hero-stat-num" id="hv-likes">0</div>
+      <span class="hero-stat-badge"><span class="hero-stat-badge-arrow">↑</span> Mar 8–16</span>
     </div>
-    <div class="hero-vanity-item">
-      <div class="hero-vanity-num orange" id="hv-posts">+0</div>
-      <div class="hero-vanity-label">Added Posts</div>
+    <div class="hero-stat">
+      <div class="hero-stat-header">
+        <div class="hero-stat-label">Saves Gained</div>
+        <svg class="hero-stat-icon" viewBox="0 0 24 24" fill="none"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" stroke="#f97316" stroke-width="1.8"/></svg>
+      </div>
+      <div class="hero-stat-num" id="hv-saves">0</div>
+      <span class="hero-stat-badge"><span class="hero-stat-badge-arrow">↑</span> Mar 8–16</span>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-header">
+        <div class="hero-stat-label">Shares Gained</div>
+        <svg class="hero-stat-icon" viewBox="0 0 24 24" fill="none"><circle cx="18" cy="5" r="3" stroke="#a855f7" stroke-width="1.8"/><circle cx="6" cy="12" r="3" stroke="#a855f7" stroke-width="1.8"/><circle cx="18" cy="19" r="3" stroke="#a855f7" stroke-width="1.8"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49" stroke="#a855f7" stroke-width="1.8"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49" stroke="#a855f7" stroke-width="1.8"/></svg>
+      </div>
+      <div class="hero-stat-num" id="hv-shares">0</div>
+      <span class="hero-stat-badge"><span class="hero-stat-badge-arrow">↑</span> Mar 8–16</span>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-header">
+        <div class="hero-stat-label">Watch Hours Gained</div>
+        <svg class="hero-stat-icon" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" stroke="#f43f5e" stroke-width="1.8"/><polyline points="12 6 12 12 16 14" stroke="#f43f5e" stroke-width="1.8"/></svg>
+      </div>
+      <div class="hero-stat-num" id="hv-watchhrs">0</div>
+      <span class="hero-stat-badge"><span class="hero-stat-badge-arrow">↑</span> Mar 8–16</span>
     </div>
   `;
 
   // Staggered count-ups
-  setTimeout(() => countUp(document.getElementById('hv-views'),     35000,  1400, '+', ''), 100);
-  setTimeout(() => countUp(document.getElementById('hv-likes'),      1000,  1200, '+', ''), 250);
-  setTimeout(() => countUp(document.getElementById('hv-posts'),  STATS.total_remixes + STATS.total_rehooks, 1000, '+', ''), 400);
+  setTimeout(() => countUp(document.getElementById('hv-followers'),  STATS.trial_followers, 1000, '+', ''), 100);
+  setTimeout(() => countUp(document.getElementById('hv-views'),      STATS.trial_views,     1400, '+', ''), 200);
+  setTimeout(() => countUp(document.getElementById('hv-likes'),      STATS.trial_likes,     1300, '+', ''), 300);
+  setTimeout(() => countUp(document.getElementById('hv-saves'),      STATS.trial_saves,     1100, '+', ''), 400);
+  setTimeout(() => countUp(document.getElementById('hv-shares'),     STATS.trial_shares,    1200, '+', ''), 500);
+  setTimeout(() => countUp(document.getElementById('hv-watchhrs'),   STATS.trial_watch_hrs,  900, '+', ''), 600);
 
   // Draw chart after DOM settles
   setTimeout(drawHeroChart, 50);

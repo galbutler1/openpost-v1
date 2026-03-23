@@ -139,8 +139,14 @@ def build_remix(
     anchor: Video,
     all_videos: list[Video],
     remix_index: int,
+    global_used_segment_ids: set[str] | None = None,
 ) -> Path | None:
     """Build one remix. Returns None if no b-roll cuts were made."""
+    # global_used_segment_ids tracks segments used ACROSS all remixes so every
+    # remix gets a unique set of b-roll clips — no repeats between videos.
+    if global_used_segment_ids is None:
+        global_used_segment_ids = set()
+
     try:
         beats = detect_beats(anchor.file_path)
     except Exception:
@@ -151,14 +157,13 @@ def build_remix(
         console.print(f"  [yellow]No cutaway windows found.[/yellow]")
         return None
 
-    # Pre-classify topic from the FULL video transcript — much more reliable
-    # than classifying each 2-second body segment in isolation.
     full_text = anchor.full_transcript or " ".join(s.transcript for s in anchor.segments)
     video_topic = classify_topic(full_text)
     console.print(f"  [dim]Video topic: {video_topic or 'none'}[/dim]")
 
     plan_windows: list[tuple] = []
-    used_segment_ids: set[str] = set()
+    # Per-remix sets (source-video variety within one remix)
+    used_segment_ids: set[str] = set(global_used_segment_ids)  # start from global
     used_source_video_ids: set[str] = set()
     last_visual_type: str | None = None
     cut_count = 0
@@ -184,6 +189,7 @@ def build_remix(
         )
         if match is not None:
             used_segment_ids.add(match.segment_id)
+            global_used_segment_ids.add(match.segment_id)  # track globally
             used_source_video_ids.add(match.source_video_id)
             last_visual_type = match.visual_type.value
             cut_count += 1
@@ -241,10 +247,14 @@ def main() -> None:
     median_views = sorted_views[len(sorted_views) // 2]
     console.print(f"Median views across library: [cyan]{median_views:,}[/cyan]")
 
+    # Videos permanently blocked as anchors regardless of any flags
+    BLOCKED_ANCHORS = {"DOJlrzNCWIR", "DOJsbgbCeka"}
+
     # Filter anchors: exclude previously used (unless --reuse-anchors), apply view threshold
     anchor_pool = [
         v for v in all_videos
-        if (args.reuse_anchors or v.video_id not in PREVIOUSLY_USED_ANCHORS)
+        if v.video_id not in BLOCKED_ANCHORS
+        and (args.reuse_anchors or v.video_id not in PREVIOUSLY_USED_ANCHORS)
         and v.performance_score >= args.anchor_min_perf
         and (args.all_views or not args.above_median_views or v.metadata.view_count > median_views)
     ]
@@ -273,11 +283,23 @@ def main() -> None:
         console.print("[red]No eligible anchor candidates found.[/red]")
         sys.exit(1)
 
+    # Auto-create a new batch folder (batch_1, batch_2, … next unused)
+    from config import OUTPUT_DIR
+    existing = sorted(
+        [d for d in OUTPUT_DIR.iterdir() if d.is_dir() and d.name.startswith("batch_")],
+        key=lambda d: int(d.name.split("_")[1]) if d.name.split("_")[1].isdigit() else 0,
+    )
+    next_batch_num = (int(existing[-1].name.split("_")[1]) + 1) if existing else 1
+    batch_dir = OUTPUT_DIR / f"batch_{next_batch_num}"
+    batch_dir.mkdir(parents=True, exist_ok=True)
+    console.print(f"Output folder: [cyan]{batch_dir}[/cyan]\n")
+
     console.print(f"\n[bold]Generating {len(anchors)} remix(es)...[/bold]\n")
 
     output_paths: list[Path] = []
     used_anchors: list[str] = []
     remix_idx = 1
+    global_used_segment_ids: set[str] = set()  # shared across all remixes
 
     for anchor in anchors:
         console.print(
@@ -285,17 +307,20 @@ def main() -> None:
             f"(perf={anchor.performance_score:.1f}, views={anchor.metadata.view_count:,})"
         )
         try:
-            out = build_remix(anchor, all_videos, remix_idx)
+            out = build_remix(anchor, all_videos, remix_idx, global_used_segment_ids)
             if out is not None:
-                output_paths.append(out)
+                # Move into batch folder
+                dest = batch_dir / out.name
+                out.rename(dest)
+                output_paths.append(dest)
                 used_anchors.append(anchor.video_id)
-                console.print(f"  [green]Saved:[/green] {out}")
+                console.print(f"  [green]Saved:[/green] {dest}")
                 remix_idx += 1
         except Exception as exc:
             console.print(f"  [red]Failed: {exc}[/red]")
 
     console.print("\n[bold green]Done![/bold green]")
-    console.print(f"Produced {len(output_paths)} remix(es).")
+    console.print(f"Produced {len(output_paths)} remix(es) → {batch_dir}")
     if output_paths:
         for p in output_paths:
             console.print(f"  {p}")
